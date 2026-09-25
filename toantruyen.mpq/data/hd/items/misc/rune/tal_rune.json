@@ -1,6 +1,10 @@
 ﻿{
   "dependencies": {
-    "particles": [],
+    "particles": [
+      {
+        "path": "data/hd/vfx/particles/overlays/common/valkyriestart/valkriestart_overlay.particles"
+      }
+    ],
     "models": [
       {
         "path": "data/hd/items/misc/rune/tal_rune/tal_rune.model"
@@ -101,6 +105,40 @@
           "floorModel": false,
           "terrainBlendEnableYUpBlend": false,
           "terrainBlendMode": 1
+        }
+      ]
+    },
+    {
+      "type": "Entity",
+      "name": "droplight_white",
+      "id": 9999996974,
+      "components": [
+        {
+          "type": "TransformDefinitionComponent",
+          "name": "component_transform_droplight_white",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "orientation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "inheritOnlyPosition": false
+        },
+        {
+          "type": "VfxDefinitionComponent",
+          "name": "vfx_droplight_white",
+          "filename": "data/hd/vfx/particles/overlays/common/valkyriestart/valkriestart_overlay.particles",
+          "hardKillOnDestroy": false
         }
       ]
     }

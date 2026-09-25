@@ -14,7 +14,7 @@ Bản mod tùy chỉnh dành cho **Diablo II: Resurrected** (hỗ trợ phiên b
 - **Cột sáng Beacon theo Cấp bậc (Tiered Beacons) & Âm thanh rơi đồ**:
   - Cột sáng đánh dấu Waypoint, cửa hầm chuyển map, cầu thang, rương đặc biệt (Special Chests).
   - **Hệ thống Cột sáng Rune theo Cấp bậc (Tier Beacons)**:
-    - *Low Rune (1-15)*: Tắt cột sáng (giữ màn hình sạch sẽ 100% khi cày bãi quái).
+    - *Low Rune (1-15)*: Cột sáng Trắng thanh khiết (Pure White Pillar).
     - *Mid Rune (16-20)*: Cột sáng Xanh Dương Bạc (Cyan Cold Light).
     - *High-Mid Rune (21-25)*: Cột sáng Vàng Kim (Bright Golden Pillar).
     - *High Rune (26-33)*: Cột sáng Thần Thánh (God-Tier Beacons: Vàng kim + Lửa đỏ Fanaticism + Chớp Valkyrie).
