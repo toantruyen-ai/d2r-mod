@@ -2,1727 +2,2072 @@
   {
     "id": 3333,
     "Key": "priceless",
-    "enUS": "Item cannot be traded here."
+    "enUS": "Item cannot be traded here.",
+    "koKR": "Vật phẩm không thể giao dịch tại đây."
   },
   {
     "id": 3453,
     "Key": "Socketable",
-    "enUS": "ÿc8Socketed (%i)ÿc3"
+    "enUS": "ÿc8Socketed (%i)ÿc3",
+    "koKR": "ÿc8Đục Lỗ (%i)ÿc3"
   },
   {
     "id": 3454,
     "Key": "ItemStats1a",
-    "enUS": "Requirements not met"
+    "enUS": "Requirements not met",
+    "koKR": "Không đủ yêu cầu trang bị"
   },
   {
     "id": 3455,
     "Key": "ItemStats1b",
-    "enUS": "Unidentified"
+    "enUS": "Unidentified",
+    "koKR": "Chưa giám định"
   },
   {
     "id": 3456,
     "Key": "ItemStats1c",
-    "enUS": "Charges:"
+    "enUS": "Charges:",
+    "koKR": "Số lần dùng:"
   },
   {
     "id": 3457,
     "Key": "ItemStats1d",
-    "enUS": "ↂDurability: %i of %i"
+    "enUS": "ↂDurability: %i of %i",
+    "koKR": "ↂĐộ Bền: %i/%i"
   },
   {
     "id": 3458,
     "Key": "ItemStats1e",
-    "enUS": "ÿc1ↀRequired Strength: %dÿc3"
+    "enUS": "ÿc1ↀRequired Strength: %dÿc3",
+    "koKR": "ÿc1ↀYêu Cầu Sức Mạnh (STR): %dÿc3"
   },
   {
     "id": 3459,
     "Key": "ItemStats1f",
-    "enUS": "ÿc1ↀRequired Dexterity: %dÿc3"
+    "enUS": "ÿc1ↀRequired Dexterity: %dÿc3",
+    "koKR": "ÿc1ↀYêu Cầu Khéo Léo (DEX): %dÿc3"
   },
   {
     "id": 3460,
     "Key": "ItemStats1g",
-    "enUS": "Damage:"
+    "enUS": "Damage:",
+    "koKR": "Sát Thương:"
   },
   {
     "id": 3461,
     "Key": "ItemStats1h",
-    "enUS": "Defense: %d"
+    "enUS": "Defense: %d",
+    "koKR": "Phòng Thủ (DEF): %d"
   },
   {
     "id": 3462,
     "Key": "ItemStats1i",
-    "enUS": "Quantity: %d"
+    "enUS": "Quantity: %d",
+    "koKR": "Số Lượng: %d"
   },
   {
     "id": 3463,
     "Key": "ItemStats1j",
-    "enUS": "of"
+    "enUS": "of",
+    "koKR": "của"
   },
   {
     "id": 3464,
     "Key": "ItemStast1k",
-    "enUS": "to"
+    "enUS": "to",
+    "koKR": "đến"
   },
   {
     "id": 3465,
     "Key": "ItemStats1l",
-    "enUS": "One-Hand Damage: %d to %d"
+    "enUS": "One-Hand Damage: %d to %d",
+    "koKR": "Sát Thương Một Tay: %d đến %d"
   },
   {
     "id": 3466,
     "Key": "ItemStats1m",
-    "enUS": "Two-Hand Damage: %d to %d"
+    "enUS": "Two-Hand Damage: %d to %d",
+    "koKR": "Sát Thương Hai Tay: %d đến %d"
   },
   {
     "id": 3467,
     "Key": "ItemStats1n",
-    "enUS": "Throw Damage: %d"
+    "enUS": "Throw Damage: %d",
+    "koKR": "Sát Thương Ném: %d"
   },
   {
     "id": 3468,
     "Key": "ItemStats1o",
-    "enUS": "Smite Damage: %d to %d"
+    "enUS": "Smite Damage: %d to %d",
+    "koKR": "Sát Thương Khiên (Smite): %d đến %d"
   },
   {
     "id": 3469,
     "Key": "ItemStats1p",
-    "enUS": "ↀRequired Level: %d"
+    "enUS": "ↀRequired Level: %d",
+    "koKR": "ↀYêu Cầu Cấp Độ: %d"
   },
   {
     "id": 3470,
     "Key": "ItemStats1q",
-    "enUS": "Points: %d"
+    "enUS": "Points: %d",
+    "koKR": "Điểm: %d"
   },
   {
     "id": 3471,
     "Key": "ItemStatsrejuv1",
-    "enUS": "ÿc1↜Heals %d%% Life and Manaÿc3"
+    "enUS": "ÿc1↜Heals %d%% Life and Manaÿc3",
+    "koKR": "ÿc1↜Hồi %d%% Máu và Manaÿc3"
   },
   {
     "id": 3472,
     "Key": "ItemStatsrejuv2",
-    "enUS": "ÿc1↜Heals 100% Life and Manaÿc3"
+    "enUS": "ÿc1↜Heals 100% Life and Manaÿc3",
+    "koKR": "ÿc1↜Hồi 100% Máu và Manaÿc3"
   },
   {
     "id": 3473,
     "Key": "ModStr1a",
-    "enUS": "ÿc1↝%+d to Strengthÿc3"
+    "enUS": "ÿc1↝%+d to Strengthÿc3",
+    "koKR": "ÿc1↝%+d Sức Mạnh (STR)ÿc3"
   },
   {
     "id": 3474,
     "Key": "ModStr1b",
-    "enUS": "ÿc2↗%+d to Dexterityÿc3"
+    "enUS": "ÿc2↗%+d to Dexterityÿc3",
+    "koKR": "ÿc2↗%+d Khéo Léo (DEX)ÿc3"
   },
   {
     "id": 3475,
     "Key": "ModStr1c",
-    "enUS": "ÿc1↘%+d to Vitalityÿc3"
+    "enUS": "ÿc1↘%+d to Vitalityÿc3",
+    "koKR": "ÿc1↘%+d Thể Lực (VIT)ÿc3"
   },
   {
     "id": 3476,
     "Key": "ModStr1d",
-    "enUS": "↞%+d to Energy"
+    "enUS": "↞%+d to Energy",
+    "koKR": "↞%+d Năng Lượng (Energy)"
   },
   {
     "id": 3477,
     "Key": "ModStr1e",
-    "enUS": "↙%+d to Mana"
+    "enUS": "↙%+d to Mana",
+    "koKR": "↙%+d Năng Lượng (Mana)"
   },
   {
     "id": 3478,
     "Key": "ModStr1f",
-    "enUS": "ↁ%+d to Maximum Damage"
+    "enUS": "ↁ%+d to Maximum Damage",
+    "koKR": "ↁ%+d Sát Thương Tối Đa"
   },
   {
     "id": 3479,
     "Key": "ModStr1g",
-    "enUS": "ↁ%+d to Minimum Damage"
+    "enUS": "ↁ%+d to Minimum Damage",
+    "koKR": "ↁ%+d Sát Thương Tối Thiểu"
   },
   {
     "id": 3480,
     "Key": "ModStr1h",
-    "enUS": "↚%+d to Attack Rating"
+    "enUS": "↚%+d to Attack Rating",
+    "koKR": "↚%+d Điểm Tấn Công (AR)"
   },
   {
     "id": 3481,
     "Key": "ModStr1i",
-    "enUS": "ÿc;%+d Defenseÿc3"
+    "enUS": "ÿc;%+d Defenseÿc3",
+    "koKR": "ÿc;%+d Phòng Thủ (DEF)ÿc3"
   },
   {
     "id": 3482,
     "Key": "ModStr1j",
-    "enUS": "ÿc1ↄFire Resist %+d%%ÿc3"
+    "enUS": "ÿc1ↄFire Resist %+d%%ÿc3",
+    "koKR": "ÿc1ↄKháng Lửa (Fire Res) %+d%%ÿc3"
   },
   {
     "id": 3483,
     "Key": "ModStr1k",
-    "enUS": "ÿcNↃCold Resist %+d%%ÿc3"
+    "enUS": "ÿcNↃCold Resist %+d%%ÿc3",
+    "koKR": "ÿcNↃKháng Băng (Cold Res) %+d%%ÿc3"
   },
   {
     "id": 3484,
     "Key": "ModStr1l",
-    "enUS": "ÿc9ↆLightning Resist %+d%%ÿc3"
+    "enUS": "ÿc9ↆLightning Resist %+d%%ÿc3",
+    "koKR": "ÿc9ↆKháng Sét (Light Res) %+d%%ÿc3"
   },
   {
     "id": 3485,
     "Key": "ModStr1m",
-    "enUS": "ÿc9ↈMagic Resist %+d%%"
+    "enUS": "ÿc9ↈMagic Resist %+d%%",
+    "koKR": "ÿc9ↈKháng Phép (Magic Res) %+d%%"
   },
   {
     "id": 3486,
     "Key": "ModStr1n",
-    "enUS": "ÿc2ↅPoison Resist %+d%%ÿc3"
+    "enUS": "ÿc2ↅPoison Resist %+d%%ÿc3",
+    "koKR": "ÿc2ↅKháng Độc (Poison Res) %+d%%ÿc3"
   },
   {
     "id": 3487,
     "Key": "ModStr1o",
-    "enUS": "ÿc1↋%+d to Maximum Fire Damageÿc3"
+    "enUS": "ÿc1↋%+d to Maximum Fire Damageÿc3",
+    "koKR": "ÿc1↋%+d Sát Thương Lửa Tối Đaÿc3"
   },
   {
     "id": 3488,
     "Key": "ModStr1p",
-    "enUS": "ÿc1↋%+d to Minimum Fire Damageÿc3"
+    "enUS": "ÿc1↋%+d to Minimum Fire Damageÿc3",
+    "koKR": "ÿc1↋%+d Sát Thương Lửa Tối Thiểuÿc3"
   },
   {
     "id": 3489,
     "Key": "ModStr1q",
-    "enUS": "ÿc9↌%+d to Maximum Lightning Damageÿc3"
+    "enUS": "ÿc9↌%+d to Maximum Lightning Damageÿc3",
+    "koKR": "ÿc9↌%+d Sát Thương Sét Tối Đaÿc3"
   },
   {
     "id": 3490,
     "Key": "ModStr1r",
-    "enUS": "ÿc9↌%+d to Minimum Lightning Damageÿc3"
+    "enUS": "ÿc9↌%+d to Minimum Lightning Damageÿc3",
+    "koKR": "ÿc9↌%+d Sát Thương Sét Tối Thiểuÿc3"
   },
   {
     "id": 3491,
     "Key": "ModStr1s",
-    "enUS": "ÿcN↊%+d to Maximum Cold Damageÿc3"
+    "enUS": "ÿcN↊%+d to Maximum Cold Damageÿc3",
+    "koKR": "ÿcN↊%+d Sát Thương Băng Tối Đaÿc3"
   },
   {
     "id": 3492,
     "Key": "ModStr1t",
-    "enUS": "ÿcN↊%+d to Minimum Cold Damageÿc3"
+    "enUS": "ÿcN↊%+d to Minimum Cold Damageÿc3",
+    "koKR": "ÿcN↊%+d Sát Thương Băng Tối Thiểuÿc3"
   },
   {
     "id": 3493,
     "Key": "ModStr1u",
-    "enUS": "ÿc1↘%+d to Lifeÿc3"
+    "enUS": "ÿc1↘%+d to Lifeÿc3",
+    "koKR": "ÿc1↘%+d Máu (Life)ÿc3"
   },
   {
     "id": 3494,
     "Key": "ModStr1v",
-    "enUS": "Attacker Takes Damage of %d"
+    "enUS": "Attacker Takes Damage of %d",
+    "koKR": "Phản Sát Thương %d"
   },
   {
     "id": 3497,
     "Key": "ModStr1y",
-    "enUS": "Knockback"
+    "enUS": "Knockback",
+    "koKR": "Đẩy Lùi (Knockback)"
   },
   {
     "id": 3498,
     "Key": "ModStr1z",
-    "enUS": "Elixir of Strength"
+    "enUS": "Elixir of Strength",
+    "koKR": "Dược Phẩm Sức Mạnh"
   },
   {
     "id": 3499,
     "Key": "ModStr2a",
-    "enUS": "Elixir of Dexterity"
+    "enUS": "Elixir of Dexterity",
+    "koKR": "Dược Phẩm Khéo Léo"
   },
   {
     "id": 3500,
     "Key": "ModStr2b",
-    "enUS": "Elixir of Energy"
+    "enUS": "Elixir of Energy",
+    "koKR": "Dược Phẩm Năng Lượng"
   },
   {
     "id": 3501,
     "Key": "ModStr2c",
-    "enUS": "Elixir of Vitality"
+    "enUS": "Elixir of Vitality",
+    "koKR": "Dược Phẩm Thể Lực"
   },
   {
     "id": 3502,
     "Key": "ModStr2d",
-    "enUS": "Elixir of Mana"
+    "enUS": "Elixir of Mana",
+    "koKR": "Dược Phẩm Mana"
   },
   {
     "id": 3503,
     "Key": "ModStr2e",
-    "enUS": "Elixir of Life"
+    "enUS": "Elixir of Life",
+    "koKR": "Dược Phẩm Máu"
   },
   {
     "id": 3504,
     "Key": "ModStr2f",
-    "enUS": "Sec. Duration"
+    "enUS": "Sec. Duration",
+    "koKR": "Giây Hiệu Lực"
   },
   {
     "id": 3505,
     "Key": "ModStr2g",
-    "enUS": "ÿc1↠Increase Maximum Life %d%%ÿc3"
+    "enUS": "ÿc1↠Increase Maximum Life %d%%ÿc3",
+    "koKR": "ÿc1↠Tăng Máu Tối Đa %d%%ÿc3"
   },
   {
     "id": 3506,
     "Key": "ModStr2h",
-    "enUS": "ÿcN↟Increase Maximum Mana %d%%ÿc3"
+    "enUS": "ÿcN↟Increase Maximum Mana %d%%ÿc3",
+    "koKR": "ÿcN↟Tăng Mana Tối Đa %d%%ÿc3"
   },
   {
     "id": 3507,
     "Key": "ModStr2i",
-    "enUS": "Increase Maximum Durability %d%%"
+    "enUS": "Increase Maximum Durability %d%%",
+    "koKR": "Tăng Độ Bền Tối Đa %d%%"
   },
   {
     "id": 3508,
     "Key": "ModStr2j",
-    "enUS": "ÿc;ↁ%+d%% Enhanced Maximum Damageÿc3"
+    "enUS": "ÿc;ↁ%+d%% Enhanced Maximum Damageÿc3",
+    "koKR": "ÿc;ↁ%+d%% Sát Thương Tối Đa Gia Tăngÿc3"
   },
   {
     "id": 3509,
     "Key": "ModStr2k",
-    "enUS": "ÿc;ↁ%+d%% Enhanced Minimum Damageÿc3"
+    "enUS": "ÿc;ↁ%+d%% Enhanced Minimum Damageÿc3",
+    "koKR": "ÿc;ↁ%+d%% Sát Thương Tối Thiểu Gia Tăngÿc3"
   },
   {
     "id": 3510,
     "Key": "ModStr2l",
-    "enUS": "ÿc2↘Replenish Life %+dÿc3"
+    "enUS": "ÿc2↘Replenish Life %+dÿc3",
+    "koKR": "ÿc2↘Hồi Phục Máu %+dÿc3"
   },
   {
     "id": 3511,
     "Key": "ModStr2m",
-    "enUS": "ÿcN↙Replenish Manaÿc3"
+    "enUS": "ÿcN↙Replenish Manaÿc3",
+    "koKR": "ÿcN↙Hồi Phục Manaÿc3"
   },
   {
     "id": 3512,
     "Key": "ModStr2n",
-    "enUS": "Heal 1/4 Life"
+    "enUS": "Heal 1/4 Life",
+    "koKR": "Hồi 1/4 Máu"
   },
   {
     "id": 3513,
     "Key": "ModStr2o",
-    "enUS": "Heal 1/2 Life"
+    "enUS": "Heal 1/2 Life",
+    "koKR": "Hồi 1/2 Máu"
   },
   {
     "id": 3514,
     "Key": "ModStr2p",
-    "enUS": "Restore Full Life"
+    "enUS": "Restore Full Life",
+    "koKR": "Hồi Đầy Máu"
   },
   {
     "id": 3515,
     "Key": "ModStr2q",
-    "enUS": "Replenish 1/4 Mana"
+    "enUS": "Replenish 1/4 Mana",
+    "koKR": "Hồi 1/4 Mana"
   },
   {
     "id": 3516,
     "Key": "ModStr2r",
-    "enUS": "Replenish 1/2 Life"
+    "enUS": "Replenish 1/2 Life",
+    "koKR": "Hồi 1/2 Máu"
   },
   {
     "id": 3517,
     "Key": "ModStr2s",
-    "enUS": "Restore Full Mana"
+    "enUS": "Restore Full Mana",
+    "koKR": "Hồi Đầy Mana"
   },
   {
     "id": 3518,
     "Key": "ModStr2t",
-    "enUS": "ÿc9Magic Damage Reduced by %dÿc3"
+    "enUS": "ÿc9Magic Damage Reduced by %dÿc3",
+    "koKR": "ÿc9Giảm Sát Thương Phép Đi %d (MDR)ÿc3"
   },
   {
     "id": 3519,
     "Key": "ModStr2u",
-    "enUS": "Damage Reduced by %d"
+    "enUS": "Damage Reduced by %d",
+    "koKR": "Giảm Sát Thương Đi %d (DR)"
   },
   {
     "id": 3520,
     "Key": "Modstr2v",
-    "enUS": "ÿc;↉%+d%% Enhanced Defenseÿc3"
+    "enUS": "ÿc;↉%+d%% Enhanced Defenseÿc3",
+    "koKR": "ÿc;↉%+d%% Phòng Thủ Gia Tăng (EDef)ÿc3"
   },
   {
     "id": 3521,
     "Key": "ModStr2w",
-    "enUS": "Drain Life %d"
+    "enUS": "Drain Life %d",
+    "koKR": "Mất Máu %d"
   },
   {
     "id": 3522,
     "Key": "ModStr2x",
-    "enUS": "Drain Mana"
+    "enUS": "Drain Mana",
+    "koKR": "Mất Mana"
   },
   {
     "id": 3523,
     "Key": "ModStr2y",
-    "enUS": "ÿcN↜%d%% Mana stolen per hitÿc3"
+    "enUS": "ÿcN↜%d%% Mana stolen per hitÿc3",
+    "koKR": "ÿcN↜Hút %d%% Mana Mỗi Đòn Đánh (ML)ÿc3"
   },
   {
     "id": 3524,
     "Key": "ModStr2z",
-    "enUS": "ÿc1↜%d%% Life stolen per hitÿc3"
+    "enUS": "ÿc1↜%d%% Life stolen per hitÿc3",
+    "koKR": "ÿc1↜Hút %d%% Máu Mỗi Đòn Đánh (LL)ÿc3"
   },
   {
     "id": 3525,
     "Key": "ModStr3a",
-    "enUS": "ÿc8%+d to Amazon Skill Levelsÿc3"
+    "enUS": "ÿc8%+d to Amazon Skill Levelsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Amazonÿc3"
   },
   {
     "id": 3526,
     "Key": "ModStr3b",
-    "enUS": "ÿc8%+d to Paladin Skill Levelsÿc3"
+    "enUS": "ÿc8%+d to Paladin Skill Levelsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Paladinÿc3"
   },
   {
     "id": 3527,
     "Key": "ModStr3c",
-    "enUS": "ÿc8%+d to Necromancer Skill Levelsÿc3"
+    "enUS": "ÿc8%+d to Necromancer Skill Levelsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Necromancerÿc3"
   },
   {
     "id": 3528,
     "Key": "ModStr3d",
-    "enUS": "ÿc8%+d to Sorceress Skill Levelsÿc3"
+    "enUS": "ÿc8%+d to Sorceress Skill Levelsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Sorceressÿc3"
   },
   {
     "id": 3529,
     "Key": "ModStr3e",
-    "enUS": "ÿc8%+d to Barbarian Skill Levelsÿc3"
+    "enUS": "ÿc8%+d to Barbarian Skill Levelsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Barbarianÿc3"
   },
   {
     "id": 3530,
     "Key": "ModStr3f",
-    "enUS": "%+d to Light Radius"
+    "enUS": "%+d to Light Radius",
+    "koKR": "%+d Tầm Nhìn Sáng (Light Radius)"
   },
   {
     "id": 3531,
     "Key": "ModStr3g",
-    "enUS": "ÿc8%d%% Increased Chance of Blockingÿc3"
+    "enUS": "ÿc8%d%% Increased Chance of Blockingÿc3",
+    "koKR": "ÿc8Tăng %d%% Tỉ Lệ Đỡ Đòn (Block)ÿc3"
   },
   {
     "id": 3532,
     "Key": "ModStr3h",
-    "enUS": "ÿc1Requirements %+d%%ÿc3"
+    "enUS": "ÿc1Requirements %+d%%ÿc3",
+    "koKR": "ÿc1Yêu Cầu Trang Bị %+d%%ÿc3"
   },
   {
     "id": 3533,
     "Key": "ModStr3i",
-    "enUS": "ÿc1↋%+d to Fire Skillsÿc3"
+    "enUS": "ÿc1↋%+d to Fire Skillsÿc3",
+    "koKR": "ÿc1↋%+d Kỹ Năng Lửa (Fire Skills)ÿc3"
   },
   {
     "id": 3534,
     "Key": "ModStr3j",
-    "enUS": "Attacker Takes Lightning Damage of %d"
+    "enUS": "Attacker Takes Lightning Damage of %d",
+    "koKR": "Phản Sát Thương Sét %d"
   },
   {
     "id": 3535,
     "Key": "ModStr3k",
-    "enUS": "ÿc8%+d to All Skillsÿc3"
+    "enUS": "ÿc8%+d to All Skillsÿc3",
+    "koKR": "ÿc8%+d Tất Cả Kỹ Năng (+All Skills)ÿc3"
   },
   {
     "id": 3536,
     "Key": "ModStr3l",
-    "enUS": "Freezes target"
+    "enUS": "Freezes target",
+    "koKR": "Đóng Băng Mục Tiêu (Freezes Target)"
   },
   {
     "id": 3537,
     "Key": "ModStr3m",
-    "enUS": "%d%% Chance of Open Wounds"
+    "enUS": "%d%% Chance of Open Wounds",
+    "koKR": "%d%% Cơ Hội Gây Vết Thương Hở (OW)"
   },
   {
     "id": 3538,
     "Key": "ModStr3n",
-    "enUS": "Invisibility"
+    "enUS": "Invisibility",
+    "koKR": "Tàng Hình"
   },
   {
     "id": 3539,
     "Key": "ModStr3o",
-    "enUS": "Neutral Invisibility"
+    "enUS": "Neutral Invisibility",
+    "koKR": "Tàng Hình Trung Tính"
   },
   {
     "id": 3540,
     "Key": "ModStr3p",
-    "enUS": "No Mana Healing"
+    "enUS": "No Mana Healing",
+    "koKR": "Không Thể Hồi Mana"
   },
   {
     "id": 3541,
     "Key": "ModStr3q",
-    "enUS": "No Life Healing"
+    "enUS": "No Life Healing",
+    "koKR": "Không Thể Hồi Máu"
   },
   {
     "id": 3542,
     "Key": "ModStr3r",
-    "enUS": "Poison Length Reduced by %d%%"
+    "enUS": "Poison Length Reduced by %d%%",
+    "koKR": "Giảm Thời Gian Nhiễm Độc %d%% (PLR)"
   },
   {
     "id": 3544,
     "Key": "ModStr3v",
-    "enUS": "Heal Stamina Plus %d%%"
+    "enUS": "Heal Stamina Plus %d%%",
+    "koKR": "Tăng Tốc Độ Hồi Thể Lực %+d%%"
   },
   {
     "id": 3545,
     "Key": "ModStr3w",
-    "enUS": "%d%% Damage Taken Goes To Mana"
+    "enUS": "%d%% Damage Taken Goes To Mana",
+    "koKR": "%d%% Sát Thương Nhận Vào Chuyển Sang Mana (DTM)"
   },
   {
     "id": 3546,
     "Key": "ModStr3x",
-    "enUS": "Heal Life Plus"
+    "enUS": "Heal Life Plus",
+    "koKR": "Tăng Hồi Máu"
   },
   {
     "id": 3547,
     "Key": "ModStr3y",
-    "enUS": "Ignore Target's Defense"
+    "enUS": "Ignore Target's Defense",
+    "koKR": "Bỏ Qua Phòng Thủ Mục Tiêu (ITD)"
   },
   {
     "id": 3548,
     "Key": "ModStr3z",
-    "enUS": "Half Poison Duration"
+    "enUS": "Half Poison Duration",
+    "koKR": "Giảm 50% Thời Gian Nhiễm Độc"
   },
   {
     "id": 3549,
     "Key": "ModStr4a",
-    "enUS": "Prevent Monster Heal"
+    "enUS": "Prevent Monster Heal",
+    "koKR": "Ngăn Quái Vật Tự Hồi Máu (PMH)"
   },
   {
     "id": 3550,
     "Key": "ModStr4b",
-    "enUS": "Half Freeze Duration"
+    "enUS": "Half Freeze Duration",
+    "koKR": "Giảm 50% Thời Gian Đóng Băng (HFD)"
   },
   {
     "id": 3552,
     "Key": "ModStr4d",
-    "enUS": "%d to Monster Defense Per Hit"
+    "enUS": "%d to Monster Defense Per Hit",
+    "koKR": "%d Phòng Thủ Quái Mỗi Đòn Đánh"
   },
   {
     "id": 3553,
     "Key": "ModStr4e",
-    "enUS": "ÿc1ↁ↑%+d%% Damage to Demonsÿc3"
+    "enUS": "ÿc1ↁ↑%+d%% Damage to Demonsÿc3",
+    "koKR": "ÿc1ↁ↑%+d%% Sát Thương Lên Quỷ (Demons)ÿc3"
   },
   {
     "id": 3554,
     "Key": "ModStr4f",
-    "enUS": "ÿcNↁ←%+d%% Damage to Undeadÿc3"
+    "enUS": "ÿcNↁ←%+d%% Damage to Undeadÿc3",
+    "koKR": "ÿcNↁ←%+d%% Sát Thương Lên Xác Sống (Undead)ÿc3"
   },
   {
     "id": 3555,
     "Key": "ModStr4g",
-    "enUS": "ÿcN↙Regenerate Mana %d%%ÿc3"
+    "enUS": "ÿcN↙Regenerate Mana %d%%ÿc3",
+    "koKR": "ÿcN↙Tốc Độ Hồi Mana %d%%ÿc3"
   },
   {
     "id": 3556,
     "Key": "ModStr4h",
-    "enUS": "ÿc2↡%+d to Maximum Poison Damageÿc3"
+    "enUS": "ÿc2↡%+d to Maximum Poison Damageÿc3",
+    "koKR": "ÿc2↡%+d Sát Thương Độc Tối Đaÿc3"
   },
   {
     "id": 3557,
     "Key": "ModStr4i",
-    "enUS": "ÿc2↡%+d to Minimum Poison Damageÿc3"
+    "enUS": "ÿc2↡%+d to Minimum Poison Damageÿc3",
+    "koKR": "ÿc2↡%+d Sát Thương Độc Tối Thiểuÿc3"
   },
   {
     "id": 3558,
     "Key": "ModStr4j",
-    "enUS": "↚↑%+d to Attack Rating against Demons"
+    "enUS": "↚↑%+d to Attack Rating against Demons",
+    "koKR": "↚↑%+d Điểm Tấn Công (AR) Lên Quỷ"
   },
   {
     "id": 3559,
     "Key": "ModStr4k",
-    "enUS": "↚←%+d to Attack Rating against Undead"
+    "enUS": "↚←%+d to Attack Rating against Undead",
+    "koKR": "↚←%+d Điểm Tấn Công (AR) Lên Xác Sống"
   },
   {
     "id": 3560,
     "Key": "ModStr4l",
-    "enUS": "Slightly Increased Attack Speed"
+    "enUS": "Slightly Increased Attack Speed",
+    "koKR": "Tăng Nhẹ Tốc Độ Đánh"
   },
   {
     "id": 3561,
     "Key": "ModStr4m",
-    "enUS": "ÿc8↛%+d%% Increased Attack Speedÿc3"
+    "enUS": "ÿc8↛%+d%% Increased Attack Speedÿc3",
+    "koKR": "ÿc8↛%+d%% Tốc Độ Đánh (IAS)ÿc3"
   },
   {
     "id": 3562,
     "Key": "ModStr4n",
-    "enUS": "Greatly Increased Attack Speed"
+    "enUS": "Greatly Increased Attack Speed",
+    "koKR": "Tăng Mạnh Tốc Độ Đánh"
   },
   {
     "id": 3563,
     "Key": "ModStr4o",
-    "enUS": "Fast Hit Recovery"
+    "enUS": "Fast Hit Recovery",
+    "koKR": "Hồi Đòn Nhanh"
   },
   {
     "id": 3564,
     "Key": "ModStr4p",
-    "enUS": "%+d%% Faster Hit Recovery"
+    "enUS": "%+d%% Faster Hit Recovery",
+    "koKR": "ÿc8%+d%% Phục Hồi Đòn Đánh Nhanh (FHR)ÿc3"
   },
   {
     "id": 3565,
     "Key": "ModStr4q",
-    "enUS": "Fastest Hit Recovery"
+    "enUS": "Fastest Hit Recovery",
+    "koKR": "Hồi Đòn Rất Nhanh"
   },
   {
     "id": 3566,
     "Key": "ModStr4r",
-    "enUS": "↕Fast Run/Walk"
+    "enUS": "↕Fast Run/Walk",
+    "koKR": "↕Chạy/Đi Bộ Nhanh"
   },
   {
     "id": 3567,
     "Key": "ModStr4s",
-    "enUS": "ÿc8↕%+d%% Faster Run/Walkÿc3"
+    "enUS": "ÿc8↕%+d%% Faster Run/Walkÿc3",
+    "koKR": "ÿc8↕%+d%% Tốc Độ Chạy/Đi Bộ (FRW)ÿc3"
   },
   {
     "id": 3568,
     "Key": "ModStr4t",
-    "enUS": "↕Fastest Run/Walk"
+    "enUS": "↕Fastest Run/Walk",
+    "koKR": "↕Chạy/Đi Bộ Rất Nhanh"
   },
   {
     "id": 3569,
     "Key": "ModStr4u",
-    "enUS": "Fast Cast Rate"
+    "enUS": "Fast Cast Rate",
+    "koKR": "Niệm Phép Nhanh"
   },
   {
     "id": 3570,
     "Key": "ModStr4v",
-    "enUS": "ÿc8%+d%% Faster Cast Rateÿc3"
+    "enUS": "ÿc8%+d%% Faster Cast Rateÿc3",
+    "koKR": "ÿc8%+d%% Tốc Độ Niệm Phép Nhanh (FCR)ÿc3"
   },
   {
     "id": 3571,
     "Key": "ModStr4w",
-    "enUS": "Fastest Cast Rate"
+    "enUS": "Fastest Cast Rate",
+    "koKR": "Niệm Phép Rất Nhanh"
   },
   {
     "id": 3572,
     "Key": "ModStr4x",
-    "enUS": "Fast Block Rate"
+    "enUS": "Fast Block Rate",
+    "koKR": "Đỡ Đòn Nhanh"
   },
   {
     "id": 3573,
     "Key": "ModStr4y",
-    "enUS": "ÿc8%+d%% Faster Block Rateÿc3"
+    "enUS": "ÿc8%+d%% Faster Block Rateÿc3",
+    "koKR": "ÿc8%+d%% Tốc Độ Đỡ Khiên Nhanh (FBR)ÿc3"
   },
   {
     "id": 3574,
     "Key": "ModStr4z",
-    "enUS": "Fastest Block Rate"
+    "enUS": "Fastest Block Rate",
+    "koKR": "Đỡ Đòn Rất Nhanh"
   },
   {
     "id": 3575,
     "Key": "ModStr5a",
-    "enUS": "Throwable"
+    "enUS": "Throwable",
+    "koKR": "Có Thể Ném"
   },
   {
     "id": 3576,
     "Key": "ModStr5b",
-    "enUS": "Damage %+d"
+    "enUS": "Damage %+d",
+    "koKR": "Sát Thương %+d"
   },
   {
     "id": 3577,
     "Key": "ModStr5c",
-    "enUS": "%d%% Chance of Crushing Blow"
+    "enUS": "%d%% Chance of Crushing Blow",
+    "koKR": "ÿc8%d%% Đòn Đánh Nghiền Nát (Crushing Blow)ÿc3"
   },
   {
     "id": 3579,
     "Key": "ModStr5e",
-    "enUS": "%+d Kick Damage"
+    "enUS": "%+d Kick Damage",
+    "koKR": "%+d Sát Thương Đá (Kick Damage)"
   },
   {
     "id": 3580,
     "Key": "ModStr5f",
-    "enUS": "%+d to Mana after each Kill"
+    "enUS": "%+d to Mana after each Kill",
+    "koKR": "ÿcN%+d Mana Sau Mỗi Mạng Hạ Gục (MAEK)ÿc3"
   },
   {
     "id": 3581,
     "Key": "ModStr5g",
-    "enUS": "Fire Absorb %d%%"
+    "enUS": "Fire Absorb %d%%",
+    "koKR": "Hấp Thụ Sát Thương Lửa %d%%"
   },
   {
     "id": 3582,
     "Key": "ModStr5h",
-    "enUS": "%+d Fire Absorb"
+    "enUS": "%+d Fire Absorb",
+    "koKR": "%+d Hấp Thụ Sát Thương Lửa"
   },
   {
     "id": 3583,
     "Key": "ModStr5i",
-    "enUS": "Lightning Absorb %d%%"
+    "enUS": "Lightning Absorb %d%%",
+    "koKR": "Hấp Thụ Sát Thương Sét %d%%"
   },
   {
     "id": 3584,
     "Key": "ModStr5j",
-    "enUS": "%+d Lightning Absorb"
+    "enUS": "%+d Lightning Absorb",
+    "koKR": "%+d Hấp Thụ Sát Thương Sét"
   },
   {
     "id": 3585,
     "Key": "ModStr5k",
-    "enUS": "Magic Absorb %d%%"
+    "enUS": "Magic Absorb %d%%",
+    "koKR": "Hấp Thụ Sát Thương Phép %d%%"
   },
   {
     "id": 3586,
     "Key": "ModStr5l",
-    "enUS": "%+d Magic Absorb"
+    "enUS": "%+d Magic Absorb",
+    "koKR": "%+d Hấp Thụ Sát Thương Phép"
   },
   {
     "id": 3587,
     "Key": "ModStr5m",
-    "enUS": "Cold Absorb %d%%"
+    "enUS": "Cold Absorb %d%%",
+    "koKR": "Hấp Thụ Sát Thương Băng %d%%"
   },
   {
     "id": 3588,
     "Key": "ModStr5n",
-    "enUS": "%+d Cold Absorb"
+    "enUS": "%+d Cold Absorb",
+    "koKR": "%+d Hấp Thụ Sát Thương Băng"
   },
   {
     "id": 3589,
     "Key": "ModStr5o",
-    "enUS": "-%d%% Target Defense"
+    "enUS": "-%d%% Target Defense",
+    "koKR": "-%d%% Phòng Thủ Mục Tiêu"
   },
   {
     "id": 3590,
     "Key": "ModStr5p",
-    "enUS": "Extra Bloody"
+    "enUS": "Extra Bloody",
+    "koKR": "Cực Đẫm Máu"
   },
   {
     "id": 3591,
     "Key": "ModStr5q",
-    "enUS": "%d%% Deadly Strike"
+    "enUS": "%d%% Deadly Strike",
+    "koKR": "ÿc8%d%% Đòn Đánh Chí Mạng (Deadly Strike)ÿc3"
   },
   {
     "id": 3593,
     "Key": "ModStr5s",
-    "enUS": "Blessed Aim"
+    "enUS": "Blessed Aim",
+    "koKR": "Blessed Aim"
   },
   {
     "id": 3594,
     "Key": "ModStr5t",
-    "enUS": "Defiance"
+    "enUS": "Defiance",
+    "koKR": "Defiance"
   },
   {
     "id": 3595,
     "Key": "ModStr5u",
-    "enUS": "ÿc1ↄ%+d%% to Maximum Fire Resistÿc3"
+    "enUS": "ÿc1ↄ%+d%% to Maximum Fire Resistÿc3",
+    "koKR": "ÿc1ↄ%+d%% Kháng Lửa Tối Đaÿc3"
   },
   {
     "id": 3596,
     "Key": "ModStr5v",
-    "enUS": "ÿcNↃ%+d%% to Maximum Cold Resistÿc3"
+    "enUS": "ÿcNↃ%+d%% to Maximum Cold Resistÿc3",
+    "koKR": "ÿcNↃ%+d%% Kháng Băng Tối Đaÿc3"
   },
   {
     "id": 3597,
     "Key": "ModStr5w",
-    "enUS": "ÿc9ↆ%+d%% to Maximum Lightning Resistÿc3"
+    "enUS": "ÿc9ↆ%+d%% to Maximum Lightning Resistÿc3",
+    "koKR": "ÿc9ↆ%+d%% Kháng Sét Tối Đaÿc3"
   },
   {
     "id": 3598,
     "Key": "ModStr5x",
-    "enUS": "ÿc9ↈ%+d%% to Maximum Magic Resistÿc3"
+    "enUS": "ÿc9ↈ%+d%% to Maximum Magic Resistÿc3",
+    "koKR": "ÿc9ↈ%+d%% Kháng Phép Tối Đaÿc3"
   },
   {
     "id": 3599,
     "Key": "ModStr5y",
-    "enUS": "ÿc2ↅ%+d%% to Maximum Poison Resistÿc3"
+    "enUS": "ÿc2ↅ%+d%% to Maximum Poison Resistÿc3",
+    "koKR": "ÿc2ↅ%+d%% Kháng Độc Tối Đaÿc3"
   },
   {
     "id": 3600,
     "Key": "ModStr5z",
-    "enUS": "ÿcN↎Cannot Be Frozenÿc3"
+    "enUS": "ÿcN↎Cannot Be Frozenÿc3",
+    "koKR": "ÿcN↎Không Thể Bị Đóng Băng (CBF)ÿc3"
   },
   {
     "id": 3601,
     "Key": "ModStr6a",
-    "enUS": "%+d Defense vs. Missile"
+    "enUS": "%+d Defense vs. Missile",
+    "koKR": "%+d Phòng Thủ Chống Đạn Bắn"
   },
   {
     "id": 3602,
     "Key": "ModStr6b",
-    "enUS": "%+d Defense vs. Melee"
+    "enUS": "%+d Defense vs. Melee",
+    "koKR": "%+d Phòng Thủ Cận Chiến"
   },
   {
     "id": 3603,
     "Key": "ModStr6c",
-    "enUS": "ÿc1↜%+d Life after each Demon Killÿc3"
+    "enUS": "ÿc1↜%+d Life after each Demon Killÿc3",
+    "koKR": "ÿc1↜%+d Máu Sau Khi Diệt Quỷÿc3"
   },
   {
     "id": 3607,
     "Key": "ModStr6g",
-    "enUS": "Piercing Attack"
+    "enUS": "Piercing Attack",
+    "koKR": "Đòn Bắn Xuyên Thấu (Piercing Attack)"
   },
   {
     "id": 3608,
     "Key": "ModStr6h",
-    "enUS": "Fires Magic Arrows"
+    "enUS": "Fires Magic Arrows",
+    "koKR": "Bắn Ra Tên Phép Thuật (Magic Arrows)"
   },
   {
     "id": 3609,
     "Key": "ModStr6i",
-    "enUS": "Fires Explosive Arrows or Bolts"
+    "enUS": "Fires Explosive Arrows or Bolts",
+    "koKR": "Bắn Ra Tên Gây Nổ (Explosive Arrows)"
   },
   {
     "id": 3625,
     "Key": "improved damage",
-    "enUS": "Improved Damage"
+    "enUS": "Improved Damage",
+    "koKR": "Cải Thiện Sát Thương"
   },
   {
     "id": 3626,
     "Key": "improved to hit",
-    "enUS": "Improved Attack Rating"
+    "enUS": "Improved Attack Rating",
+    "koKR": "Cải Thiện Điểm Tấn Công (AR)"
   },
   {
     "id": 3627,
     "Key": "improved armor class",
-    "enUS": "Improved Defense"
+    "enUS": "Improved Defense",
+    "koKR": "Cải Thiện Phòng Thủ (DEF)"
   },
   {
     "id": 3628,
     "Key": "improved durability",
-    "enUS": "Improved Durability"
+    "enUS": "Improved Durability",
+    "koKR": "Cải Thiện Độ Bền"
   },
   {
     "id": 3629,
     "Key": "Quick Strike",
-    "enUS": "Quick Strike"
+    "enUS": "Quick Strike",
+    "koKR": "Đòn Đánh Nhanh"
   },
   {
     "id": 3630,
     "Key": "strGemPlace1",
-    "enUS": "Can Be Inserted in Socketed"
+    "enUS": "Can Be Inserted in Socketed",
+    "koKR": "Có Thể Khảm Vào Trang Bị Có Lỗ"
   },
   {
     "id": 3631,
     "Key": "strGemPlace2",
-    "enUS": "Weapons, Shields or Helms"
+    "enUS": "Weapons, Shields or Helms",
+    "koKR": "Vũ Khí, Khiên Hoặc Mũ"
   },
   {
     "id": 4077,
     "Key": "WeaponDescMace",
-    "enUS": "Mace Class - %s"
+    "enUS": "Mace Class - %s",
+    "koKR": "Hệ Chùy - %s"
   },
   {
     "id": 4078,
     "Key": "WeaponDescAxe",
-    "enUS": "Axe Class - %s"
+    "enUS": "Axe Class - %s",
+    "koKR": "Hệ Rìu - %s"
   },
   {
     "id": 4079,
     "Key": "WeaponDescSword - %s",
-    "enUS": "Sword Class - %s"
+    "enUS": "Sword Class - %s",
+    "koKR": "Hệ Kiếm - %s"
   },
   {
     "id": 4080,
     "Key": "WeaponDescDagger",
-    "enUS": "Dagger Class - %s"
+    "enUS": "Dagger Class - %s",
+    "koKR": "Hệ Dao Găm - %s"
   },
   {
     "id": 4082,
     "Key": "WeaponDescJavelin",
-    "enUS": "Javelin Class - %s"
+    "enUS": "Javelin Class - %s",
+    "koKR": "Hệ Lao Ném - %s"
   },
   {
     "id": 4083,
     "Key": "WeaponDescSpear",
-    "enUS": "Spear Class - %s"
+    "enUS": "Spear Class - %s",
+    "koKR": "Hệ Giáo - %s"
   },
   {
     "id": 4084,
     "Key": "WeaponDescBow",
-    "enUS": "Bow Class - %s"
+    "enUS": "Bow Class - %s",
+    "koKR": "Hệ Cung - %s"
   },
   {
     "id": 4085,
     "Key": "WeaponDescStaff",
-    "enUS": "Staff Class - %s"
+    "enUS": "Staff Class - %s",
+    "koKR": "Hệ Gậy Phép - %s"
   },
   {
     "id": 4086,
     "Key": "WeaponDescPoleArm",
-    "enUS": "Polearm Class - %s"
+    "enUS": "Polearm Class - %s",
+    "koKR": "Hệ Trường Thương (Polearm) - %s"
   },
   {
     "id": 4087,
     "Key": "WeaponDescCrossBow",
-    "enUS": "Crossbow Class - %s"
+    "enUS": "Crossbow Class - %s",
+    "koKR": "Hệ Nỏ - %s"
   },
   {
     "id": 4088,
     "Key": "WeaponAttackFastest",
-    "enUS": "Fastest Attack Speed"
+    "enUS": "Fastest Attack Speed",
+    "koKR": "Tốc Độ Đánh Cực Nhanh"
   },
   {
     "id": 4089,
     "Key": "WeaponAttackVeryFast",
-    "enUS": "Very Fast Attack Speed"
+    "enUS": "Very Fast Attack Speed",
+    "koKR": "Tốc Độ Đánh Rất Nhanh"
   },
   {
     "id": 4090,
     "Key": "WeaponAttackFast",
-    "enUS": "Fast Attack Speed"
+    "enUS": "Fast Attack Speed",
+    "koKR": "Tốc Độ Đánh Nhanh"
   },
   {
     "id": 4091,
     "Key": "WeaponAttackNormal",
-    "enUS": "Normal Attack Speed"
+    "enUS": "Normal Attack Speed",
+    "koKR": "Tốc Độ Đánh Bình Thường"
   },
   {
     "id": 4092,
     "Key": "WeaponAttackSlow",
-    "enUS": "Slow Attack Speed"
+    "enUS": "Slow Attack Speed",
+    "koKR": "Tốc Độ Đánh Chậm"
   },
   {
     "id": 4093,
     "Key": "WeaponAttackVerySlow",
-    "enUS": "Very Slow Attack Speed"
+    "enUS": "Very Slow Attack Speed",
+    "koKR": "Tốc Độ Đánh Rất Chậm"
   },
   {
     "id": 4094,
     "Key": "WeaponAttackSlowest",
-    "enUS": "Slowest Attack Speed"
+    "enUS": "Slowest Attack Speed",
+    "koKR": "Tốc Độ Đánh Cực Chậm"
   },
   {
     "id": 10001,
     "Key": "ModStr5d",
-    "enUS": "%+d Maximum Stamina"
+    "enUS": "%+d Maximum Stamina",
+    "koKR": "%+d Thể Lực Tối Đa (Max Stamina)"
   },
   {
     "id": 10020,
     "Key": "ModStr6e",
-    "enUS": "%d%% Slower Stamina Drain"
+    "enUS": "%d%% Slower Stamina Drain",
+    "koKR": "Giảm Hao Hụt Thể Lực %d%%"
   },
   {
     "id": 10023,
     "Key": "strModEnhancedDamage",
-    "enUS": "ÿc;ↁ%+d%% Enhanced Damageÿc3"
+    "enUS": "ÿc;ↁ%+d%% Enhanced Damageÿc3",
+    "koKR": "ÿc;ↁ%+d%% Sát Thương Gia Tăng (ED)ÿc3"
   },
   {
     "id": 10024,
     "Key": "strModAllResistances",
-    "enUS": "ÿc8ↇAll Resistances %+dÿc3"
+    "enUS": "ÿc8ↇAll Resistances %+dÿc3",
+    "koKR": "ÿc8ↇTất Cả Kháng (All Res) %+dÿc3"
   },
   {
     "id": 10025,
     "Key": "strModAllSkillLevels",
-    "enUS": "ÿc8%+d to All Skill Levelsÿc3"
+    "enUS": "ÿc8%+d to All Skill Levelsÿc3",
+    "koKR": "ÿc8%+d Tất Cả Cấp Kỹ Năngÿc3"
   },
   {
     "id": 10026,
     "Key": "strModFireDamage",
-    "enUS": "%+d fire damage"
+    "enUS": "%+d fire damage",
+    "koKR": "ÿc1%+d sát thương lửaÿc3"
   },
   {
     "id": 10027,
     "Key": "strModFireDamageRange",
-    "enUS": "Adds %d-%d fire damage"
+    "enUS": "Adds %d-%d fire damage",
+    "koKR": "ÿc1Thêm %d-%d sát thương lửaÿc3"
   },
   {
     "id": 10028,
     "Key": "strModColdDamage",
-    "enUS": "%+d cold damage"
+    "enUS": "%+d cold damage",
+    "koKR": "ÿcN%+d sát thương băngÿc3"
   },
   {
     "id": 10029,
     "Key": "strModColdDamageRange",
-    "enUS": "Adds %d-%d cold damage"
+    "enUS": "Adds %d-%d cold damage",
+    "koKR": "ÿcNThêm %d-%d sát thương băngÿc3"
   },
   {
     "id": 10030,
     "Key": "strModLightningDamage",
-    "enUS": "%+d lightning damage"
+    "enUS": "%+d lightning damage",
+    "koKR": "ÿc9%+d sát thương sétÿc3"
   },
   {
     "id": 10031,
     "Key": "strModLightningDamageRange",
-    "enUS": "Adds %d-%d lightning damage"
+    "enUS": "Adds %d-%d lightning damage",
+    "koKR": "ÿc9Thêm %d-%d sát thương sétÿc3"
   },
   {
     "id": 10032,
     "Key": "strModMagicDamage",
-    "enUS": "ÿc9↍%+d magic damageÿc3"
+    "enUS": "ÿc9↍%+d magic damageÿc3",
+    "koKR": "ÿc9↍%+d sát thương phépÿc3"
   },
   {
     "id": 10033,
     "Key": "strModMagicDamageRange",
-    "enUS": "Adds %d-%d magic damage"
+    "enUS": "Adds %d-%d magic damage",
+    "koKR": "ÿc9Thêm %d-%d sát thương phépÿc3"
   },
   {
     "id": 10034,
     "Key": "strModPoisonDamage",
-    "enUS": "%+d poison damage over %d seconds"
+    "enUS": "%+d poison damage over %d seconds",
+    "koKR": "ÿc2%+d sát thương độc trong %d giâyÿc3"
   },
   {
     "id": 10035,
     "Key": "strModPoisonDamageRange",
-    "enUS": "Adds %d-%d poison damage over %d seconds"
+    "enUS": "Adds %d-%d poison damage over %d seconds",
+    "koKR": "ÿc2Thêm %d-%d sát thương độc trong %d giâyÿc3"
   },
   {
     "id": 10036,
     "Key": "strModMinDamage",
-    "enUS": "%+d damage"
+    "enUS": "%+d damage",
+    "koKR": "%+d sát thương"
   },
   {
     "id": 10037,
     "Key": "strModMinDamageRange",
-    "enUS": "Adds %d-%d damage"
+    "enUS": "Adds %d-%d damage",
+    "koKR": "Thêm %d-%d sát thương"
   },
   {
     "id": 10039,
     "Key": "ModStre9j",
-    "enUS": "Fire Damage Reduced by"
+    "enUS": "Fire Damage Reduced by",
+    "koKR": "Giảm Sát Thương Lửa Đi"
   },
   {
     "id": 10040,
     "Key": "ModStre9k",
-    "enUS": "Cold Damage Reduced by"
+    "enUS": "Cold Damage Reduced by",
+    "koKR": "Giảm Sát Thương Băng Đi"
   },
   {
     "id": 10041,
     "Key": "ModStre9l",
-    "enUS": "Lightning Damage Reduced by"
+    "enUS": "Lightning Damage Reduced by",
+    "koKR": "Giảm Sát Thương Sét Đi"
   },
   {
     "id": 10042,
     "Key": "ModStre9m",
-    "enUS": "Poison Damage Reduced by"
+    "enUS": "Poison Damage Reduced by",
+    "koKR": "Giảm Sát Thương Độc Đi"
   },
   {
     "id": 10043,
     "Key": "ModStre9n",
-    "enUS": "%+d Absorbs Magic Damage"
+    "enUS": "%+d Absorbs Magic Damage",
+    "koKR": "%+d Hấp Thụ Sát Thương Phép"
   },
   {
     "id": 10044,
     "Key": "ModStre9o",
-    "enUS": "%+d Absorbs Fire Damage"
+    "enUS": "%+d Absorbs Fire Damage",
+    "koKR": "%+d Hấp Thụ Sát Thương Lửa"
   },
   {
     "id": 10045,
     "Key": "ModStre9p",
-    "enUS": "%+d Absorbs Cold Damage"
+    "enUS": "%+d Absorbs Cold Damage",
+    "koKR": "%+d Hấp Thụ Sát Thương Băng"
   },
   {
     "id": 10046,
     "Key": "ModStre9q",
-    "enUS": "%+d Absorbs Lightning Damage"
+    "enUS": "%+d Absorbs Lightning Damage",
+    "koKR": "%+d Hấp Thụ Sát Thương Sét"
   },
   {
     "id": 10047,
     "Key": "ModStre9r",
-    "enUS": "%+d Absorbs Poison Damage"
+    "enUS": "%+d Absorbs Poison Damage",
+    "koKR": "%+d Hấp Thụ Sát Thương Độc"
   },
   {
     "id": 10054,
     "Key": "StrSklTabItem1",
-    "enUS": "ÿc8%+d to Javelin and Spear Skillsÿc3"
+    "enUS": "ÿc8%+d to Javelin and Spear Skillsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Lao & Giáo (Amazon)ÿc3"
   },
   {
     "id": 10055,
     "Key": "StrSklTabItem2",
-    "enUS": "ÿc8%+d to Passive and Magic Skillsÿc3"
+    "enUS": "ÿc8%+d to Passive and Magic Skillsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Bị Động & Phép (Amazon)ÿc3"
   },
   {
     "id": 10056,
     "Key": "StrSklTabItem3",
-    "enUS": "ÿc8%+d to Bow and Crossbow Skillsÿc3"
+    "enUS": "ÿc8%+d to Bow and Crossbow Skillsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Cung & Nỏ (Amazon)ÿc3"
   },
   {
     "id": 10057,
     "Key": "StrSklTabItem4",
-    "enUS": "ÿc8%+d to Defensive Aurasÿc3"
+    "enUS": "ÿc8%+d to Defensive Aurasÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Hào Quang Phòng Ngự (Paladin)ÿc3"
   },
   {
     "id": 10058,
     "Key": "StrSklTabItem5",
-    "enUS": "ÿc8%+d to Offensive Aurasÿc3"
+    "enUS": "ÿc8%+d to Offensive Aurasÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Hào Quang Tấn Công (Paladin)ÿc3"
   },
   {
     "id": 10059,
     "Key": "StrSklTabItem6",
-    "enUS": "ÿc8%+d to Combat Skillsÿc3"
+    "enUS": "ÿc8%+d to Combat Skillsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Chiến Đấu (Paladin)ÿc3"
   },
   {
     "id": 10061,
     "Key": "StrSklTabItem7",
-    "enUS": "ÿc8%+d to Poison and Bone Skillsÿc3"
+    "enUS": "ÿc8%+d to Poison and Bone Skillsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Độc & Xương (Necromancer)ÿc3"
   },
   {
     "id": 10062,
     "Key": "StrSklTabItem8",
-    "enUS": "ÿc8%+d to Cursesÿc3"
+    "enUS": "ÿc8%+d to Cursesÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Lời Nguyền (Necromancer)ÿc3"
   },
   {
     "id": 10063,
     "Key": "StrSklTabItem10",
-    "enUS": "ÿc8%+d to Warcriesÿc3"
+    "enUS": "ÿc8%+d to Warcriesÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Tiếng Hét (Barbarian)ÿc3"
   },
   {
     "id": 10064,
     "Key": "StrSklTabItem11",
-    "enUS": "ÿc8%+d to Combat Skillsÿc3"
+    "enUS": "ÿc8%+d to Combat Skillsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Chiến Đấu (Barbarian)ÿc3"
   },
   {
     "id": 10065,
     "Key": "StrSklTabItem12",
-    "enUS": "ÿc8%+d to Masteriesÿc3"
+    "enUS": "ÿc8%+d to Masteriesÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Tinh Thông Vũ Khí (Barbarian)ÿc3"
   },
   {
     "id": 10066,
     "Key": "StrSklTabItem13",
-    "enUS": "ÿcN↊%+d to Cold Skillsÿc3"
+    "enUS": "ÿcN↊%+d to Cold Skillsÿc3",
+    "koKR": "ÿcN↊%+d Kỹ Năng Băng (Sorceress)ÿc3"
   },
   {
     "id": 10067,
     "Key": "StrSklTabItem14",
-    "enUS": "ÿc9↌%+d to Lightning Skillsÿc3"
+    "enUS": "ÿc9↌%+d to Lightning Skillsÿc3",
+    "koKR": "ÿc9↌%+d Kỹ Năng Sét (Sorceress)ÿc3"
   },
   {
     "id": 10068,
     "Key": "StrSklTabItem15",
-    "enUS": "ÿc1↋%+d to Fire Skillsÿc3"
+    "enUS": "ÿc1↋%+d to Fire Skillsÿc3",
+    "koKR": "ÿc1↋%+d Kỹ Năng Lửa (Sorceress)ÿc3"
   },
   {
     "id": 10069,
     "Key": "StrSklTabItem16",
-    "enUS": "ÿc8%+d to Summoning Skillsÿc3"
+    "enUS": "ÿc8%+d to Summoning Skillsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Triệu Hồi (Druid)ÿc3"
   },
   {
     "id": 10070,
     "Key": "StrSklTabItem17",
-    "enUS": "ÿc8%+d to Shape Shifting Skillsÿc3"
+    "enUS": "ÿc8%+d to Shape Shifting Skillsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Biến Hình (Druid)ÿc3"
   },
   {
     "id": 10071,
     "Key": "StrSklTabItem18",
-    "enUS": "ÿc8%+d to Elemental Skillsÿc3"
+    "enUS": "ÿc8%+d to Elemental Skillsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Nguyên Tố (Druid)ÿc3"
   },
   {
     "id": 10072,
     "Key": "StrSklTabItem19",
-    "enUS": "ÿc8%+d to Trapsÿc3"
+    "enUS": "ÿc8%+d to Trapsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Bẫy (Assassin)ÿc3"
   },
   {
     "id": 10073,
     "Key": "StrSklTabItem20",
-    "enUS": "ÿc8%+d to Shadow Disciplinesÿc3"
+    "enUS": "ÿc8%+d to Shadow Disciplinesÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Bóng Đêm (Assassin)ÿc3"
   },
   {
     "id": 10074,
     "Key": "StrSklTabItem21",
-    "enUS": "ÿc8%+d to Martial Artsÿc3"
+    "enUS": "ÿc8%+d to Martial Artsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Võ Thuật (Assassin)ÿc3"
   },
   {
     "id": 10917,
     "Key": "AmaOnly",
-    "enUS": "ÿc8(Amazon Only)ÿc3"
+    "enUS": "ÿc8(Amazon Only)ÿc3",
+    "koKR": "ÿc8(Chỉ Dành Cho Amazon)ÿc3"
   },
   {
     "id": 10918,
     "Key": "SorOnly",
-    "enUS": "ÿc8(Sorceress Only)ÿc3"
+    "enUS": "ÿc8(Sorceress Only)ÿc3",
+    "koKR": "ÿc8(Chỉ Dành Cho Sorceress)ÿc3"
   },
   {
     "id": 10919,
     "Key": "NecOnly",
-    "enUS": "ÿc8(Necromancer Only)ÿc3"
+    "enUS": "ÿc8(Necromancer Only)ÿc3",
+    "koKR": "ÿc8(Chỉ Dành Cho Necromancer)ÿc3"
   },
   {
     "id": 10920,
     "Key": "PalOnly",
-    "enUS": "ÿc8(Paladin Only)ÿc3"
+    "enUS": "ÿc8(Paladin Only)ÿc3",
+    "koKR": "ÿc8(Chỉ Dành Cho Paladin)ÿc3"
   },
   {
     "id": 10921,
     "Key": "BarOnly",
-    "enUS": "ÿc8(Barbarian Only)ÿc3"
+    "enUS": "ÿc8(Barbarian Only)ÿc3",
+    "koKR": "ÿc8(Chỉ Dành Cho Barbarian)ÿc3"
   },
   {
     "id": 10922,
     "Key": "DruOnly",
-    "enUS": "ÿc8(Druid Only)ÿc3"
+    "enUS": "ÿc8(Druid Only)ÿc3",
+    "koKR": "ÿc8(Chỉ Dành Cho Druid)ÿc3"
   },
   {
     "id": 10923,
     "Key": "AssOnly",
-    "enUS": "ÿc8(Assassin Only)ÿc3"
+    "enUS": "ÿc8(Assassin Only)ÿc3",
+    "koKR": "ÿc8(Chỉ Dành Cho Assassin)ÿc3"
   },
   {
     "id": 10976,
     "Key": "ModitemAura",
-    "enUS": "Level %d %s Aura When Equipped"
+    "enUS": "Level %d %s Aura When Equipped",
+    "koKR": "Hào Quang %s Cấp %d Khi Trang Bị"
   },
   {
     "id": 10977,
     "Key": "Moditem2allattrib",
-    "enUS": "%+d to all Attributes"
+    "enUS": "%+d to all Attributes",
+    "koKR": "ÿc8%+d Tất Cả Thuộc Tính (All Stats)ÿc3"
   },
   {
     "id": 10978,
     "Key": "Moditem2ExpG",
-    "enUS": "%+d%% to Experience Gained"
+    "enUS": "%+d%% to Experience Gained",
+    "koKR": "ÿc8%+d%% Kinh Nghiệm Nhận Đượcÿc3"
   },
   {
     "id": 10979,
     "Key": "ModitemHPaK",
-    "enUS": "ÿc1↜%+d Life after each Killÿc3"
+    "enUS": "ÿc1↜%+d Life after each Killÿc3",
+    "koKR": "ÿc1↜%+d Máu Sau Mỗi Mạng Hạ Gục (LAEK)ÿc3"
   },
   {
     "id": 10980,
     "Key": "ModitemRedVendP",
-    "enUS": "Reduces all Vendor Prices %d%%"
+    "enUS": "Reduces all Vendor Prices %d%%",
+    "koKR": "Giảm %d%% Mọi Chi Phí Mua Bán NPC"
   },
   {
     "id": 10981,
     "Key": "ModitemSMRIP",
-    "enUS": "Slain Monsters Rest in Peace"
+    "enUS": "Slain Monsters Rest in Peace",
+    "koKR": "ÿc8Quái Bị Diệt Sẽ Yên Nghỉ (Không Thể Hồi Sinh/Nổ Xác)ÿc3"
   },
   {
     "id": 10982,
     "Key": "ModitemAttratvsM",
-    "enUS": "%d%% to Attack Rating versus"
+    "enUS": "%d%% to Attack Rating versus",
+    "koKR": "%d%% Điểm Tấn Công (AR) Lên"
   },
   {
     "id": 10983,
     "Key": "Moditemdamvsm",
-    "enUS": "%d%% to Damage versus"
+    "enUS": "%d%% to Damage versus",
+    "koKR": "%d%% Sát Thương Lên"
   },
   {
     "id": 10984,
     "Key": "Moditemslayat",
-    "enUS": "Slaying:"
+    "enUS": "Slaying:",
+    "koKR": "Tiêu Diệt:"
   },
   {
     "id": 10985,
     "Key": "Moditemreanimas",
-    "enUS": "%0%% Reanimate as: %1"
+    "enUS": "%0%% Reanimate as: %1",
+    "koKR": "%0%% Hồi Sinh Mục Tiêu Thành: %1"
   },
   {
     "id": 10986,
     "Key": "Moditemenrescoldsk",
-    "enUS": "ÿcNↃ-%d%% to Enemy Cold Resistanceÿc3"
+    "enUS": "ÿcNↃ-%d%% to Enemy Cold Resistanceÿc3",
+    "koKR": "ÿcNↃ-%d%% Kháng Băng Của Kẻ Địchÿc3"
   },
   {
     "id": 10987,
     "Key": "Moditemenresfiresk",
-    "enUS": "ÿc1ↄ-%d%% to Enemy Fire Resistanceÿc3"
+    "enUS": "ÿc1ↄ-%d%% to Enemy Fire Resistanceÿc3",
+    "koKR": "ÿc1ↄ-%d%% Kháng Lửa Của Kẻ Địchÿc3"
   },
   {
     "id": 10988,
     "Key": "Moditemenresltngsk",
-    "enUS": "ÿc9↌-%d%% to Enemy Lightning Resistanceÿc3"
+    "enUS": "ÿc9↌-%d%% to Enemy Lightning Resistanceÿc3",
+    "koKR": "ÿc9↌-%d%% Kháng Sét Của Kẻ Địchÿc3"
   },
   {
     "id": 10989,
     "Key": "Moditemenrespoissk",
-    "enUS": "ÿc2ↅ-%d%% to Enemy Poison Resistanceÿc3"
+    "enUS": "ÿc2ↅ-%d%% to Enemy Poison Resistanceÿc3",
+    "koKR": "ÿc2ↅ-%d%% Kháng Độc Của Kẻ Địchÿc3"
   },
   {
     "id": 10990,
     "Key": "ModitemdamFiresk",
-    "enUS": "ÿc1↋%+d%% to Fire Skill Damageÿc3"
+    "enUS": "ÿc1↋%+d%% to Fire Skill Damageÿc3",
+    "koKR": "ÿc1↋%+d%% Sát Thương Kỹ Năng Lửaÿc3"
   },
   {
     "id": 10991,
     "Key": "ModitemdamColdsk",
-    "enUS": "ÿcN↊%+d%% to Cold Skill Damageÿc3"
+    "enUS": "ÿcN↊%+d%% to Cold Skill Damageÿc3",
+    "koKR": "ÿcN↊%+d%% Sát Thương Kỹ Năng Băngÿc3"
   },
   {
     "id": 10992,
     "Key": "ModitemdamLtngsk",
-    "enUS": "ÿc9↌%+d%% to Lightning Skill Damageÿc3"
+    "enUS": "ÿc9↌%+d%% to Lightning Skill Damageÿc3",
+    "koKR": "ÿc9↌%+d%% Sát Thương Kỹ Năng Sétÿc3"
   },
   {
     "id": 10993,
     "Key": "ModitemdamPoissk",
-    "enUS": "ÿc2↡%+d%% to Poison Skill Damageÿc3"
+    "enUS": "ÿc2↡%+d%% to Poison Skill Damageÿc3",
+    "koKR": "ÿc2↡%+d%% Sát Thương Kỹ Năng Độcÿc3"
   },
   {
     "id": 10994,
     "Key": "Moditemskondeath",
-    "enUS": "%d%% Chance to cast level %d %s when you Die"
+    "enUS": "%d%% Chance to cast level %d %s when you Die",
+    "koKR": "%d%% Cơ Hội Thi Triển %s Cấp %d Khi Hy Sinh"
   },
   {
     "id": 10995,
     "Key": "ModitemskonLevel",
-    "enUS": "%d%% Chance to cast level %d %s when you Level-Up"
+    "enUS": "%d%% Chance to cast level %d %s when you Level-Up",
+    "koKR": "%d%% Cơ Hội Thi Triển %s Cấp %d Khi Lên Cấp"
   },
   {
     "id": 10996,
     "Key": "ModitemskonKill",
-    "enUS": "%d%% Chance to cast level %d %s when you Kill an Enemy"
+    "enUS": "%d%% Chance to cast level %d %s when you Kill an Enemy",
+    "koKR": "%d%% Cơ Hội Thi Triển %s Cấp %d Khi Diệt Kẻ Địch"
   },
   {
     "id": 11003,
     "Key": "StrSklTabItem9",
-    "enUS": "ÿc8+%d to Summoning Skillsÿc3"
+    "enUS": "ÿc8+%d to Summoning Skillsÿc3",
+    "koKR": "ÿc8+%d Kỹ Năng Triệu Hồi (Necromancer)ÿc3"
   },
   {
     "id": 11018,
     "Key": "ItemStats1r",
-    "enUS": "Chance to Block: %d%%"
+    "enUS": "Chance to Block: %d%%",
+    "koKR": "Tỉ Lệ Đỡ Đòn (Block): %d%%"
   },
   {
     "id": 11032,
     "Key": "ModStr1w",
-    "enUS": "ÿc9↔%d%% Extra Gold from Monstersÿc3"
+    "enUS": "ÿc9↔%d%% Extra Gold from Monstersÿc3",
+    "koKR": "ÿc9↔%d%% Lượng Vàng Rơi Ra Từ Quái (GF)ÿc3"
   },
   {
     "id": 11033,
     "Key": "ModStr1x",
-    "enUS": "ÿc4↓%d%% Better Chance of Getting Magic Itemsÿc3"
+    "enUS": "ÿc4↓%d%% Better Chance of Getting Magic Itemsÿc3",
+    "koKR": "ÿc4↓%d%% Cơ Hội Tìm Trang Bị Ma Thuật (MF)ÿc3"
   },
   {
     "id": 11034,
     "Key": "ModStr3u",
-    "enUS": "Hit Causes Monster to Flee %d%%"
+    "enUS": "Hit Causes Monster to Flee %d%%",
+    "koKR": "Đòn Đánh Khiến Quái Hoảng Sợ Bỏ Chạy %d%%"
   },
   {
     "id": 11035,
     "Key": "ModStr4c",
-    "enUS": "%d%% Bonus to Attack Rating"
+    "enUS": "%d%% Bonus to Attack Rating",
+    "koKR": "%d%% Thưởng Điểm Tấn Công (Bonus AR)"
   },
   {
     "id": 11036,
     "Key": "ModStr5r",
-    "enUS": "ÿcN↏Slows Target by %d%%ÿc3"
+    "enUS": "ÿcN↏Slows Target by %d%%ÿc3",
+    "koKR": "ÿcN↏Làm Chậm Mục Tiêu Đi %d%%ÿc3"
   },
   {
     "id": 11037,
     "Key": "ModStr6f",
-    "enUS": "Chance to Reanimate Target"
+    "enUS": "Chance to Reanimate Target",
+    "koKR": "Cơ Hội Hồi Sinh Mục Tiêu"
   },
   {
     "id": 11038,
     "Key": "ModStr6d",
-    "enUS": "Hit Blinds Target"
+    "enUS": "Hit Blinds Target",
+    "koKR": "Đòn Đánh Làm Mù Mục Tiêu"
   },
   {
     "id": 11080,
     "Key": "ExInsertSocketsX",
-    "enUS": "Can be Inserted into Socketed Items"
+    "enUS": "Can be Inserted into Socketed Items",
+    "koKR": "Có Thể Khảm Vào Trang Bị Có Lỗ"
   },
   {
     "id": 11091,
     "Key": "increaseswithplaylevelX",
-    "enUS": "(Based on Character Level)"
+    "enUS": "(Based on Character Level)",
+    "koKR": "(Dựa Trên Cấp Độ Nhân Vật)"
   },
   {
     "id": 11158,
     "Key": "ModStre8b",
-    "enUS": "ÿc8%+d to Assassin Skill Levelsÿc3"
+    "enUS": "ÿc8%+d to Assassin Skill Levelsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Assassinÿc3"
   },
   {
     "id": 11163,
     "Key": "toa",
-    "enUS": "ÿc4★ TOKEN OF ABSOLUTION ★ ÿc0[Tẩy Điểm]"
+    "enUS": "ÿc4★ TOKEN OF ABSOLUTION ★ ÿc0[Tẩy Điểm]",
+    "koKR": "ÿc4★ TOKEN OF ABSOLUTION ★ ÿc0[Tẩy Điểm]"
   },
   {
     "id": 20438,
     "Key": "Charmdes",
-    "enUS": "Keep in Inventory to Gain Bonus"
+    "enUS": "Keep in Inventory to Gain Bonus",
+    "koKR": "Giữ Trong Hòm Đồ Để Nhận Thuộc Tính"
   },
   {
     "id": 20439,
     "Key": "ice",
-    "enUS": "Malah's Potion"
+    "enUS": "Malah's Potion",
+    "koKR": "Thuốc Của Malah"
   },
   {
     "id": 21205,
     "Key": "ModStre8a",
-    "enUS": "ÿc8%+d to Druid Skill Levelsÿc3"
+    "enUS": "ÿc8%+d to Druid Skill Levelsÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng Druidÿc3"
   },
   {
     "id": 21207,
     "Key": "ModStre8c",
-    "enUS": " Sockets"
+    "enUS": " Sockets",
+    "koKR": " Lỗ Khảm (Sockets)"
   },
   {
     "id": 21208,
     "Key": "ModStre8d",
-    "enUS": " to Attack Rating vs. Demons"
+    "enUS": " to Attack Rating vs. Demons",
+    "koKR": " Điểm Tấn Công Lên Quỷ"
   },
   {
     "id": 21209,
     "Key": "ModStre8e",
-    "enUS": " to Attack Rating vs. Undead"
+    "enUS": " to Attack Rating vs. Undead",
+    "koKR": " Điểm Tấn Công Lên Xác Sống"
   },
   {
     "id": 21210,
     "Key": "ModStre8f",
-    "enUS": " to Damage vs. Demons"
+    "enUS": " to Damage vs. Demons",
+    "koKR": " Sát Thương Lên Quỷ"
   },
   {
     "id": 21211,
     "Key": "ModStre8g",
-    "enUS": " percent to Attack Rating"
+    "enUS": " percent to Attack Rating",
+    "koKR": " Phần Trăm Điểm Tấn Công"
   },
   {
     "id": 21212,
     "Key": "ModStre8h",
-    "enUS": " to Javelin and Spear Skills"
+    "enUS": " to Javelin and Spear Skills",
+    "koKR": " Kỹ Năng Lao & Giáo"
   },
   {
     "id": 21213,
     "Key": "ModStre8i",
-    "enUS": " to Passive and Magic Skills"
+    "enUS": " to Passive and Magic Skills",
+    "koKR": " Kỹ Năng Bị Động & Phép"
   },
   {
     "id": 21214,
     "Key": "ModStre8j",
-    "enUS": " to Bow and Crossbow Skills"
+    "enUS": " to Bow and Crossbow Skills",
+    "koKR": " Kỹ Năng Cung & Nỏ"
   },
   {
     "id": 21215,
     "Key": "ModStre8k",
-    "enUS": " to Defensive Aura Skills"
+    "enUS": " to Defensive Aura Skills",
+    "koKR": " Kỹ Năng Hào Quang Phòng Ngự"
   },
   {
     "id": 21216,
     "Key": "ModStre8l",
-    "enUS": " to Offensive Aura Skills"
+    "enUS": " to Offensive Aura Skills",
+    "koKR": " Kỹ Năng Hào Quang Tấn Công"
   },
   {
     "id": 21217,
     "Key": "ModStre8m",
-    "enUS": " to Combat Skills"
+    "enUS": " to Combat Skills",
+    "koKR": " Kỹ Năng Chiến Đấu"
   },
   {
     "id": 21218,
     "Key": "ModStre8n",
-    "enUS": " to Summoning Skills"
+    "enUS": " to Summoning Skills",
+    "koKR": " Kỹ Năng Triệu Hồi"
   },
   {
     "id": 21219,
     "Key": "ModStre8o",
-    "enUS": " to Poison and Bone Skills"
+    "enUS": " to Poison and Bone Skills",
+    "koKR": " Kỹ Năng Độc & Xương"
   },
   {
     "id": 21220,
     "Key": "ModStre8p",
-    "enUS": " to Curses"
+    "enUS": " to Curses",
+    "koKR": " Kỹ Năng Lời Nguyền"
   },
   {
     "id": 21221,
     "Key": "ModStre8q",
-    "enUS": " to Warcry Skills"
+    "enUS": " to Warcry Skills",
+    "koKR": " Kỹ Năng Tiếng Hét"
   },
   {
     "id": 21222,
     "Key": "ModStre8r",
-    "enUS": " to Combat Skills"
+    "enUS": " to Combat Skills",
+    "koKR": " Kỹ Năng Chiến Đấu"
   },
   {
     "id": 21223,
     "Key": "ModStre8s",
-    "enUS": " to Masteries Skills"
+    "enUS": " to Masteries Skills",
+    "koKR": " Kỹ Năng Tinh Thông Vũ Khí"
   },
   {
     "id": 21224,
     "Key": "ModStre8t",
-    "enUS": " to Cold Skills"
+    "enUS": " to Cold Skills",
+    "koKR": " Kỹ Năng Băng"
   },
   {
     "id": 21225,
     "Key": "ModStre8u",
-    "enUS": " to Lightning Skills"
+    "enUS": " to Lightning Skills",
+    "koKR": " Kỹ Năng Sét"
   },
   {
     "id": 21226,
     "Key": "ModStre8v",
-    "enUS": " to Fire Skills"
+    "enUS": " to Fire Skills",
+    "koKR": " Kỹ Năng Lửa"
   },
   {
     "id": 21227,
     "Key": "ModStre8w",
-    "enUS": " to Summoning Skills"
+    "enUS": " to Summoning Skills",
+    "koKR": " Kỹ Năng Triệu Hồi"
   },
   {
     "id": 21228,
     "Key": "ModStre8x",
-    "enUS": " to Shape-Shifting Skills"
+    "enUS": " to Shape-Shifting Skills",
+    "koKR": " Kỹ Năng Biến Hình"
   },
   {
     "id": 21229,
     "Key": "ModStre8y",
-    "enUS": " to Elemental Skills"
+    "enUS": " to Elemental Skills",
+    "koKR": " Kỹ Năng Nguyên Tố"
   },
   {
     "id": 21230,
     "Key": "ModStre8z",
-    "enUS": " to Trap Skills"
+    "enUS": " to Trap Skills",
+    "koKR": " Kỹ Năng Bẫy"
   },
   {
     "id": 21231,
     "Key": "ModStre9a",
-    "enUS": " to Shadow Discipline Skills"
+    "enUS": " to Shadow Discipline Skills",
+    "koKR": " Kỹ Năng Bóng Đêm"
   },
   {
     "id": 21232,
     "Key": "ModStre9b",
-    "enUS": " to Martial Art Skills"
+    "enUS": " to Martial Art Skills",
+    "koKR": " Kỹ Năng Võ Thuật"
   },
   {
     "id": 21233,
     "Key": "ModStre9c",
-    "enUS": "(Based on Character Level)"
+    "enUS": "(Based on Character Level)",
+    "koKR": "(Dựa Trên Cấp Độ Nhân Vật)"
   },
   {
     "id": 21234,
     "Key": "ModStre9d",
-    "enUS": "%s (Increases During Nighttime)"
+    "enUS": "%s (Increases During Nighttime)",
+    "koKR": "%s (Tăng Vào Ban Đêm)"
   },
   {
     "id": 21235,
     "Key": "ModStre9e",
-    "enUS": "%s (Increases During Daytime)"
+    "enUS": "%s (Increases During Daytime)",
+    "koKR": "%s (Tăng Vào Ban Ngày)"
   },
   {
     "id": 21236,
     "Key": "ModStre9f",
-    "enUS": "%s (Increases Near Dawn)"
+    "enUS": "%s (Increases Near Dawn)",
+    "koKR": "%s (Tăng Lúc Rạng Đông)"
   },
   {
     "id": 21237,
     "Key": "ModStre9g",
-    "enUS": "%s (Increases Near Dusk)"
+    "enUS": "%s (Increases Near Dusk)",
+    "koKR": "%s (Tăng Lúc Hoàng Hôn)"
   },
   {
     "id": 21238,
     "Key": "ModStre9h",
-    "enUS": " Charges of"
+    "enUS": " Charges of",
+    "koKR": " Lần Dùng"
   },
   {
     "id": 21239,
     "Key": "ModStre9i",
-    "enUS": "Increased Stack Size"
+    "enUS": "Increased Stack Size",
+    "koKR": "Tăng Kích Thước Chồng Đồ"
   },
   {
     "id": 21240,
     "Key": "ModStre9s",
-    "enUS": "Indestructible"
+    "enUS": "Indestructible",
+    "koKR": "Không Thể Phá Hủy (Indestructible)"
   },
   {
     "id": 21241,
     "Key": "ModStre9t",
-    "enUS": "Repairs %d durability per second"
+    "enUS": "Repairs %d durability per second",
+    "koKR": "Tự Sửa %d Độ Bền Mỗi Giây"
   },
   {
     "id": 21242,
     "Key": "ModStre9u",
-    "enUS": "Repairs %d durability in %d seconds"
+    "enUS": "Repairs %d durability in %d seconds",
+    "koKR": "Tự Sửa %d Độ Bền Sau %d Giây"
   },
   {
     "id": 21243,
     "Key": "ModStre9v",
-    "enUS": "Replenishes quantity"
+    "enUS": "Replenishes quantity",
+    "koKR": "Tự Phục Hồi Số Lượng"
   },
   {
     "id": 21244,
     "Key": "ModStre9w",
-    "enUS": "Cast a Level %d"
+    "enUS": "Cast a Level %d",
+    "koKR": "Thi Triển Kỹ Năng Cấp %d"
   },
   {
     "id": 21245,
     "Key": "ModStre9x",
-    "enUS": "When You Swing"
+    "enUS": "When You Swing",
+    "koKR": "Khi Vung Đòn Tấn Công"
   },
   {
     "id": 21246,
     "Key": "ModStre9y",
-    "enUS": "When You Get Hit"
+    "enUS": "When You Get Hit",
+    "koKR": "Khi Bị Đánh Trúng"
   },
   {
     "id": 21247,
     "Key": "ModStre9z",
-    "enUS": "When You Hit an Enemy"
+    "enUS": "When You Hit an Enemy",
+    "koKR": "Khi Đánh Trúng Kẻ Địch"
   },
   {
     "id": 21248,
     "Key": "ModStre10a",
-    "enUS": "Charges"
+    "enUS": "Charges",
+    "koKR": "Số Lần Dùng"
   },
   {
     "id": 21249,
     "Key": "ModStre10b",
-    "enUS": "Level"
+    "enUS": "Level",
+    "koKR": "Cấp Độ"
   },
   {
     "id": 21250,
     "Key": "ModStre10c",
-    "enUS": "Per Level"
+    "enUS": "Per Level",
+    "koKR": "Mỗi Cấp Độ"
   },
   {
     "id": 21251,
     "Key": "ModStre10d",
-    "enUS": "Level %d %s (%d/%d Charges)"
+    "enUS": "Level %d %s (%d/%d Charges)",
+    "koKR": "Cấp %d %s (%d/%d Lần Dùng)"
   },
   {
     "id": 21252,
     "Key": "ModStre10e",
-    "enUS": "("
+    "enUS": "(",
+    "koKR": "("
   },
   {
     "id": 21253,
     "Key": "ModStre10f",
-    "enUS": ")"
+    "enUS": ")",
+    "koKR": ")"
   },
   {
     "id": 21254,
     "Key": "ModStre10g",
-    "enUS": "Stealth"
+    "enUS": "Stealth",
+    "koKR": "Tàng Hình"
   },
   {
     "id": 21255,
     "Key": "ModStre10h",
-    "enUS": "Immunity to Poison"
+    "enUS": "Immunity to Poison",
+    "koKR": "Miễn Nhiễm Độc"
   },
   {
     "id": 21256,
     "Key": "ModStre10i",
-    "enUS": "Cursed"
+    "enUS": "Cursed",
+    "koKR": "Bị Nguyền Rủa"
   },
   {
     "id": 21257,
     "Key": "ModStre10j",
-    "enUS": "Per Player in Party"
+    "enUS": "Per Player in Party",
+    "koKR": "Mỗi Người Chơi Trong Đội"
   },
   {
     "id": 21258,
     "Key": "WeaponDescH2H",
-    "enUS": "Claw Class - %s"
+    "enUS": "Claw Class - %s",
+    "koKR": "Hệ Vuốt (Claw) - %s"
   },
   {
     "id": 21259,
     "Key": "WeaponDescOrb",
-    "enUS": "Orb Class - %s"
+    "enUS": "Orb Class - %s",
+    "koKR": "Hệ Cầu Ma Thuật (Orb) - %s"
   },
   {
     "id": 21260,
     "Key": "ItemexpED",
-    "enUS": " Elemental Damage"
+    "enUS": " Elemental Damage",
+    "koKR": " Sát Thương Nguyên Tố"
   },
   {
     "id": 21782,
     "Key": "ModStre10k",
-    "enUS": "Kick Damage: %d to %d"
+    "enUS": "Kick Damage: %d to %d",
+    "koKR": "Sát Thương Đá: %d đến %d"
   },
   {
     "id": 21783,
     "Key": "ModStre10L",
-    "enUS": "Percent Chance to Cast"
+    "enUS": "Percent Chance to Cast",
+    "koKR": "Tỉ Lệ Thi Triển"
   },
   {
     "id": 21806,
     "Key": "tr2",
-    "enUS": "Scroll of Resistance"
+    "enUS": "Scroll of Resistance",
+    "koKR": "Cuộn Giấy Kháng Nguyên Tố"
   },
   {
     "id": 21874,
     "Key": "ExInsertSockets",
-    "enUS": "Can be Inserted into Socketed Items"
+    "enUS": "Can be Inserted into Socketed Items",
+    "koKR": "Có Thể Khảm Vào Trang Bị Có Lỗ"
   },
   {
     "id": 21885,
     "Key": "ItemExpansiveChancX",
-    "enUS": "%d%% Chance to cast level %d %s on attack"
+    "enUS": "%d%% Chance to cast level %d %s on attack",
+    "koKR": "%d%% Cơ Hội Thi Triển %s Cấp %d Khi Tấn Công"
   },
   {
     "id": 21886,
     "Key": "ItemExpansiveChanc1",
-    "enUS": "%d%% Chance to cast level %d %s on striking"
+    "enUS": "%d%% Chance to cast level %d %s on striking",
+    "koKR": "%d%% Cơ Hội Thi Triển %s Cấp %d Khi Đánh Trúng"
   },
   {
     "id": 21887,
     "Key": "ItemExpansiveChanc2",
-    "enUS": "%d%% Chance to cast level %d %s when struck"
+    "enUS": "%d%% Chance to cast level %d %s when struck",
+    "koKR": "%d%% Cơ Hội Thi Triển %s Cấp %d Khi Bị Đánh Trúng"
   },
   {
     "id": 21888,
     "Key": "ItemExpcharmdesc",
-    "enUS": "Keep in inventory to gain bonus"
+    "enUS": "Keep in inventory to gain bonus",
+    "koKR": "Giữ trong hòm đồ để nhận thuộc tính"
   },
   {
     "id": 22745,
     "Key": "strethereal",
-    "enUS": "ÿc1★ [ETH] ÿc8Ethereal (Cannot be Repaired)ÿc3"
+    "enUS": "ÿc1★ [ETH] ÿc8Ethereal (Cannot be Repaired)ÿc3",
+    "koKR": "ÿc1★ [ETH] ÿc8Vô Hình (Không Thể Sửa Chữa)ÿc3"
   },
   {
     "id": 22746,
     "Key": "stretherealnonrepair",
-    "enUS": "ÿc1★ [ETH] ÿc8This item cannot be repaired."
+    "enUS": "ÿc1★ [ETH] ÿc8This item cannot be repaired.",
+    "koKR": "ÿc1★ [ETH] ÿc8Trang bị này không thể sửa chữa."
   },
   {
     "id": 23001,
     "Key": "ModStr2uPercent",
-    "enUS": "Physical Damage Received Reduced by %d%%"
+    "enUS": "Physical Damage Received Reduced by %d%%",
+    "koKR": "ÿc8Giảm Sát Thương Vật Lý Nhận Vào %d%% (PDR%%)ÿc3"
   },
   {
     "id": 23004,
     "Key": "ItemModifierClassSkill",
-    "enUS": "ÿc8%+d to %s %sÿc3"
+    "enUS": "ÿc8%+d to %s %sÿc3",
+    "koKR": "ÿc8%+d Kỹ Năng %s %sÿc3"
   },
   {
     "id": 23005,
     "Key": "ItemModifierNonClassSkill",
-    "enUS": "%+d to %s"
+    "enUS": "%+d to %s",
+    "koKR": "%+d %s"
   },
   {
     "id": 23049,
     "Key": "strItemModEtherealSocketed",
-    "enUS": "ÿc1★ [ETH] ÿc8Ethereal (Cannot be Repaired), Socketed (%i)ÿc3"
+    "enUS": "ÿc1★ [ETH] ÿc8Ethereal (Cannot be Repaired), Socketed (%i)ÿc3",
+    "koKR": "ÿc1★ [ETH] ÿc8Vô Hình (Không Thể Sửa Chữa), Đục Lỗ (%i)ÿc3"
   },
   {
     "id": 23050,
     "Key": "strItemStatThrowDamageRange",
-    "enUS": "Throw Damage: %d to %d"
+    "enUS": "Throw Damage: %d to %d",
+    "koKR": "Sát Thương Ném: %d đến %d"
   },
   {
     "id": 26333,
     "Key": "UseTokenOfAbsolution",
-    "enUS": "Right Click to reset Stat/Skill Points"
+    "enUS": "Right Click to reset Stat/Skill Points",
+    "koKR": "Chuột Phải để Tẩy Điểm Thuộc Tính & Kỹ Năng"
   },
   {
     "id": 26360,
     "Key": "MalahsPotionDescription",
-    "enUS": "Keep it to thaw Anya"
+    "enUS": "Keep it to thaw Anya",
+    "koKR": "Dùng để giải băng cho Anya"
   },
   {
     "id": 26705,
     "Key": "ItemModifierPersonalized",
-    "enUS": "Personalized"
+    "enUS": "Personalized",
+    "koKR": "Khắc Tên Riêng"
   },
   {
     "id": 27212,
     "Key": "ModStr6j",
-    "enUS": "%+d%% Chance to not consume Quantity"
+    "enUS": "%+d%% Chance to not consume Quantity",
+    "koKR": "%+d%% Cơ Hội Không Tiêu Hao Số Lượng"
   },
   {
     "id": 27339,
     "Key": "ModItemMonColdSunder",
-    "enUS": "Monster Cold Immunity is Sundered"
+    "enUS": "Monster Cold Immunity is Sundered",
+    "koKR": "ÿcNPhá Kháng Băng Quái Vật (Sunder Cold)ÿc3"
   },
   {
     "id": 27340,
     "Key": "ModItemMonFireSunder",
-    "enUS": "Monster Fire Immunity is Sundered"
+    "enUS": "Monster Fire Immunity is Sundered",
+    "koKR": "ÿc1Phá Kháng Lửa Quái Vật (Sunder Fire)ÿc3"
   },
   {
     "id": 27341,
     "Key": "ModItemMonLightSunder",
-    "enUS": "Monster Lightning Immunity is Sundered"
+    "enUS": "Monster Lightning Immunity is Sundered",
+    "koKR": "ÿc9Phá Kháng Sét Quái Vật (Sunder Light)ÿc3"
   },
   {
     "id": 27342,
     "Key": "ModItemMonPoisonSunder",
-    "enUS": "Monster Poison Immunity is Sundered"
+    "enUS": "Monster Poison Immunity is Sundered",
+    "koKR": "ÿc2Phá Kháng Độc Quái Vật (Sunder Poison)ÿc3"
   },
   {
     "id": 27343,
     "Key": "ModItemMonPhysicalSunder",
-    "enUS": "Monster Physical Immunity is Sundered"
+    "enUS": "Monster Physical Immunity is Sundered",
+    "koKR": "ÿc;Phá Kháng Vật Lý Quái Vật (Sunder Physical)ÿc3"
   },
   {
     "id": 27344,
     "Key": "ModItemMonMagicSunder",
-    "enUS": "Monster Magic Immunity is Sundered"
+    "enUS": "Monster Magic Immunity is Sundered",
+    "koKR": "ÿcUPhá Kháng Phép Quái Vật (Sunder Magic)ÿc3"
   },
   {
     "id": 27351,
     "Key": "ModStr2uPercentNegative",
-    "enUS": "Physical Damage Received Increased by %d%%"
+    "enUS": "Physical Damage Received Increased by %d%%",
+    "koKR": "Tăng Sát Thương Vật Lý Nhận Vào %d%%"
   },
   {
     "id": 27371,
     "Key": "ModStr6k",
-    "enUS": "%+d%% chance for finishing moves to not consume charges"
+    "enUS": "%+d%% chance for finishing moves to not consume charges",
+    "koKR": "%+d%% Cơ Hội Đòn Kết Liễu Không Tiêu Tốn Tích Tụ"
   },
   {
     "id": 27374,
     "Key": "ModStr6l",
-    "enUS": "%+d%% Attack Speed"
+    "enUS": "%+d%% Attack Speed",
+    "koKR": "%+d%% ÿc4Tốc Độ Đánh (IAS)ÿc3"
   },
   {
     "id": 27374,
@@ -1733,7 +2078,7 @@
     "esES": "%+d%% de velocidad de ataque",
     "frFR": "Vitesse d’attaque augmentée de %+d%%",
     "itIT": "%+d%% velocità d'attacco",
-    "koKR": "ÿc4공격 속도 ÿc3%+d%%",
+    "koKR": "%+d%% ÿc4Tốc Độ Đánh (IAS)ÿc3",
     "plPL": "%+d%% do szybkości ataku",
     "esMX": "%+d%% de velocidad de ataque",
     "jaJP": "攻撃速度+%+d%%",
@@ -1750,7 +2095,7 @@
     "esES": "Clic derecho para aterrorizar el Acto I",
     "frFR": "Clic droit pour terroriser l’acte I",
     "itIT": "Clicca col destro per terrorizzare l'Atto 1",
-    "koKR": "오른쪽 클릭으로 1막에 공포의 마수 뻗기",
+    "koKR": "Chuột Phải để kích hoạt Terror Act 1",
     "plPL": "Naciśnij PPM, aby Aktem I owładnęła Groza",
     "esMX": "Haz clic derecho para aterrorizar el Acto 1",
     "jaJP": "右クリックで恐慌化（第1章）",
@@ -1767,7 +2112,7 @@
     "esES": "Clic derecho para aterrorizar el Acto II",
     "frFR": "Clic droit pour terroriser l’acte II",
     "itIT": "Clicca col destro per terrorizzare l'Atto 2",
-    "koKR": "오른쪽 클릭으로 2막에 공포의 마수 뻗기",
+    "koKR": "Chuột Phải để kích hoạt Terror Act 2",
     "plPL": "Naciśnij PPM, aby Aktem II owładnęła Groza",
     "esMX": "Haz clic derecho para aterrorizar el Acto 2",
     "jaJP": "右クリックで恐慌化（第2章）",
@@ -1784,7 +2129,7 @@
     "esES": "Clic derecho para aterrorizar el Acto III",
     "frFR": "Clic droit pour terroriser l’acte III",
     "itIT": "Clicca col destro per terrorizzare l'Atto 3",
-    "koKR": "오른쪽 클릭으로 3막에 공포의 마수 뻗기",
+    "koKR": "Chuột Phải để kích hoạt Terror Act 3",
     "plPL": "Naciśnij PPM, aby Aktem III owładnęła Groza",
     "esMX": "Haz clic derecho para aterrorizar el Acto 3",
     "jaJP": "右クリックで恐慌化（第3章）",
@@ -1801,7 +2146,7 @@
     "esES": "Clic derecho para aterrorizar el Acto IV",
     "frFR": "Clic droit pour terroriser l’acte IV",
     "itIT": "Clicca col destro per terrorizzare l'Atto 4",
-    "koKR": "오른쪽 클릭으로 4막에 공포의 마수 뻗기",
+    "koKR": "Chuột Phải để kích hoạt Terror Act 4",
     "plPL": "Naciśnij PPM, aby Aktem IV owładnęła Groza",
     "esMX": "Haz clic derecho para aterrorizar el Acto 4",
     "jaJP": "右クリックで恐慌化（第4章）",
@@ -1818,7 +2163,7 @@
     "esES": "Clic derecho para aterrorizar el Acto V",
     "frFR": "Clic droit pour terroriser l’acte V",
     "itIT": "Clicca col destro per terrorizzare l'Atto 5",
-    "koKR": "오른쪽 클릭으로 5막에 공포의 마수 뻗기",
+    "koKR": "Chuột Phải để kích hoạt Terror Act 5",
     "plPL": "Naciśnij PPM, aby Aktem V owładnęła Groza",
     "esMX": "Haz clic derecho para aterrorizar el Acto 5",
     "jaJP": "右クリックで恐慌化（第5章）",
@@ -1835,7 +2180,7 @@
     "esES": "Esquirla de la Piedra del Mundo occidental",
     "frFR": "Fragment occidental de la pierre-monde",
     "itIT": "Frammento della Pietra del Mondo Occidentale",
-    "koKR": "서부 세계석 조각",
+    "koKR": "Mảnh Worldstone Miền Tây",
     "plPL": "Zachodni Odłamek Kamienia Świata",
     "esMX": "Fragmento de la Piedra Ecuménica del Oeste",
     "jaJP": "西のワールドストーン・シャード",
@@ -1852,7 +2197,7 @@
     "esES": "Esquirla de la Piedra del Mundo oriental",
     "frFR": "Fragment oriental de la pierre-monde",
     "itIT": "Frammento della Pietra del Mondo Orientale",
-    "koKR": "동부 세계석 조각",
+    "koKR": "Mảnh Worldstone Miền Đông",
     "plPL": "Wschodni Odłamek Kamienia Świata",
     "esMX": "Fragmento de la Piedra Ecuménica del Este",
     "jaJP": "東のワールドストーン・シャード",
@@ -1869,7 +2214,7 @@
     "esES": "Esquirla de la Piedra del Mundo meridional",
     "frFR": "Fragment méridional de la pierre-monde",
     "itIT": "Frammento della Pietra del Mondo Meridionale",
-    "koKR": "남부 세계석 조각",
+    "koKR": "Mảnh Worldstone Miền Nam",
     "plPL": "Południowy Odłamek Kamienia Świata",
     "esMX": "Fragmento de la Piedra Ecuménica del Sur",
     "jaJP": "南のワールドストーン・シャード",
@@ -1886,7 +2231,7 @@
     "esES": "Esquirla de la Piedra del Mundo de las profundidades",
     "frFR": "Fragment abyssal de la pierre-monde",
     "itIT": "Frammento della Pietra del Mondo Profondo",
-    "koKR": "깊은 세계석 조각",
+    "koKR": "Mảnh Worldstone Thâm Uyên",
     "plPL": "Głęboki Odłamek Kamienia Świata",
     "esMX": "Fragmento de la Piedra Ecuménica de lo Profundo",
     "jaJP": "深部のワールドストーン・シャード",
@@ -1903,7 +2248,7 @@
     "esES": "Esquirla de la Piedra del Mundo septentrional",
     "frFR": "Fragment septentrional de la pierre-monde",
     "itIT": "Frammento della Pietra del Mondo Settentrionale",
-    "koKR": "북부 세계석 조각",
+    "koKR": "Mảnh Worldstone Miền Bắc",
     "plPL": "Północny Odłamek Kamienia Świata",
     "esMX": "Fragmento de la Piedra Ecuménica del Norte",
     "jaJP": "北のワールドストーン・シャード",
@@ -1920,7 +2265,7 @@
     "esES": "(Solo brujo)",
     "frFR": "(Démoniste uniquement)",
     "itIT": "(Solo Stregone)",
-    "koKR": "(악마술사 전용)",
+    "koKR": "(Chỉ Dành Cho Warlock)",
     "plPL": "(Tylko czarnoksiężnicy)",
     "esMX": "(Solo para Conjurador)",
     "jaJP": "（ウォーロックのみ）",
@@ -1937,7 +2282,7 @@
     "esES": "%+d%% de daño con habilidades mágicas",
     "frFR": "%+d%% aux dégâts magiques",
     "itIT": "%+d%% ai danni con abilità di magia",
-    "koKR": "ÿcU마법 기술 피해 ÿc3%+d%%",
+    "koKR": "%+d%% ÿcUSát Thương Kỹ Năng Phépÿc3",
     "plPL": "%+d%% do obrażeń od umiejętności magicznych",
     "esMX": "%+d%% de daño de habilidades mágicas",
     "jaJP": "魔法スキルダメージ向上（%+d%%）",
@@ -1954,7 +2299,7 @@
     "esES": "-%d%% de resistencia enemiga a la magia",
     "frFR": "-%d%% à la résistance magique de l’ennemi",
     "itIT": "-%d%% di resistenza alla magia nemica",
-    "koKR": "적 ÿcU마법 저항 ÿc3-%d%%",
+    "koKR": "-%d%% ÿcUKháng Phép Của Kẻ Địchÿc3",
     "plPL": "-%d%% do odporności wrogów na magię",
     "esMX": "-%d%% a la resistencia a la magia del enemigo",
     "jaJP": "敵の魔法耐性（-%d%%）",
@@ -1971,7 +2316,7 @@
     "esES": "%+d de daño mágico máximo",
     "frFR": "%+d aux dégâts magiques max.",
     "itIT": "%+d ai danni magici massimi",
-    "koKR": "최대 마법 피해 %+d",
+    "koKR": "%+d Sát Thương Phép Tối Đa",
     "plPL": "%+d do maksymalnych obrażeń magicznych",
     "esMX": "%+d de daño mágico máximo",
     "jaJP": "最大魔法ダメージ向上（%+d%%）",
@@ -1988,7 +2333,7 @@
     "esES": "-%d%% de resistencia enemiga al daño físico",
     "frFR": "-%d%% à la résistance aux dégâts physiques de l’ennemi",
     "itIT": "-%d%% di resistenza ai danni fisici inflitti dai nemici",
-    "koKR": "적 물리 피해 저항 -%d%%",
+    "koKR": "-%d%% Kháng Sát Thương Vật Lý Của Kẻ Địch",
     "plPL": "-%d%% do odporności wrogów na obrażenia fizyczne",
     "esMX": "-%d%% a la resistencia al daño físico del enemigo",
     "jaJP": "敵の物理ダメージ耐性（-%d%%）",
@@ -2005,7 +2350,7 @@
     "esES": "+%d a las habilidades demoníacas",
     "frFR": "+%d aux compétences démoniaques",
     "itIT": "+%d alle abilità Demoniache",
-    "koKR": "악마 기술 +%d",
+    "koKR": "+%d Kỹ Năng Quỷ (Demon Skills)",
     "plPL": "+%d do umiejętności demonicznych",
     "esMX": "+%d a las habilidades de Demonio",
     "jaJP": "悪魔スキル向上（+%d）",
@@ -2022,7 +2367,7 @@
     "esES": "+%d a las habilidades sobrenaturales",
     "frFR": "+%d aux compétences sinistres",
     "itIT": "+%d alle abilità Ultraterrene",
-    "koKR": "기괴 기술 +%d",
+    "koKR": "+%d Kỹ Năng Tà Thần (Eldritch Skills)",
     "plPL": "+%d do umiejętności wynaturzenia",
     "esMX": "+%d a las habilidades de Espanto",
     "jaJP": "エルドリッチスキル向上（+%d）",
@@ -2039,7 +2384,7 @@
     "esES": "+%d a las habilidades del caos",
     "frFR": "+%d aux compétences chaotiques",
     "itIT": "+%d alle abilità del Caos",
-    "koKR": "혼돈 기술 +%d",
+    "koKR": "+%d Kỹ Năng Hỗn Mang (Chaos Skills)",
     "plPL": "+%d do umiejętności chaotycznych",
     "esMX": "+%d a las habilidades de Caos",
     "jaJP": "混沌スキル向上（+%d）",
@@ -2056,7 +2401,7 @@
     "esES": "+%d a las habilidades de brujo",
     "frFR": "+%d aux compétences de démoniste",
     "itIT": "+%d alle abilità dello Stregone",
-    "koKR": "ÿc9악마술사 기술 +%dÿc3",
+    "koKR": "+%d ÿc9Kỹ Năng Warlockÿc3",
     "plPL": "+%d do umiejętności czarnoksiężnika",
     "esMX": "+%d a las habilidades de Conjurador",
     "jaJP": "ウォーロックスキル向上（+%d）",
@@ -2090,7 +2435,7 @@
     "esES": "Defensa: ÿcT(%d-%d)ÿc3",
     "frFR": "Défense : ÿcU(%d-%d)ÿc3",
     "itIT": "Difesa: ÿcT(%d-%d)ÿc3",
-    "koKR": "방어력: ÿcU(%d-%d)ÿc3",
+    "koKR": "Phòng Thủ: ÿcU(%d-%d)ÿc3",
     "plPL": "Obrona: ÿcU(%d-%d)ÿc3",
     "esMX": "Defensa: ÿcU(%d-%d)ÿc3",
     "jaJP": "防御力: ÿcU(%d-%d)ÿc3",
@@ -2107,7 +2452,7 @@
     "esES": "%+d a los niveles de habilidad de una clase aleatoria",
     "frFR": "%+d au niv. de compétence d’une classe aléatoire",
     "itIT": "%+d ai livelli di abilità di una classe casuale",
-    "koKR": "무작위 직업의 기술 레벨 %+d",
+    "koKR": "%+d Kỹ Năng Thuộc Hệ Phái Ngẫu Nhiên",
     "plPL": "%+d do umiejętności losowej klasy",
     "esMX": "%+d a los niveles de habilidad de una clase aleatoria",
     "jaJP": "ランダムなクラスのスキルレベル向上（%+d）",
@@ -2124,7 +2469,7 @@
     "esES": "%+d a %s de una habilidad %s aleatoria",
     "frFR": "%+d à une %s compétence %s aléatoire",
     "itIT": "%+d a una %s abilità %s casuale",
-    "koKR": "무작위 %s 기술 %s %+d",
+    "koKR": "%+d Kỹ Năng %s %s Ngẫu Nhiên",
     "plPL": "%+d do %s losowej umiejętności %s",
     "esMX": "%+d a %s de una habilidad de %s aleatoria",
     "jaJP": "ランダムな%sスキル%s向上（%+d）",
@@ -2141,7 +2486,7 @@
     "esES": "",
     "frFR": "",
     "itIT": "",
-    "koKR": "",
+    "koKR": "• ",
     "plPL": "",
     "esMX": " ",
     "jaJP": "",
@@ -2158,7 +2503,7 @@
     "esES": "%s de las siguientes:",
     "frFR": "%s au choix :",
     "itIT": "%s dei seguenti:",
-    "koKR": "다음의 %s:",
+    "koKR": "%s Trong Số Các Thuộc Tính Sau:",
     "plPL": "%s z poniższych możliwości:",
     "esMX": "%s de lo siguiente:",
     "jaJP": "以下のうち%s: ",

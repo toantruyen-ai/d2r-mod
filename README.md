@@ -90,6 +90,20 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
 - **Tối ưu hạt hiệu ứng (VFX)**: Giảm thiểu độ trễ, tối ưu hóa phân lớp GPU giúp giữ mức FPS mượt mà ổn định ngay cả trong những pha giao tranh đông quái vật (Chaos Sanctuary, Cow Level).
 - **Sửa lỗi class Warlock**: Đã khắc phục triệt để lỗi skill/missile và quỷ triệu hồi của Warlock ở chế độ HD.
 
+### 7. Tính năng Chuyển đổi Ngôn ngữ Nhanh EN - VI Trực Tiếp Trong Game (In-Game Language Switcher)
+- **Chuyển đổi tức thì không cần thoát game hay khởi động lại**:
+  - Vào **Options (Cài đặt)** $\rightarrow$ **Gameplay / Audio** $\rightarrow$ tại mục **Text Language (Ngôn ngữ chữ)**:
+    - Chọn **English**: Toàn bộ giao diện và chú thích quay về tiếng Anh chuẩn quốc tế.
+    - Chọn **한국어 (Korean)**: Kích hoạt ngay lập tức chế độ **Tiếng Việt có dấu đầy đủ**!
+- **Phạm vi Việt Hóa chọn lọc & chuẩn mực (Tối ưu cho Trader & Người chơi Online)**:
+  - **Dòng giải thích chỉ số (Item Affixes)**: Việt hóa rõ ràng, giữ nguyên đầy đủ mã màu và biểu tượng chuẩn của mod, kết hợp thuật ngữ ARPG quốc tế giúp đọc đồ nhanh chóng (`Tốc Độ Đánh (IAS)`, `Tốc Độ Niệm Phép Nhanh (FCR)`, `Phục Hồi Đòn Đánh Nhanh (FHR)`, `Tốc Độ Chạy (FRW)`, `Tỉ Lệ Đỡ Đòn (Block)`, `Đòn Chí Mạng (Deadly Strike)`, `Đòn Nghiền Nát (Crushing Blow)`, `Tất Cả Kháng (All Res)`, `Không Thể Bị Đóng Băng (CBF)`, `Vô Hình [ETH]`, v.v.).
+  - **Chỉ số ngọc khảm (Gem Affixes)**: Toàn bộ hiệu ứng khảm Mũ, Khiên, Vũ khí, Áo giáp của cả 7 loại ngọc và đầu lâu (Skull).
+  - **Công thức ghép Horadric Cube**: Hiển thị tiền tố `Ghép: ...` trên toàn bộ 33 Rune (VD: `Ghép: 2x Ber + Flawless Sapphire -> Jah`).
+  - **Tên nhiệm vụ & Nhật ký nhiệm vụ (Quest Log)**: Toàn bộ danh sách nhiệm vụ từ Act 1 đến Act 5 (`Hang Ổ Quỷ Dữ (Den of Evil)`, `Nghĩa Địa Của Các Nữ Tu`, `Tìm Kiếm Deckard Cain`, `Tháp Bị Lãng Quên`, `Bảy Lăng Mộ`, `Mật Tịch Lam Esen`, `Lễ Trưởng Thành`, `Thời Khắc Hủy Diệt`...).
+  - **Hướng dẫn nhiệm vụ NPC & Chiến thuật diệt Boss (Boss Guides & Controller Activity Hints)**: 16 cẩm nang chiến thuật đối đầu Boss (Andariel, Duriel, Mephisto, Diablo, Baal, Shenk, Countess, Madawc...) và hướng dẫn thao tác nút bấm tay cầm trực quan.
+  - **Giữ nguyên Tên vật phẩm & Rune bằng Tiếng Anh**: Tên món đồ rơi ra và tên trang bị gốc (`Jah Rune`, `Ber Rune`, `Shako`, `Magefist`, `Monarch`, `Enigma`...) vẫn hiển thị 100% tiếng Anh nguyên bản để bạn chat, trao đổi và giao dịch mượt mà trên các sàn giao dịch quốc tế (Traderie, D2JSP, Discord).
+- **Font chữ tiếng Việt mượt mà (Full Diacritics)**: Tích hợp font chữ Tahoma tối ưu hóa thay thế cho slot font Kodia, hỗ trợ 100% dấu tiếng Việt, sắc nét trên mọi độ phân giải và tuyệt đối không bao giờ bị lỗi ô vuông `[]` hay dấu chấm hỏi `?`.
+
 ---
 
 ## 📖 Bảng Tra cứu Cấp bậc Rune & Công thức Ép Cube
