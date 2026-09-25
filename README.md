@@ -9,11 +9,15 @@ Bản mod tùy chỉnh dành cho **Diablo II: Resurrected** (hỗ trợ phiên b
   - Hiển thị khoảng roll của các dòng chỉ số (min-max stats).
   - Tối ưu hóa bảng tên item rơi trên mặt đất, dễ nhìn và không bị rối màn hình.
   - Hỗ trợ đầy đủ các affixes và item riêng cho class **Warlock**.
-  - **Rune Cheatsheet & Phân cấp**: Hiển thị số thứ tự Rune, cấp độ (Low/Mid/High-Mid/High Rune), công thức ghép Horadric Cube và các Runeword tiêu biểu ghép từ Rune đó.
+  - **Rune 1 Dòng Siêu Sạch & Phân cấp**: Tên Rune hiển thị trên 1 dòng duy nhất, không rườm rà che màn hình; phân biệt rõ thứ tự và đẳng cấp từ Low đến High Rune (gắn sao `★`).
   - **Tối ưu cày Online (Battle.net)**: Rút gọn nhãn cuộn giấy thành `[TP]`, `[ID]`; làm nổi bật bình máu tím `[+100% REJUV]`; gắn ký hiệu ngôi sao `★` cho Charm và Jewel quý.
-- **Cột sáng Beacon & Âm thanh rơi đồ (Drop Sound)**:
+- **Cột sáng Beacon theo Cấp bậc (Tiered Beacons) & Âm thanh rơi đồ**:
   - Cột sáng đánh dấu Waypoint, cửa hầm chuyển map, cầu thang, rương đặc biệt (Special Chests).
-  - Cột sáng riêng cho Rune, Charm, Gem quý.
+  - **Hệ thống Cột sáng Rune theo Cấp bậc (Tier Beacons)**:
+    - *Low Rune (1-15)*: Tắt cột sáng (giữ màn hình sạch sẽ 100% khi cày bãi quái).
+    - *Mid Rune (16-20)*: Cột sáng Xanh Dương Bạc (Cyan Cold Light).
+    - *High-Mid Rune (21-25)*: Cột sáng Vàng Kim (Bright Golden Pillar).
+    - *High Rune (26-33)*: Cột sáng Thần Thánh (God-Tier Beacons: Vàng kim + Lửa đỏ Fanaticism + Chớp Valkyrie).
   - Kích hoạt âm thanh rơi đồ (Drop chime/SFX HD) sắc nét khi Rune, Gem và Charm rơi xuống đất.
 - **Direction Arrows & Bản đồ thông minh (Area Level)**:
   - Mũi tên dẫn hướng chỉ lối đi các map và nhiệm vụ.
