@@ -54,13 +54,27 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
   - Gắn nguồn gốc Boss vào 4 loại Tinh chất: `Twisted Essence (Andariel/Duriel)`, `Charged Essence (Mephisto)`, `Burning Essence (Diablo)`, `Festering Essence (Baal)`.
   - Bình tẩy điểm nổi bật: `★ TOKEN OF ABSOLUTION ★ [Tẩy Điểm]`.
 - **Đánh dấu Ngọc Chuyên Dụng (Crafting & MF Gems)**: Gắn nhãn nhận diện công dụng cho `Flawless/Perfect Amethyst [Craft Caster]`, `Ruby [Craft Blood]`, `Topaz [MF]`, `Skull [Reroll Rare]`.
-- **Bảng tra cứu In-Game tích hợp trên Sách TP & Sách ID**:
-  - `Tome of Town Portal`: Bảng mốc tốc độ thi triển phép (FCR Breakpoints) & hồi đòn (FHR Breakpoints) của 7 class; kèm mẹo lệnh online sống còn: `/nopickup` (chặn chuột tự nhặt rác) và `/fps` (xem ping mạng ms).
-  - `Tome of Identify`: Bảng tra cứu hào quang đệ tử Act 2 Mercenary (Normal/Hell vs Nightmare: Might, Holy Freeze, Prayer, Blessed Aim, Defiance, Thorns).
+- **Bảng tra cứu In-Game tích hợp trên Sách TP, Sách ID & Horadric Cube**:
+  - `Tome of Town Portal (tbk)`: Bảng mốc tốc độ thi triển phép (FCR Breakpoints) & hồi đòn (FHR Breakpoints) của 7 class; kèm mẹo lệnh online sống còn: `/nopickup` (chặn chuột tự nhặt rác) và `/fps` (xem ping mạng ms).
+  - `Tome of Identify (ibk)`: Bảng tra cứu hào quang đệ tử Act 2 Mercenary (Might, Holy Freeze, Prayer, Blessed Aim, Defiance, Thorns); Bảng mốc tốc độ đánh (IAS Breakpoints) phổ biến (Bowazon, Javazon, Smite Pally, WW Barb); Bảng mốc đỡ khiên (FBR Breakpoints) cho Paladin (Holy Shield 0% = 2 frame) và Caster; Mẹo craft Caster Amulet.
+  - `Horadric Cube (box)`: Cẩm nang bí kíp chế đồ & reroll trực quan ngay khi hover chuột:
+    - *Bí kíp Craft Caster Amulet (+2 Skill / 20 FCR)*: Công thức Ral + Pamethyst + Jewel + Amulet; Điều kiện VÀNG bắt buộc dùng nhân vật **Level 93+ đi Gamble** rồi craft ngay để đảm bảo 100% đạt ilvl 90+ mở khóa tiền tố +2 All Skills!
+    - *Bí kíp Reroll Grand Charm (+1 Skill / 45 Life)*: Công thức 3 Perfect Gems; Điều kiện chỉ Grand Charm nhặt từ 3 Boss lớn: **Diablo (ilvl 94)**, **Nihlathak (ilvl 95)**, **Baal (ilvl 99)** mới có cơ hội ra dòng 41-45 Life!
+    - *Bảng công thức ghép High Rune*: Tóm tắt loại ngọc cần thiết khi ép các Rune cao cấp (Pul $\rightarrow$ Jah).
 - **Đánh dấu sao tím cho Bùa & Ngọc**: Gắn thẻ sao nổi bật cho `★ Small Charm`, `★ Large Charm`, `★ Grand Charm`, và `★ Jewel`.
-- **Tên Horadric Cube thanh lịch**: Giữ tên ngắn gọn nguyên bản, tránh lỗi thanh cheatsheet 20 dòng làm đơ/tràn khung giao diện tay cầm.
 
-### 4. Hệ thống Dẫn đường & Đánh dấu Bản đồ (Navigation Beacons & Arrows)
+### 4. Hệ thống Cảnh báo Quái Tử Thần & Phân Biệt Boss (Deadly Monster Warnings)
+- **Cảnh báo Búp bê nổ tử thần (Death Explosion)**: Gắn tiền tố đỏ rực `★ [NỔ TỬ THẦN]` trên thanh máu/tên của toàn bộ dòng quái búp bê xương (`Undead Stygian Doll`, `Undead Soul Killer`, `Undead Flayer`, `Undead Fetish`, `Undead Rat Man`). Nhắc nhở người chơi không tiêu diệt quái ở cự ly gần hoặc không teleport thẳng vào đàn búp bê để tránh bị 1-shot sốc chết tức tưởi.
+- **Cảnh báo Linh hồn sét tử thần (Piercing Lightning)**: Gắn nhãn `★ [SÉT TỬ THẦN]` trên `Burning Soul`, `Black Soul`, `Gloam`, `Swamp Ghost` giúp người chơi lập tức chuẩn bị uống bình kháng sét, bật đồ chống sét hoặc giữ khoảng cách né tia sét xuyên màn hình.
+- **Cảnh báo Rắn độc tử thần (Bugged Multi-Hit Poison Cloud)**: Gắn nhãn `★ [ĐỘC TỬ THẦN]` trên dòng họ rắn độc Act 5 & Act 2 (`Tomb Viper`, `Pit Viper`, `Salamander`, `Claw Viper`, `Serpent Magus`), đặc biệt cảnh giác đám mây độc bug multi-hit tại hang Nihlathak (Halls of Vaught).
+- **Cảnh báo Boss Nihlathak Nổ Xác**: Gắn nhãn `★ [NỔ XÁC TỬ THẦN] Nihlathak` cảnh báo kỹ năng Corpse Explosion tầm xa cực mạnh.
+- **Phân biệt Baal Thật vs Baal Phân Thân (Baal Clone)**:
+  - Baal Phân Thân: `★ [BAAL GIẢ] Baal`
+  - Baal Thật: `★ [BAAL THẬT] Baal`
+  - Giúp nhận diện chuẩn xác ngay lập tức mục tiêu chính để dồn sát thương, tiết kiệm thời gian khi farm Baal Hell.
+- **Cảnh báo Quái Nguyền Rủa**: Gắn nhãn `★ [NGUYỀN RỦA] Oblivion Knight` cảnh báo các lời nguyền nguy hiểm (Decrepify, Lower Resist).
+
+### 5. Hệ thống Dẫn đường & Đánh dấu Bản đồ (Navigation Beacons & Arrows)
 - **Mẹo Chỉ Hướng Map Chuẩn Pro Speedrun (Map Navigation Rule)**: Tích hợp chỉ dẫn định hướng `[Rẽ Trái]` hoặc `[Rẽ Phải]` trực tiếp vào tên khu vực trên map và lối chuyển tầng (an toàn 100% cho bảng Waypoint):
   - *Tower Cellar Tầng 1 $\rightarrow$ 4 (Countess)*: `[Rẽ Trái]` (Bám tường tay trái nhân vật từ cửa vào là tới cửa tầng kế tiếp).
   - *Catacombs Level 2 (Andariel)*: `[Rẽ Phải]` (Bám tường tay phải tính từ hướng bước ra khỏi Waypoint).
@@ -80,18 +94,18 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
 - **Nhận diện hướng đi Nihlathak**: Preset đánh dấu góc bản đồ Halls of Vaught giúp xác định chính xác góc phòng của Nihlathak ngay khi bước vào tầng.
 - **Mũi tên dẫn hướng (Direction Arrows)**: Hiển thị mũi tên 4 hướng chỉ lối đi các nhiệm vụ chính.
 
-### 5. Bản đồ Thông minh & Hiển thị Cấp độ Khu vực (Area Level 85)
+### 6. Bản đồ Thông minh & Hiển thị Cấp độ Khu vực (Area Level 85)
 - Hiển thị chỉ số Area Level phân theo 3 cấp độ khó: `[Normal, Nightmare, Hell]` ngay cạnh tên từng khu vực.
 - Giúp người chơi nhận diện nhanh chóng các **khu vực Level 85** (như The Pit, Ancient Tunnels, Stony Tomb, Chaos Sanctuary, Worldstone Keep...) để tối ưu hóa việc farm đồ High Rune và Unique cao cấp.
 - Loại bỏ mã màu gây lỗi hiển thị ký tự rác trên danh sách điểm chuyển tiếp Waypoint.
 
-### 6. Tối ưu Đồ họa, Hiệu năng & Tăng tốc Khởi động
+### 7. Tối ưu Đồ họa, Hiệu năng & Tăng tốc Khởi động
 - **Bỏ qua Video Intro**: Thay thế các đoạn cinematic mở đầu bằng clip tĩnh siêu ngắn, giúp khởi động thẳng vào menu chính trong tích tắc.
 - **Font chữ sắc nét**: Tích hợp bộ font Kodia & Exocet tinh chỉnh, nét chữ đậm và rõ ràng, không bị nhòe trên màn hình 2K/4K.
 - **Tối ưu hạt hiệu ứng (VFX)**: Giảm thiểu độ trễ, tối ưu hóa phân lớp GPU giúp giữ mức FPS mượt mà ổn định ngay cả trong những pha giao tranh đông quái vật (Chaos Sanctuary, Cow Level).
 - **Sửa lỗi class Warlock**: Đã khắc phục triệt để lỗi skill/missile và quỷ triệu hồi của Warlock ở chế độ HD.
 
-### 7. Tính năng Chuyển đổi Ngôn ngữ EN - VI (Language Switcher)
+### 8. Tính năng Chuyển đổi Ngôn ngữ EN - VI (Language Switcher)
 Trên phiên bản PC, Blizzard cố định ngôn ngữ theo Battle.net (chỉ bản Console mới có menu đổi trong game). Bạn có thể đổi qua lại giữa Tiếng Anh và Tiếng Việt cực kỳ tiện lợi theo 2 cách:
 
 - **Cách 1 (Khuyên dùng - Chọn trực tiếp trong Battle.net Launcher)**:
