@@ -4371,7 +4371,7 @@
   {
     "id": 2182,
     "Key": "gpl",
-    "enUS": "ÿc5[Gas]",
+    "enUS": "ÿc5·",
     "zhTW": "刺鼻毒氣藥水",
     "deDE": "Erstickungsgaselixier",
     "esES": "[fs]Poción de gas sofocante",
@@ -4388,7 +4388,7 @@
   {
     "id": 2183,
     "Key": "opl",
-    "enUS": "ÿc5[Oil]",
+    "enUS": "ÿc5·",
     "zhTW": "烈性藥水",
     "deDE": "Knallelixier",
     "esES": "[fs]Poción fulminante",
@@ -4405,7 +4405,7 @@
   {
     "id": 2184,
     "Key": "gpm",
-    "enUS": "ÿc5[Gas]",
+    "enUS": "ÿc5·",
     "zhTW": "窒息毒氣藥水",
     "deDE": "Würgegaselixier",
     "esES": "[fs]Poción de gas estrangulante",
@@ -4422,7 +4422,7 @@
   {
     "id": 2185,
     "Key": "opm",
-    "enUS": "ÿc5[Oil]",
+    "enUS": "ÿc5·",
     "zhTW": "爆炸藥水",
     "deDE": "Explosivelixier",
     "esES": "[fs]Poción explosiva",
@@ -4439,7 +4439,7 @@
   {
     "id": 2186,
     "Key": "gps",
-    "enUS": "ÿc5[Gas]",
+    "enUS": "ÿc5·",
     "zhTW": "腐臭毒氣藥水",
     "deDE": "Stinkgaselixier",
     "esES": "[fs]Poción de gas rancio",
@@ -4456,7 +4456,7 @@
   {
     "id": 2187,
     "Key": "ops",
-    "enUS": "ÿc5[Oil]",
+    "enUS": "ÿc5·",
     "zhTW": "火油藥水",
     "deDE": "Ölelixier",
     "esES": "[fs]Poción de aceite",
@@ -4643,7 +4643,7 @@
   {
     "id": 2199,
     "Key": "tbk",
-    "enUS": "Tome of Town Portal\nÿc3FCR Mốc (Tốc Độ Phép):\nÿc2• Sorc: 37 / 63 / 105 / 200%\nÿc2• Pally / Bone Necro: 48 / 75 / 125%\nÿc2• Barb: 37 / 63 / 105% | Druid: 46 / 68 / 99%\nÿc2• Sin: 42 / 65 / 102% | Zon: 68 / 99%\nÿc3FHR Mốc (Hồi Đòn):\nÿc4• Sorc: 42 / 60 / 86% | Pally: 48 / 86%\nÿc4• Necro / Druid: 56 / 86% | Barb: 48 / 86%",
+    "enUS": "Tome of Town Portal\nÿc3FCR Mốc (Tốc Độ Phép):\nÿc2• Sorc: 37 / 63 / 105 / 200%\nÿc2• Pally / Bone Necro: 48 / 75 / 125%\nÿc2• Barb: 37 / 63 / 105% | Druid: 46 / 68 / 99%\nÿc2• Sin: 42 / 65 / 102% | Zon: 68 / 99%\nÿc3FHR Mốc (Hồi Đòn):\nÿc4• Sorc: 42 / 60 / 86% | Pally: 48 / 86%\nÿc4• Necro / Druid: 56 / 86% | Barb: 48 / 86%\nÿc0Lệnh Online: /nopickup (Chặn nhặt rác) | /fps (Ping ms)",
     "zhTW": "城鎮傳送之書",
     "deDE": "Foliant des Stadtportals",
     "esES": "Tomo del portal de la ciudad",
@@ -4711,7 +4711,7 @@
   {
     "id": 2207,
     "Key": "vps",
-    "enUS": "ÿc5[Stamina]",
+    "enUS": "ÿc5·",
     "zhTW": "精力藥水",
     "deDE": "Ausdauerelixier",
     "esES": "Poción de aguante",
@@ -4728,7 +4728,7 @@
   {
     "id": 2208,
     "Key": "yps",
-    "enUS": "ÿc5[Antidote]",
+    "enUS": "ÿc5·",
     "zhTW": "解毒藥水",
     "deDE": "Gegengiftelixier",
     "esES": "Poción antídoto",
@@ -4779,7 +4779,7 @@
   {
     "id": 2211,
     "Key": "wms",
-    "enUS": "ÿc5[Thaw]",
+    "enUS": "ÿc5·",
     "zhTW": "融冰藥水",
     "deDE": "Auftauelixier",
     "esES": "Poción descongelante",
@@ -4881,7 +4881,7 @@
   {
     "id": 2218,
     "Key": "aqv",
-    "enUS": "ÿc5[Arr]",
+    "enUS": "ÿc5·",
     "zhTW": "弓矢",
     "deDE": "Pfeile",
     "esES": "[fp]Flechas",
@@ -4915,7 +4915,7 @@
   {
     "id": 2220,
     "Key": "cqv",
-    "enUS": "ÿc5[Blt]",
+    "enUS": "ÿc5·",
     "zhTW": "弩箭",
     "deDE": "Bolzen",
     "esES": "[fp]Saetas",
@@ -4949,7 +4949,7 @@
   {
     "id": 2222,
     "Key": "key",
-    "enUS": "ÿc5[Key]",
+    "enUS": "ÿc5·",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -5561,7 +5561,7 @@
   {
     "id": 2266,
     "Key": "hp1",
-    "enUS": "ÿc5[HP1]",
+    "enUS": "ÿc5·",
     "zhTW": "弱效生命藥水",
     "deDE": "schwacher Heiltrank",
     "esES": "Poción de salud menor",
@@ -5578,7 +5578,7 @@
   {
     "id": 2267,
     "Key": "hp2",
-    "enUS": "ÿc5[HP2]",
+    "enUS": "ÿc5·",
     "zhTW": "輕效生命藥水",
     "deDE": "leichter Heiltrank",
     "esES": "Poción de salud ligera",
@@ -5595,7 +5595,7 @@
   {
     "id": 2268,
     "Key": "hp3",
-    "enUS": "ÿc5[HP3]",
+    "enUS": "ÿc5·",
     "zhTW": "生命藥水",
     "deDE": "Heiltrank",
     "esES": "Poción de salud",
@@ -5612,7 +5612,7 @@
   {
     "id": 2269,
     "Key": "hp4",
-    "enUS": "ÿc1[HP4]",
+    "enUS": "ÿc1HP",
     "zhTW": "強效生命藥水",
     "deDE": "guter Heiltrank",
     "esES": "Poción de salud superior",
@@ -5646,7 +5646,7 @@
   {
     "id": 2271,
     "Key": "mp1",
-    "enUS": "ÿc5[MP1]",
+    "enUS": "ÿc5·",
     "zhTW": "弱效法力藥水",
     "deDE": "schwacher Manatrank",
     "esES": "Poción de maná menor",
@@ -5663,7 +5663,7 @@
   {
     "id": 2272,
     "Key": "mp2",
-    "enUS": "ÿc5[MP2]",
+    "enUS": "ÿc5·",
     "zhTW": "輕效法力藥水",
     "deDE": "leichter Manatrank",
     "esES": "Poción de maná ligera",
@@ -5680,7 +5680,7 @@
   {
     "id": 2273,
     "Key": "mp3",
-    "enUS": "ÿc5[MP3]",
+    "enUS": "ÿc5·",
     "zhTW": "法力藥水",
     "deDE": "Manatrank",
     "esES": "Poción de maná",
@@ -5697,7 +5697,7 @@
   {
     "id": 2274,
     "Key": "mp4",
-    "enUS": "ÿc3[MP4]",
+    "enUS": "ÿc3MP",
     "zhTW": "強效法力藥水",
     "deDE": "guter Manatrank",
     "esES": "Poción de maná superior",

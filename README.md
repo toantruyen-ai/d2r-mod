@@ -29,10 +29,11 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
 - **Âm thanh rơi đồ (Drop SFX HD)**: Tích hợp âm thanh "chime" chuông ngân sắc nét (`item_rune_hd.flac`, `charm_hd.flac`, `gem_hd.flac`), nghe rõ ràng và cực kỳ đã tai khi đồ xịn rớt từ quái vật hay rương đồ.
 
 ### 3. Bộ lọc Nhãn Rơi Tối ưu Cày Online (Battle.net Safe Loot Filter)
-- **Thu gọn vật phẩm rác (Anti-Clutter Filter)**: 
-  - Rút ngắn tên đạn thành `[Arr]` (Arrows) và `[Blt]` (Bolts).
-  - Rút gọn chìa khóa thường thành `[Key]` để không nhầm lẫn với chìa khóa Uber.
-  - Thu gọn bình máu/mana cấp thấp thành `[HP1]`, `[MP1]`, các bình thể lực/giải độc thành `[Stamina]`, `[Thaw]`, `[Antidote]`... giúp giải phóng tầm nhìn cực kỳ thông thoáng khi farm Cow Level, Chaos Sanctuary hay Travincal.
+- **Bộ lọc "Tàng Hình Rác" (Dot Filter ·)**: 
+  - Toàn bộ tên nỏ (`aqv`, `cqv`), chìa khóa thường (`key`), các bình ném độc/dầu (`gpl`, `opl`), bình thể lực/giải độc (`vps`, `yps`, `wms`) và bình máu/mana cấp thấp 1–3 (`hp1-3`, `mp1-3`) đều được hóa thành **1 dấu chấm mờ duy nhất: `·`**.
+  - Đồ hỏng, kém chất lượng (`Low Quality`, `Damaged`, `Cracked`, `Crude`) cũng tự động thu nhỏ thành dấu chấm mờ `·`.
+  - Khung chữ teo lại 99% thành một chấm nhỏ xíu, giúp giải phóng hoàn toàn tầm nhìn khi cày bãi đông (Cow Level, Chaos Sanctuary, Travincal), không còn bị chữ to của rác che khuất màn hình.
+  - Bình máu/mana lớn được giữ gọn gàng: `HP` (Greater HP), `★ [Super HP]`, `MP` (Greater MP), `★ [Super MP]`.
 - **Rút gọn nhãn cuộn giấy & Bình Rejuv**: Biến nhãn dài dòng thành `[TP]` (Town Portal) và `[ID]` (Identify); làm nổi bật bình Rejuv tím `[+35% Rejuv]` và `★ [+100% REJUV] ★`.
 - **Chỉ dẫn Phôi Runeword & Số lỗ Larzuk (Socket & Base Helper)**: Hiển thị số lỗ tối đa khi đục Larzuk Act 5 và gợi ý Runeword hot trực tiếp trên tên phôi:
   - `Monarch [Max 4os - Spirit/Phoenix]`, `Phase Blade [Max 6os - Grief/Last Wish]`
@@ -54,7 +55,7 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
   - Bình tẩy điểm nổi bật: `★ TOKEN OF ABSOLUTION ★ [Tẩy Điểm]`.
 - **Đánh dấu Ngọc Chuyên Dụng (Crafting & MF Gems)**: Gắn nhãn nhận diện công dụng cho `Flawless/Perfect Amethyst [Craft Caster]`, `Ruby [Craft Blood]`, `Topaz [MF]`, `Skull [Reroll Rare]`.
 - **Bảng tra cứu In-Game tích hợp trên Sách TP & Sách ID**:
-  - `Tome of Town Portal`: Bảng mốc tốc độ thi triển phép (FCR Breakpoints) & hồi đòn (FHR Breakpoints) của 7 class.
+  - `Tome of Town Portal`: Bảng mốc tốc độ thi triển phép (FCR Breakpoints) & hồi đòn (FHR Breakpoints) của 7 class; kèm mẹo lệnh online sống còn: `/nopickup` (chặn chuột tự nhặt rác) và `/fps` (xem ping mạng ms).
   - `Tome of Identify`: Bảng tra cứu hào quang đệ tử Act 2 Mercenary (Normal/Hell vs Nightmare: Might, Holy Freeze, Prayer, Blessed Aim, Defiance, Thorns).
 - **Đánh dấu sao tím cho Bùa & Ngọc**: Gắn thẻ sao nổi bật cho `★ Small Charm`, `★ Large Charm`, `★ Grand Charm`, và `★ Jewel`.
 - **Tên Horadric Cube thanh lịch**: Giữ tên ngắn gọn nguyên bản, tránh lỗi thanh cheatsheet 20 dòng làm đơ/tràn khung giao diện tay cầm.
