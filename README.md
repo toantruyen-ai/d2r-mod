@@ -9,7 +9,7 @@ Bản mod tùy chỉnh dành cho **Diablo II: Resurrected** (hỗ trợ phiên b
   - Hiển thị khoảng roll của các dòng chỉ số (min-max stats).
   - Tối ưu hóa bảng tên item rơi trên mặt đất, dễ nhìn và không bị rối màn hình.
   - Hỗ trợ đầy đủ các affixes và item riêng cho class **Warlock**.
-  - **Rune 1 Dòng Siêu Sạch & Hệ thống Xếp hạng Ngôi sao (Star Ranking)**: Tên Rune hiển thị trên 1 dòng duy nhất, phân cấp rõ ràng bằng số lượng và màu sắc ngôi sao phía trước:
+  - **Rune Phân cấp Ngôi sao (Star Ranking) & Công thức Cube Siêu Gọn**: Tên Rune phân cấp bằng số lượng và màu sắc ngôi sao phía trước kèm công thức ghép Horadric Cube ngắn gọn ngay bên dưới (đã loại bỏ sạch sẽ các dòng Runewords dài dòng và khung viền chiếm diện tích):
     - *Tier 1 (El - Hel: 1-15)*: 1 sao trắng `★` (Low Rune)
     - *Tier 2 (Io - Lem: 16-20)*: 2 sao xanh băng `★★` (Mid Rune)
     - *Tier 3 (Pul - Gul: 21-25)*: 3 sao vàng kim `★★★` (High-Mid Rune)
