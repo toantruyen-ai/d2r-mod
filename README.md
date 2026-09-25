@@ -90,11 +90,21 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
 - **Tối ưu hạt hiệu ứng (VFX)**: Giảm thiểu độ trễ, tối ưu hóa phân lớp GPU giúp giữ mức FPS mượt mà ổn định ngay cả trong những pha giao tranh đông quái vật (Chaos Sanctuary, Cow Level).
 - **Sửa lỗi class Warlock**: Đã khắc phục triệt để lỗi skill/missile và quỷ triệu hồi của Warlock ở chế độ HD.
 
-### 7. Tính năng Chuyển đổi Ngôn ngữ Nhanh EN - VI Trực Tiếp Trong Game (In-Game Language Switcher)
-- **Chuyển đổi tức thì không cần thoát game hay khởi động lại**:
-  - Vào **Options (Cài đặt)** $\rightarrow$ **Gameplay / Audio** $\rightarrow$ tại mục **Text Language (Ngôn ngữ chữ)**:
-    - Chọn **English**: Toàn bộ giao diện và chú thích quay về tiếng Anh chuẩn quốc tế.
-    - Chọn **한국어 (Korean)**: Kích hoạt ngay lập tức chế độ **Tiếng Việt có dấu đầy đủ**!
+### 7. Tính năng Chuyển đổi Ngôn ngữ EN - VI (Language Switcher)
+Trên phiên bản PC, Blizzard cố định ngôn ngữ theo Battle.net (chỉ bản Console mới có menu đổi trong game). Bạn có thể đổi qua lại giữa Tiếng Anh và Tiếng Việt cực kỳ tiện lợi theo 2 cách:
+
+- **Cách 1 (Khuyên dùng - Chọn trực tiếp trong Battle.net Launcher)**:
+  1. Mở **Battle.net** $\rightarrow$ bấm biểu tượng **Bánh răng ⚙ (Cài đặt)** bên cạnh nút **Chơi (Play)** $\rightarrow$ chọn **Cài đặt trò chơi (Game Settings)**.
+  2. Tại mục cài đặt của *Diablo II: Resurrected*:
+     - **Ngôn ngữ chữ (Text Language)**:
+       - Chọn **한국어 (Korean)**: Kích hoạt chế độ **Tiếng Việt có dấu đầy đủ**!
+       - Chọn **English**: Chuyển về **Tiếng Anh** nguyên bản.
+     - **Ngôn ngữ nói (Spoken Language)**: Để nguyên **English** để giữ trọn vẹn giọng lồng tiếng NPC/Nhân vật bằng tiếng Anh.
+
+- **Cách 2 (Dùng lệnh nhanh trong Command Line Arguments)**:
+  - Ngay trong phần **Additional command line arguments** của Battle.net:
+    - Chơi Tiếng Việt: `-mod toantruyen -txt -locale koKR`
+    - Chơi Tiếng Anh: `-mod toantruyen -txt -locale enUS` (hoặc bỏ cờ `-locale`)
 - **Phạm vi Việt Hóa chọn lọc & chuẩn mực (Tối ưu cho Trader & Người chơi Online)**:
   - **Dòng giải thích chỉ số (Item Affixes)**: Việt hóa rõ ràng, giữ nguyên đầy đủ mã màu và biểu tượng chuẩn của mod, kết hợp thuật ngữ ARPG quốc tế giúp đọc đồ nhanh chóng (`Tốc Độ Đánh (IAS)`, `Tốc Độ Niệm Phép Nhanh (FCR)`, `Phục Hồi Đòn Đánh Nhanh (FHR)`, `Tốc Độ Chạy (FRW)`, `Tỉ Lệ Đỡ Đòn (Block)`, `Đòn Chí Mạng (Deadly Strike)`, `Đòn Nghiền Nát (Crushing Blow)`, `Tất Cả Kháng (All Res)`, `Không Thể Bị Đóng Băng (CBF)`, `Vô Hình [ETH]`, v.v.).
   - **Chỉ số ngọc khảm (Gem Affixes)**: Toàn bộ hiệu ứng khảm Mũ, Khiên, Vũ khí, Áo giáp của cả 7 loại ngọc và đầu lâu (Skull).
