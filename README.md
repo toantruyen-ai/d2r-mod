@@ -10,7 +10,6 @@ Bản mod tùy chỉnh dành cho **Diablo II: Resurrected** (hỗ trợ phiên b
   - Tối ưu hóa bảng tên item rơi trên mặt đất, dễ nhìn và không bị rối màn hình.
   - Hỗ trợ đầy đủ các affixes và item riêng cho class **Warlock**.
   - **Rune Cheatsheet & Phân cấp**: Hiển thị số thứ tự Rune, cấp độ (Low/Mid/High-Mid/High Rune), công thức ghép Horadric Cube và các Runeword tiêu biểu ghép từ Rune đó.
-  - **Horadric Cube In-game Cheatsheet**: Bảng tra cứu trực tiếp các công thức Cube quan trọng (đục lỗ đồ trắng, sửa đồ, nâng cấp đồ Unique, craft Caster Amulet, Blood Gloves, reroll Grand Charm...).
 - **Cột sáng Beacon & Âm thanh rơi đồ (Drop Sound)**:
   - Cột sáng đánh dấu Waypoint, cửa hầm chuyển map, cầu thang, rương đặc biệt (Special Chests).
   - Cột sáng riêng cho Rune, Charm, Gem quý.
