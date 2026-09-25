@@ -2,7 +2,7 @@
   {
     "Key": "r16",
     "id": 10902,
-    "enUS": "ÿc8Io Rune ÿc1(16)"
+    "enUS": "ÿc8Io Rune ÿc1(16) ÿc8[Mid]\nÿc0Cube: 3x Io + Flawed Topaz -> Lum\nÿc2RW: White, Black, Memory, Dream, Pride, Flickering Flameÿc0"
   },
   {
     "Key": "r16L",
@@ -12,7 +12,7 @@
   {
     "Key": "r13",
     "id": 10904,
-    "enUS": "ÿc8Shael Rune ÿc1(13)"
+    "enUS": "ÿc8Shael Rune ÿc1(13) ÿc8[Low]\nÿc0Cube: 3x Shael + Chipped Ruby -> Dol\nÿc2RW: Rhyme, Treachery, Duress, Crescent Moon, Oathÿc0"
   },
   {
     "Key": "r13L",
@@ -22,7 +22,7 @@
   {
     "Key": "r31",
     "id": 10906,
-    "enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Jah Rune ÿc1(31)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8=== ÿc1★ HIGH RUNE ★ ÿc8===\nÿc8Jah Rune ÿc1(31) ÿc1[HIGH RUNE]\nÿc0Cube: 2x Jah + Flawless Ruby -> Cham\nÿc2RW: Enigma, Faith, Phoenix, Dream, Last Wish, Fury, Brand\nÿc8========================ÿc0"
   },
   {
     "Key": "r31L",
@@ -37,152 +37,152 @@
   {
     "Key": "r33",
     "id": 20440,
-    "enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Zod Rune ÿc1(33)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8=== ÿc1★ HIGH RUNE ★ ÿc8===\nÿc8Zod Rune ÿc1(33) ÿc1[HIGH RUNE]\nÿc0Cube: Max Tier (Can't upgrade)\nÿc2RW: Breath of the Dying, Obsession (Indestructible)\nÿc8========================ÿc0"
   },
   {
     "Key": "r32",
     "id": 20441,
-    "enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Cham Rune ÿc1(32)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8=== ÿc1★ HIGH RUNE ★ ÿc8===\nÿc8Cham Rune ÿc1(32) ÿc1[HIGH RUNE]\nÿc0Cube: 2x Cham + Flawless Emerald -> Zod\nÿc2RW: Pride, Plague, Mist, Hand of Justice, Doom\nÿc8========================ÿc0"
   },
   {
     "Key": "r30",
     "id": 20443,
-    "enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Ber Rune ÿc1(30)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8=== ÿc1★ HIGH RUNE ★ ÿc8===\nÿc8Ber Rune ÿc1(30) ÿc1[HIGH RUNE]\nÿc0Cube: 2x Ber + Flawless Sapphire -> Jah\nÿc2RW: Enigma, Infinity, Chains of Honor, Beast, Last Wish\nÿc8========================ÿc0"
   },
   {
     "Key": "r29",
     "id": 20444,
-    "enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Sur Rune ÿc1(29)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8=== ÿc1★ HIGH RUNE ★ ÿc8===\nÿc8Sur Rune ÿc1(29) ÿc1[HIGH RUNE]\nÿc0Cube: 2x Sur + Flawless Amethyst -> Ber\nÿc2RW: Bramble, Dragon, Pride, Last Wish, Hand of Justice\nÿc8========================ÿc0"
   },
   {
     "Key": "r28",
     "id": 20445,
-    "enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Lo Rune ÿc1(28)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8=== ÿc1★ HIGH RUNE ★ ÿc8===\nÿc8Lo Rune ÿc1(28) ÿc1[HIGH RUNE]\nÿc0Cube: 2x Lo + Flawless Topaz -> Sur\nÿc2RW: Grief, Fortitude, Phoenix, Pride, Dragon, Hand of Justice\nÿc8========================ÿc0"
   },
   {
     "Key": "r27",
     "id": 20446,
-    "enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Ohm Rune ÿc1(27)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8=== ÿc1★ HIGH RUNE ★ ÿc8===\nÿc8Ohm Rune ÿc1(27) ÿc1[HIGH RUNE]\nÿc0Cube: 2x Ohm + Diamond -> Lo\nÿc2RW: Call to Arms, Exile, Faith, Bramble, Chaos, Doom\nÿc8========================ÿc0"
   },
   {
     "Key": "r26",
     "id": 20447,
-    "enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Vex Rune ÿc1(26)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8=== ÿc1★ HIGH RUNE ★ ÿc8===\nÿc8Vex Rune ÿc1(26) ÿc1[HIGH RUNE]\nÿc0Cube: 2x Vex + Emerald -> Ohm\nÿc2RW: Heart of the Oak, BoTD, Exile, Death, Phoenix, Flickering Flame\nÿc8========================ÿc0"
   },
   {
     "Key": "r25",
     "id": 20448,
-    "enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Gul Rune ÿc1(25)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8-- ÿc4★ Gul Rune ÿc1(25) ÿc8[High-Mid] ÿc8--\nÿc0Cube: 2x Gul + Ruby -> Vex\nÿc2RW: Mosaic, Death, Rift, Kingslayer, Brandÿc0"
   },
   {
     "Key": "r24",
     "id": 20449,
-	"enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Ist Rune ÿc1(24)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8-- ÿc4★ Ist Rune ÿc1(24) ÿc8[High-Mid] ÿc8--\nÿc0Cube: 2x Ist + Sapphire -> Gul\nÿc2RW: Call to Arms, Heart of the Oak, Infinity, Deliriumÿc0"
   },
   {
     "Key": "r23",
     "id": 20450,
-	"enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Mal Rune ÿc1(23)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8-- ÿc4★ Mal Rune ÿc1(23) ÿc8[High-Mid] ÿc8--\nÿc0Cube: 2x Mal + Amethyst -> Ist\nÿc2RW: Call to Arms, Grief, Infinity, Sanctuary, Oath, Beastÿc0"
   },
   {
     "Key": "r22",
     "id": 20451,
-	"enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Um Rune ÿc1(22)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8-- ÿc4★ Um Rune ÿc1(22) ÿc8[High-Mid] ÿc8--\nÿc0Cube: 2x Um + Topaz -> Mal\nÿc2RW: Chains of Honor, Duress, Crescent Moon, Beast, Deathÿc0"
   },
   {
     "Key": "r21",
     "id": 20452,
-	"enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Pul Rune ÿc1(21)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8-- ÿc4★ Pul Rune ÿc1(21) ÿc8[High-Mid] ÿc8--\nÿc0Cube: 2x Pul + Flawed Diamond -> Um\nÿc2RW: Heart of the Oak, Stone, Oath, Gloom, Dreamÿc0"
   },
   {
     "Key": "r20",
     "id": 20453,
-	"enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Lem Rune ÿc1(20)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8Lem Rune ÿc1(20) ÿc8[Mid]\nÿc0Cube: 3x Lem + Flawed Emerald -> Pul\nÿc2RW: Treachery, Wealth, Lawbringer, Faith, Obedienceÿc0"
   },
   {
     "Key": "r19",
     "id": 20454,
-	"enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Fal Rune ÿc1(19)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8Fal Rune ÿc1(19) ÿc8[Mid]\nÿc0Cube: 3x Fal + Flawed Ruby -> Lem\nÿc2RW: Lionheart, Obedience, Gloom, Kingslayer, Chaosÿc0"
   },
   {
     "Key": "r18",
     "id": 20455,
-	"enUS": "ÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***\n\nÿc8Ko Rune ÿc1(18)\n\nÿc1***ÿc8***ÿc9***ÿc2***ÿc3***ÿc;***ÿc0"
+    "enUS": "ÿc8Ko Rune ÿc1(18) ÿc8[Mid]\nÿc0Cube: 3x Ko + Flawed Sapphire -> Fal\nÿc2RW: Heart of the Oak, Harmony, Wealth, Rift, Sanctuaryÿc0"
   },
   {
     "Key": "r17",
     "id": 20456,
-    "enUS": " Lum Rune ÿc1(17)ÿc0"
+    "enUS": "ÿc8Lum Rune ÿc1(17) ÿc8[Mid]\nÿc0Cube: 3x Lum + Flawed Amethyst -> Ko\nÿc2RW: Smoke, Lionheart, Splendor, Stone, Oathÿc0"
   },
   {
     "Key": "r15",
     "id": 20458,
-    "enUS": " Hel Rune ÿc1(15) ÿc2*ÿc0"
+    "enUS": "ÿc8Hel Rune ÿc1(15) ÿc8[Utility]\nÿc0Cube: 3x Hel + Chipped Diamond -> Io\nÿc2RW: Cube Unsocket (Item+Hel+TP), Silence, BoTD, Doomÿc0"
   },
   {
     "Key": "r14",
     "id": 20459,
-    "enUS": " Dol Rune ÿc1(14)ÿc0"
+    "enUS": "ÿc8Dol Rune ÿc1(14) ÿc8[Low]\nÿc0Cube: 3x Dol + Chipped Emerald -> Hel\nÿc2RW: White, Fortitude, Chains of Honor, Passionÿc0"
   },
   {
     "Key": "r12",
     "id": 20461,
-    "enUS": "ÿc9********************ÿc;\nÿc8Sol Rune ÿc1(12)\nÿc9********************"
+    "enUS": "ÿc8Sol Rune ÿc1(12) ÿc8[Low]\nÿc0Cube: 3x Sol + Chipped Sapphire -> Shael\nÿc2RW: Insight, Lore, Harmony, Radiance, Dragonÿc0"
   },
   {
     "Key": "r11",
     "id": 20462,
-    "enUS": "ÿc9********************ÿc;\nÿc8Amn Rune ÿc1(11)\nÿc9********************"
+    "enUS": "ÿc8Amn Rune ÿc1(11) ÿc8[Low]\nÿc0Cube: 3x Amn + Chipped Amethyst -> Sol\nÿc2RW: Spirit, Call to Arms, Lawbringer, Edgeÿc0"
   },
   {
     "Key": "r10",
     "id": 20463,
-    "enUS": "ÿc9*********************ÿc;\nÿc8Thul Rune ÿc1(10)\nÿc9*********************"
+    "enUS": "ÿc8Thul Rune ÿc1(10) ÿc8[Low]\nÿc0Cube: 3x Thul + Chipped Topaz -> Amn\nÿc2RW: Spirit, Treachery, Duress, Peace, Blackÿc0"
   },
   {
     "Key": "r09",
     "id": 20464,
-    "enUS": " Ort Rune ÿc1(9)ÿc0"
+    "enUS": "ÿc8Ort Rune ÿc1(9) ÿc8[Low]\nÿc0Cube: 3x Ort -> Thul\nÿc2RW: Spirit, Lore, Ancients' Pledge, Passionÿc0"
   },
   {
     "Key": "r08",
     "id": 20465,
-    "enUS": "ÿc9********************ÿc;\nÿc8Ral Rune ÿc1(8)\nÿc9********************"
+    "enUS": "ÿc8Ral Rune ÿc1(8) ÿc8[Low]\nÿc0Cube: 3x Ral -> Ort\nÿc2RW: Spirit, Insight, Grief, Leaf, Brambleÿc0"
   },
   {
     "Key": "r07",
     "id": 20466,
-    "enUS": " Tal Rune ÿc1(7)ÿc0"
+    "enUS": "ÿc8Tal Rune ÿc1(7) ÿc8[Low]\nÿc0Cube: 3x Tal -> Ral\nÿc2RW: Spirit, Insight, Stealth, Ancients' Pledgeÿc0"
   },
   {
     "Key": "r06",
     "id": 20467,
-    "enUS": " Ith Rune ÿc1(6)ÿc0"
+    "enUS": "ÿc8Ith Rune ÿc1(6) ÿc8[Low]\nÿc0Cube: 3x Ith -> Tal\nÿc2RW: Enigma, Spirit, Malice, Harmony, Rainÿc0"
   },
   {
     "Key": "r05",
     "id": 20468,
-    "enUS": " Eth Rune ÿc1(5)ÿc0"
+    "enUS": "ÿc8Eth Rune ÿc1(5) ÿc8[Low]\nÿc0Cube: 3x Eth -> Ith\nÿc2RW: Stealth, Rhyme, Lore, Treachery, BoTDÿc0"
   },
   {
     "Key": "r04",
     "id": 20469,
-    "enUS": " Nef Rune ÿc1(4)ÿc0"
+    "enUS": "ÿc8Nef Rune ÿc1(4) ÿc8[Low]\nÿc0Cube: 3x Nef -> Eth\nÿc2RW: Smoke, Black, Melody, Nadir, Mythÿc0"
   },
   {
     "Key": "r03",
     "id": 20470,
-    "enUS": " Tir Rune ÿc1(3)ÿc0"
+    "enUS": "ÿc8Tir Rune ÿc1(3) ÿc8[Low]\nÿc0Cube: 3x Tir -> Nef\nÿc2RW: Insight, Steel, Grief, Strength, Beastÿc0"
   },
   {
     "Key": "r02",
     "id": 20471,
-    "enUS": " Eld Rune ÿc1(2)ÿc0"
+    "enUS": "ÿc8Eld Rune ÿc1(2) ÿc8[Low]\nÿc0Cube: 3x Eld -> Tir\nÿc2RW: Voice of Reason, Silence, BoTDÿc0"
   },
   {
     "Key": "r01",
     "id": 20472,
-    "enUS": " El Rune ÿc1(1)ÿc0"
+    "enUS": "ÿc8El Rune ÿc1(1) ÿc8[Low]\nÿc0Cube: 3x El -> Eld\nÿc2RW: Steel, Malice, Fortitude, BoTDÿc0"
   },
   {
     "Key": "r33L",

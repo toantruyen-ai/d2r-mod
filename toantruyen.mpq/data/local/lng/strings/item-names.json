@@ -4742,7 +4742,7 @@
     "ruRU": "Противоядие",
     "zhCN": "解毒药水"
   },
- {
+  {
     "id": 2209,
     "Key": "rvs",
     "enUS": "ÿc;35ÿc9JV",
@@ -5051,7 +5051,7 @@
   {
     "id": 2231,
     "Key": "box",
-    "enUS": "Horadric Cube",
+    "enUS": "ÿc8Horadric Cube ÿc0[Công thức Cube nhanh]\nÿc3=== ĐỤC LỖ TRANG BỊ TRẮNG ===\nÿc2• Tal + Thul + P.Topaz + Giáp người -> Socket Giáp\nÿc2• Ral + Amn + P.Amethyst + Vũ khí -> Socket Vũ khí\nÿc2• Ral + Thul + P.Sapphire + Nón -> Socket Nón\nÿc2• Tal + Amn + P.Ruby + Khiên -> Socket Khiên\nÿc3=== TIỆN ÍCH & NÂNG CẤP ===\nÿc4• Hel + Sách TP + Đồ có ngọc -> Tẩy Socket (Xóa ngọc)\nÿc4• Ort + Vũ khí / Ral + Giáp -> Sửa độ bền\nÿc4• Ral + Ort + P.Amethyst + Unique Normal Wpn -> Excep\nÿc4• Tal + Shael + P.Diamond + Unique Normal Armor -> Excep\nÿc4• Lum + Pul + P.Emerald + Unique Excep Wpn -> Elite\nÿc4• Ko + Lem + P.Diamond + Unique Excep Armor -> Elite\nÿc3=== CRAFTING & REROLL CHARM ===\nÿc9• Magic Amulet + Ral + P.Amethyst + Jewel -> Caster Amulet (+FCR)\nÿc9• Sharkskin/Vamp Gloves + Nef + P.Ruby + Jewel -> Blood Gloves (CB)\nÿc9• 3x Perfect Gems + Charm/Item Magic -> Reroll chỉ số (Grand Charm)ÿc0",
     "zhTW": "赫拉迪姆方塊",
     "deDE": "Horadrimwürfel",
     "esES": "Cubo horádrico",
