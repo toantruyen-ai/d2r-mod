@@ -1,0 +1,7 @@
+# Temporary & backup directories
+_backup/
+**/_backup/
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
