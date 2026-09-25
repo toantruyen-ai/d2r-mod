@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 3333,
     "Key": "priceless",
@@ -1297,7 +1297,7 @@
   {
     "id": 11163,
     "Key": "toa",
-    "enUS": "Token of Absolution"
+    "enUS": "ÿc4★ TOKEN OF ABSOLUTION ★ ÿc0[Tẩy Điểm]"
   },
   {
     "id": 20438,
@@ -1627,12 +1627,12 @@
   {
     "id": 22745,
     "Key": "strethereal",
-    "enUS": "ÿc8Ethereal (Cannot be Repaired)ÿc3"
+    "enUS": "ÿc1★ [ETH] ÿc8Ethereal (Cannot be Repaired)ÿc3"
   },
   {
     "id": 22746,
     "Key": "stretherealnonrepair",
-    "enUS": "This item cannot be repaired."
+    "enUS": "ÿc1★ [ETH] ÿc8This item cannot be repaired."
   },
   {
     "id": 23001,
@@ -1652,7 +1652,7 @@
   {
     "id": 23049,
     "Key": "strItemModEtherealSocketed",
-    "enUS": "ÿc8Ethereal (Cannot be Repaired), Socketed (%i)ÿc3"
+    "enUS": "ÿc1★ [ETH] ÿc8Ethereal (Cannot be Repaired), Socketed (%i)ÿc3"
   },
   {
     "id": 23050,

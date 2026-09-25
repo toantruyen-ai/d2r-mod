@@ -20,6 +20,7 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
 
 ### 2. Cột sáng Hoàng Kim (Loot Drop Beacons) & Âm thanh Rơi đồ HD
 - **Cột sáng Hoàng Kim (`Horadric Light`)**: Tự động kích hoạt luồng sáng thiên đàng chiếu thẳng lên trời kết hợp vòng hào quang đỏ lửa Fanaticism và tia chớp trắng Valkyrie khi các vật phẩm giá trị rơi ra:
+  - **Nhẫn & Dây chuyền (`Ring` & `Amulet`)**: Cột sáng thần thánh giúp bạn phát hiện tức thì đồ Unique (SOJ, BK, Mara, Highlord, Tal Amulet...) ngay khi rớt xuống đất, không lo bị bỏ lỡ hay bị người khác nhặt mất trong ván chơi đông người.
   - **Toàn bộ 33 Rune** (từ El đến Zod).
   - **Tất cả các loại Charm** (Small Charm, Large Charm, Grand Charm).
   - **Đá quý cấp cao** (Flawless Gems và Perfect Gems của cả 7 loại ngọc).
@@ -28,15 +29,28 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
 - **Âm thanh rơi đồ (Drop SFX HD)**: Tích hợp âm thanh "chime" chuông ngân sắc nét (`item_rune_hd.flac`, `charm_hd.flac`, `gem_hd.flac`), nghe rõ ràng và cực kỳ đã tai khi đồ xịn rớt từ quái vật hay rương đồ.
 
 ### 3. Bộ lọc Nhãn Rơi Tối ưu Cày Online (Battle.net Safe Loot Filter)
-- **Rút gọn nhãn cuộn giấy**: Biến nhãn dài dòng thành `[TP]` (Town Portal) và `[ID]` (Identify).
-- **Làm nổi bật bình Rejuv tím**: Phân biệt tức thì bình nhỏ `[+35% Rejuv]` và bình lớn `[+100% REJUV]`.
+- **Thu gọn vật phẩm rác (Anti-Clutter Filter)**: 
+  - Rút ngắn tên đạn thành `[Arr]` (Arrows) và `[Blt]` (Bolts).
+  - Rút gọn chìa khóa thường thành `[Key]` để không nhầm lẫn với chìa khóa Uber.
+  - Thu gọn bình máu/mana cấp thấp thành `[HP1]`, `[MP1]`, các bình thể lực/giải độc thành `[Stamina]`, `[Thaw]`, `[Antidote]`... giúp giải phóng tầm nhìn cực kỳ thông thoáng khi farm Cow Level, Chaos Sanctuary hay Travincal.
+- **Rút gọn nhãn cuộn giấy & Bình Rejuv**: Biến nhãn dài dòng thành `[TP]` (Town Portal) và `[ID]` (Identify); làm nổi bật bình Rejuv tím `[+35% Rejuv]` và `★ [+100% REJUV] ★`.
+- **Chỉ dẫn Phôi Runeword & Số lỗ Larzuk (Socket & Base Helper)**: Hiển thị số lỗ tối đa khi đục Larzuk Act 5 và gợi ý Runeword hot trực tiếp trên tên phôi:
+  - `Monarch [Max 4os - Spirit/Phoenix]`, `Phase Blade [Max 6os - Grief/Last Wish]`
+  - `Thresher [Max 5os - Infinity/Insight/Obedience]`, `Giant Thresher [Max 6os - Infinity/Insight/BotD]`
+  - `Mage Plate [Max 3os - Enigma]`, `Archon Plate [Max 4os - Fortitude/CoH/Enigma]`
+  - `Grand Matron Bow [Max 5os - Faith/Mist]`, `Sacred Armor [Max 4os - Fortitude/Prudence]`
+  - Các khiên Paladin (`Sacred Targe`, `Sacred Rondache`, `Vortex Shield`...) và vũ khí (`Flail`, `Crystal Sword`, `Berserker Axe`...).
+- **Đánh dấu Ethereal [ETH] siêu nổi bật**: Thẻ dạ quang `★ [ETH]` cho đồ Ethereal, giúp nhận biết ngay phôi làm đồ cho đệ tử và đồ Unique giá trị.
+- **Tối ưu Săn Key Uber & Ghép Token Tẩy Điểm**:
+  - Gắn tên Boss rơi đồ trực tiếp: `Key of Terror (Countess - Act 1)`, `Key of Hate (Summoner - Act 2)`, `Key of Destruction (Nihlathak - Act 5)`.
+  - Gắn nguồn gốc Boss vào 4 loại Tinh chất: `Twisted Essence (Andariel/Duriel)`, `Charged Essence (Mephisto)`, `Burning Essence (Diablo)`, `Festering Essence (Baal)`.
+  - Bình tẩy điểm nổi bật: `★ TOKEN OF ABSOLUTION ★ [Tẩy Điểm]`.
+- **Đánh dấu Ngọc Chuyên Dụng (Crafting & MF Gems)**: Gắn nhãn nhận diện công dụng cho `Flawless/Perfect Amethyst [Craft Caster]`, `Ruby [Craft Blood]`, `Topaz [MF]`, `Skull [Reroll Rare]`.
+- **Bảng tra cứu In-Game tích hợp trên Sách TP & Sách ID**:
+  - `Tome of Town Portal`: Bảng mốc tốc độ thi triển phép (FCR Breakpoints) & hồi đòn (FHR Breakpoints) của 7 class.
+  - `Tome of Identify`: Bảng tra cứu hào quang đệ tử Act 2 Mercenary (Normal/Hell vs Nightmare: Might, Holy Freeze, Prayer, Blessed Aim, Defiance, Thorns).
 - **Đánh dấu sao tím cho Bùa & Ngọc**: Gắn thẻ sao nổi bật cho `★ Small Charm`, `★ Large Charm`, `★ Grand Charm`, và `★ Jewel`.
 - **Tên Horadric Cube thanh lịch**: Giữ tên ngắn gọn nguyên bản, tránh lỗi thanh cheatsheet 20 dòng làm đơ/tràn khung giao diện tay cầm.
-- **Tối ưu hiển thị chỉ số (Item Affixes)**:
-  - Hiển thị khoảng roll của các dòng thuộc tính (min-max stat range).
-  - Làm nổi bật số lỗ khảm socket: `Socketed (X)` màu cam rõ ràng.
-  - Phân màu và gắn ký hiệu trực quan cho yêu cầu Sức mạnh / Khéo léo (Strength / Dexterity Required).
-- **Ẩn bình rác**: Giấu bớt các loại bình độc/bình ném không cần thiết (`gpl`, `gpm`, `vps`...) giúp mặt đất thông thoáng.
 
 ### 4. Hệ thống Dẫn đường & Đánh dấu Bản đồ (Navigation Beacons & Arrows)
 - **Cột sáng chuyển tiếp khu vực**: Đánh dấu rõ ràng Waypoint, Cầu thang lên/xuống (Upstairs/Downstairs), Cửa hang/hầm, Cửa chuyển map tiếp theo.

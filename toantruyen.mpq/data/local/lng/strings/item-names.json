@@ -1277,7 +1277,7 @@
   {
     "id": 1997,
     "Key": "fla",
-    "enUS": "Flailÿc5 Nor",
+    "enUS": "Flail ÿc2[Max 5os - HOTO/CTA] ÿc5Nor",
     "zhTW": "連枷ÿc5 Nor",
     "deDE": "[ms]Flegelÿc5 Nor",
     "esES": "[ms]Mangualÿc5 Nor",
@@ -1413,7 +1413,7 @@
   {
     "id": 2005,
     "Key": "crs",
-    "enUS": "Crystal Sword ÿc5Nor",
+    "enUS": "Crystal Sword ÿc2[Max 6os - Spirit/CTA] ÿc5Nor",
     "zhTW": "水晶劍 ÿc5Nor",
     "deDE": "[ns]Kristallschwert ÿc5Nor",
     "esES": "[fs]Espada de cristal ÿc5Nor",
@@ -1430,7 +1430,7 @@
   {
     "id": 2006,
     "Key": "bsd",
-    "enUS": "Broad Swordÿc5 Nor",
+    "enUS": "Broad Sword ÿc2[Max 4os - Spirit] ÿc5Nor",
     "zhTW": "闊劍ÿc5 Nor",
     "deDE": "[ns]Breitschwertÿc5 Nor",
     "esES": "[fs]Espada anchaÿc5 Nor",
@@ -2671,7 +2671,7 @@
   {
     "id": 2080,
     "Key": "xtp",
-    "enUS": "Mage Plate ÿc5Def(261) ÿc;Ex",
+    "enUS": "Mage Plate ÿc2[Max 3os - Enigma] ÿc5Def(261) ÿc;Ex",
     "zhTW": "法師鎧甲 ÿc5Def(261) ÿcNEx",
     "deDE": "[fs]Magierplattenrüstung ÿc5Def(261) ÿcNEx",
     "esES": "[fs]Coraza de mago ÿc5Def(261) ÿcNEx",
@@ -4371,7 +4371,7 @@
   {
     "id": 2182,
     "Key": "gpl",
-    "enUS": "",
+    "enUS": "ÿc5[Gas]",
     "zhTW": "刺鼻毒氣藥水",
     "deDE": "Erstickungsgaselixier",
     "esES": "[fs]Poción de gas sofocante",
@@ -4388,7 +4388,7 @@
   {
     "id": 2183,
     "Key": "opl",
-    "enUS": "",
+    "enUS": "ÿc5[Oil]",
     "zhTW": "烈性藥水",
     "deDE": "Knallelixier",
     "esES": "[fs]Poción fulminante",
@@ -4405,7 +4405,7 @@
   {
     "id": 2184,
     "Key": "gpm",
-    "enUS": "",
+    "enUS": "ÿc5[Gas]",
     "zhTW": "窒息毒氣藥水",
     "deDE": "Würgegaselixier",
     "esES": "[fs]Poción de gas estrangulante",
@@ -4422,7 +4422,7 @@
   {
     "id": 2185,
     "Key": "opm",
-    "enUS": "",
+    "enUS": "ÿc5[Oil]",
     "zhTW": "爆炸藥水",
     "deDE": "Explosivelixier",
     "esES": "[fs]Poción explosiva",
@@ -4439,7 +4439,7 @@
   {
     "id": 2186,
     "Key": "gps",
-    "enUS": "",
+    "enUS": "ÿc5[Gas]",
     "zhTW": "腐臭毒氣藥水",
     "deDE": "Stinkgaselixier",
     "esES": "[fs]Poción de gas rancio",
@@ -4456,7 +4456,7 @@
   {
     "id": 2187,
     "Key": "ops",
-    "enUS": "",
+    "enUS": "ÿc5[Oil]",
     "zhTW": "火油藥水",
     "deDE": "Ölelixier",
     "esES": "[fs]Poción de aceite",
@@ -4643,7 +4643,7 @@
   {
     "id": 2199,
     "Key": "tbk",
-    "enUS": "Tome of Town Portal",
+    "enUS": "Tome of Town Portal\nÿc3FCR Mốc (Tốc Độ Phép):\nÿc2• Sorc: 37 / 63 / 105 / 200%\nÿc2• Pally / Bone Necro: 48 / 75 / 125%\nÿc2• Barb: 37 / 63 / 105% | Druid: 46 / 68 / 99%\nÿc2• Sin: 42 / 65 / 102% | Zon: 68 / 99%\nÿc3FHR Mốc (Hồi Đòn):\nÿc4• Sorc: 42 / 60 / 86% | Pally: 48 / 86%\nÿc4• Necro / Druid: 56 / 86% | Barb: 48 / 86%",
     "zhTW": "城鎮傳送之書",
     "deDE": "Foliant des Stadtportals",
     "esES": "Tomo del portal de la ciudad",
@@ -4677,7 +4677,7 @@
   {
     "id": 2201,
     "Key": "ibk",
-    "enUS": "Tome of Identify",
+    "enUS": "Tome of Identify\nÿc3Đệ Tử Act 2 (Merc Auras):\nÿc2[Normal / Hell]:\nÿc0• Combat: Prayer (Máu) | Def: Defiance (Giáp)\nÿc0• Offense: Blessed Aim (AR/Chính Xác)\nÿc1[Nightmare]:\nÿc1• Offense: Might (Tăng Dame Vật Lý Cực Khủng)\nÿc3• Def: Holy Freeze (Làm Chậm Cả Bản Đồ)\nÿc4• Combat: Thorns (Phản Dame)",
     "zhTW": "鑑定之書",
     "deDE": "Foliant der Identifikation",
     "esES": "Tomo de identificación",
@@ -4711,7 +4711,7 @@
   {
     "id": 2207,
     "Key": "vps",
-    "enUS": "",
+    "enUS": "ÿc5[Stamina]",
     "zhTW": "精力藥水",
     "deDE": "Ausdauerelixier",
     "esES": "Poción de aguante",
@@ -4728,7 +4728,7 @@
   {
     "id": 2208,
     "Key": "yps",
-    "enUS": "",
+    "enUS": "ÿc5[Antidote]",
     "zhTW": "解毒藥水",
     "deDE": "Gegengiftelixier",
     "esES": "Poción antídoto",
@@ -4762,7 +4762,7 @@
   {
     "id": 2210,
     "Key": "rvl",
-    "enUS": "ÿc;[+100% REJUV]",
+    "enUS": "ÿc;★ [+100% REJUV] ★",
     "zhTW": "全效活力藥水",
     "deDE": "starker Regenerationstrank",
     "esES": "Poción rejuvenecedora total",
@@ -4779,7 +4779,7 @@
   {
     "id": 2211,
     "Key": "wms",
-    "enUS": "",
+    "enUS": "ÿc5[Thaw]",
     "zhTW": "融冰藥水",
     "deDE": "Auftauelixier",
     "esES": "Poción descongelante",
@@ -4796,7 +4796,7 @@
   {
     "id": 2212,
     "Key": "amu",
-    "enUS": "Amulet",
+    "enUS": "★ Amulet ★",
     "zhTW": "護身符",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
@@ -4830,7 +4830,7 @@
   {
     "id": 2214,
     "Key": "rin",
-    "enUS": "Ring",
+    "enUS": "★ Ring ★",
     "zhTW": "戒指",
     "deDE": "[ms]Ring",
     "esES": "[ms]Anillo",
@@ -4881,7 +4881,7 @@
   {
     "id": 2218,
     "Key": "aqv",
-    "enUS": "Arrows",
+    "enUS": "ÿc5[Arr]",
     "zhTW": "弓矢",
     "deDE": "Pfeile",
     "esES": "[fp]Flechas",
@@ -4915,7 +4915,7 @@
   {
     "id": 2220,
     "Key": "cqv",
-    "enUS": "Bolts",
+    "enUS": "ÿc5[Blt]",
     "zhTW": "弩箭",
     "deDE": "Bolzen",
     "esES": "[fp]Saetas",
@@ -4949,7 +4949,7 @@
   {
     "id": 2222,
     "Key": "key",
-    "enUS": "Key",
+    "enUS": "ÿc5[Key]",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -5170,7 +5170,7 @@
   {
     "id": 2239,
     "Key": "gzv",
-    "enUS": "Amethyst Tròn",
+    "enUS": "ÿc;♦ Flawless Amethyst ÿc3[Craft Caster]",
     "zhTW": "無瑕紫寶石",
     "deDE": "makelloser Amethyst",
     "esES": "Amatista sin defectos",
@@ -5187,7 +5187,7 @@
   {
     "id": 2240,
     "Key": "gpv",
-    "enUS": "Perfect Amethyst",
+    "enUS": "ÿc;★ Perfect Amethyst ÿc3[Craft Caster]",
     "zhTW": "完美紫寶石",
     "deDE": "perfekter Amethyst",
     "esES": "Amatista perfecta",
@@ -5255,7 +5255,7 @@
   {
     "id": 2244,
     "Key": "gly",
-    "enUS": "Topaz Tròn",
+    "enUS": "ÿc8♦ Flawless Topaz ÿc3[MF]",
     "zhTW": "無瑕黃寶石",
     "deDE": "makelloser Topas",
     "esES": "Topacio sin defectos",
@@ -5272,7 +5272,7 @@
   {
     "id": 2245,
     "Key": "gpy",
-    "enUS": "Perfect Topaz",
+    "enUS": "ÿc8★ Perfect Topaz ÿc3[MF]",
     "zhTW": "完美黃寶石",
     "deDE": "perfekter Topas",
     "esES": "Topacio perfecto",
@@ -5323,7 +5323,7 @@
   {
     "id": 2249,
     "Key": "glb",
-    "enUS": "Sapphire Tròn",
+    "enUS": "ÿc3♦ Flawless Sapphire",
     "zhTW": "無瑕藍寶石",
     "deDE": "makelloser Saphir",
     "esES": "Zafiro sin defectos",
@@ -5340,7 +5340,7 @@
   {
     "id": 2250,
     "Key": "gpb",
-    "enUS": "Perfect Sapphire",
+    "enUS": "ÿc3★ Perfect Sapphire",
     "zhTW": "完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
@@ -5391,7 +5391,7 @@
   {
     "id": 2253,
     "Key": "glg",
-    "enUS": "Emerald Tròn",
+    "enUS": "ÿc2♦ Flawless Emerald",
     "zhTW": "無瑕綠寶石",
     "deDE": "makelloser Smaragd",
     "esES": "Esmeralda sin defectos",
@@ -5408,7 +5408,7 @@
   {
     "id": 2255,
     "Key": "gpg",
-    "enUS": "Perfect Emerald",
+    "enUS": "ÿc2★ Perfect Emerald",
     "zhTW": "完美綠寶石",
     "deDE": "perfekter Smaragd",
     "esES": "Esmeralda perfecta",
@@ -5459,7 +5459,7 @@
   {
     "id": 2259,
     "Key": "glr",
-    "enUS": "Ruby Tròn",
+    "enUS": "ÿc1♦ Flawless Ruby ÿc3[Craft Blood]",
     "zhTW": "無瑕紅寶石",
     "deDE": "makelloser Rubin",
     "esES": "Rubí sin defectos",
@@ -5476,7 +5476,7 @@
   {
     "id": 2260,
     "Key": "gpr",
-    "enUS": "Perfect Ruby",
+    "enUS": "ÿc1★ Perfect Ruby ÿc3[Craft Blood]",
     "zhTW": "完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
@@ -5527,7 +5527,7 @@
   {
     "id": 2264,
     "Key": "glw",
-    "enUS": "Diamond Tròn",
+    "enUS": "ÿc0♦ Flawless Diamond",
     "zhTW": "無瑕鑽石",
     "deDE": "makelloser Diamant",
     "esES": "Diamante sin defectos",
@@ -5544,7 +5544,7 @@
   {
     "id": 2265,
     "Key": "gpw",
-    "enUS": "Perfect Diamond",
+    "enUS": "ÿc0★ Perfect Diamond",
     "zhTW": "完美鑽石",
     "deDE": "perfekter Diamant",
     "esES": "Diamante perfecto",
@@ -5561,7 +5561,7 @@
   {
     "id": 2266,
     "Key": "hp1",
-    "enUS": "ÿc11ÿc9HP",
+    "enUS": "ÿc5[HP1]",
     "zhTW": "弱效生命藥水",
     "deDE": "schwacher Heiltrank",
     "esES": "Poción de salud menor",
@@ -5578,7 +5578,7 @@
   {
     "id": 2267,
     "Key": "hp2",
-    "enUS": "ÿc12ÿc9HP",
+    "enUS": "ÿc5[HP2]",
     "zhTW": "輕效生命藥水",
     "deDE": "leichter Heiltrank",
     "esES": "Poción de salud ligera",
@@ -5595,7 +5595,7 @@
   {
     "id": 2268,
     "Key": "hp3",
-    "enUS": "ÿc13ÿc9HP",
+    "enUS": "ÿc5[HP3]",
     "zhTW": "生命藥水",
     "deDE": "Heiltrank",
     "esES": "Poción de salud",
@@ -5612,7 +5612,7 @@
   {
     "id": 2269,
     "Key": "hp4",
-    "enUS": "ÿc14ÿc9HP",
+    "enUS": "ÿc1[HP4]",
     "zhTW": "強效生命藥水",
     "deDE": "guter Heiltrank",
     "esES": "Poción de salud superior",
@@ -5629,7 +5629,7 @@
   {
     "id": 2270,
     "Key": "hp5",
-    "enUS": "ÿc1Ⅷÿc9 HP",
+    "enUS": "ÿc1★ [Super HP]",
     "zhTW": "特效生命藥水",
     "deDE": "starker Heiltrank",
     "esES": "Superpoción de salud",
@@ -5646,7 +5646,7 @@
   {
     "id": 2271,
     "Key": "mp1",
-    "enUS": "ÿc31ÿc9MP",
+    "enUS": "ÿc5[MP1]",
     "zhTW": "弱效法力藥水",
     "deDE": "schwacher Manatrank",
     "esES": "Poción de maná menor",
@@ -5663,7 +5663,7 @@
   {
     "id": 2272,
     "Key": "mp2",
-    "enUS": "ÿc32ÿc9MP",
+    "enUS": "ÿc5[MP2]",
     "zhTW": "輕效法力藥水",
     "deDE": "leichter Manatrank",
     "esES": "Poción de maná ligera",
@@ -5680,7 +5680,7 @@
   {
     "id": 2273,
     "Key": "mp3",
-    "enUS": "ÿc33ÿc9MP",
+    "enUS": "ÿc5[MP3]",
     "zhTW": "法力藥水",
     "deDE": "Manatrank",
     "esES": "Poción de maná",
@@ -5697,7 +5697,7 @@
   {
     "id": 2274,
     "Key": "mp4",
-    "enUS": "ÿc34ÿc9MP",
+    "enUS": "ÿc3[MP4]",
     "zhTW": "強效法力藥水",
     "deDE": "guter Manatrank",
     "esES": "Poción de maná superior",
@@ -5714,7 +5714,7 @@
   {
     "id": 2275,
     "Key": "mp5",
-    "enUS": "ÿc3Ⅷÿc9 MP",
+    "enUS": "ÿc3★ [Super MP]",
     "zhTW": "特效法力藥水",
     "deDE": "starker Manatrank",
     "esES": "Superpoción de maná",
@@ -5782,7 +5782,7 @@
   {
     "id": 2280,
     "Key": "skl",
-    "enUS": "Flawless Skull",
+    "enUS": "ÿc0♦ Flawless Skull ÿc3[Reroll Rare]",
     "zhTW": "無瑕骷髏石",
     "deDE": "makelloser Schädel",
     "esES": "Cráneo sin defectos",
@@ -5799,7 +5799,7 @@
   {
     "id": 2281,
     "Key": "skz",
-    "enUS": "Perfect Skull",
+    "enUS": "ÿc0★ Perfect Skull ÿc3[Reroll Rare]",
     "zhTW": "完美骷髏石",
     "deDE": "perfekter Schädel",
     "esES": "Cráneo perfecto",
@@ -12259,7 +12259,7 @@
   {
     "id": 11010,
     "Key": "7wa",
-    "enUS": "Berserker Axe ÿc5ÿc;Elite",
+    "enUS": "Berserker Axe ÿc2[Max 6os - Grief/Beast/BotD] ÿc;Elite",
     "zhTW": "狂戰斧 ÿc5ÿc;Elite",
     "deDE": "[fs]Berserkeraxt ÿc5ÿc;Elite",
     "esES": "[fs]Hacha de berserker ÿc5ÿc;Elite",
@@ -12310,7 +12310,7 @@
   {
     "id": 11146,
     "Key": "pk1",
-    "enUS": "Key of Terror",
+    "enUS": "ÿc1★ Key of Terror ÿc0(Countess - Act 1)",
     "zhTW": "恐懼之鑰",
     "deDE": "Schlüssel des Terrors",
     "esES": "Llave del terror",
@@ -12327,7 +12327,7 @@
   {
     "id": 11147,
     "Key": "pk2",
-    "enUS": "Key of Hate",
+    "enUS": "ÿc9★ Key of Hate ÿc0(Summoner - Act 2)",
     "zhTW": "憎恨之鑰",
     "deDE": "Schlüssel des Hasses",
     "esES": "Llave del odio",
@@ -12344,7 +12344,7 @@
   {
     "id": 11148,
     "Key": "pk3",
-    "enUS": "Key of Destruction",
+    "enUS": "ÿc4★ Key of Destruction ÿc0(Nihlathak - Act 5)",
     "zhTW": "毀滅之鑰",
     "deDE": "Schlüssel der Zerstörung",
     "esES": "Llave de la destrucción",
@@ -12446,7 +12446,7 @@
   {
     "id": 11164,
     "Key": "tes",
-    "enUS": "Twisted Essence of Suffering",
+    "enUS": "ÿc2Twisted Essence ÿc0(Andariel / Duriel)",
     "zhTW": "扭曲的苦怨精華",
     "deDE": "Verdorbene Essenz des Leidens",
     "esES": "Esencia del sufrimiento retorcida",
@@ -12463,7 +12463,7 @@
   {
     "id": 11165,
     "Key": "ceh",
-    "enUS": "Charged Essence of Hatred",
+    "enUS": "ÿc3Charged Essence ÿc0(Mephisto)",
     "zhTW": "充盈的憎恨精華",
     "deDE": "Geladene Essenz des Hasses",
     "esES": "Esencia del odio cargada",
@@ -12480,7 +12480,7 @@
   {
     "id": 11166,
     "Key": "bet",
-    "enUS": "Burning Essence of Terror",
+    "enUS": "ÿc1Burning Essence ÿc0(Diablo)",
     "zhTW": "燃燒的恐懼精華",
     "deDE": "Brennende Essenz des Schreckens",
     "esES": "Esencia del terror ardiente",
@@ -12497,7 +12497,7 @@
   {
     "id": 11167,
     "Key": "fed",
-    "enUS": "Festering Essence of Destruction",
+    "enUS": "ÿc8Festering Essence ÿc0(Baal)",
     "zhTW": "潰爛的毀滅精華",
     "deDE": "Eiternde Essenz der Zerstörung",
     "esES": "Esencia de la destrucción infecta",
@@ -13330,7 +13330,7 @@
   {
     "id": 20230,
     "Key": "7cr",
-    "enUS": "Phase Blade ÿc;Elite",
+    "enUS": "Phase Blade ÿc2[Max 6os - Grief/Last Wish] ÿc;Elite",
     "zhTW": "幻化之刃 ÿc;Elite",
     "deDE": "[fs]Phasenklinge ÿc;Elite",
     "esES": "[fs]Espada de fase ÿc;Elite",
@@ -13466,7 +13466,7 @@
   {
     "id": 20238,
     "Key": "7fb",
-    "enUS": "Colossus Sword ÿc;Elite",
+    "enUS": "Colossus Sword ÿc2[Max 5os - Death] ÿc;Elite",
     "zhTW": "巨神劍 ÿc;Elite",
     "deDE": "Kolossschwert ÿc;Elite",
     "esES": "[fs]Espada del coloso ÿc;Elite",
@@ -13483,7 +13483,7 @@
   {
     "id": 20239,
     "Key": "7gd",
-    "enUS": "Colossus Blade ÿc5S(+5) ÿc;Elite",
+    "enUS": "Colossus Blade ÿc2[Max 6os - BotD] ÿc5S(+5) ÿc;Elite",
     "zhTW": "巨神刃 ÿc5S(+5) ÿc;Elite",
     "deDE": "[fs]Kolossklinge ÿc5S(+5) ÿc;Elite",
     "esES": "[fs]Hoja del coloso ÿc5S(+5) ÿc;Elite",
@@ -13755,7 +13755,7 @@
   {
     "id": 20255,
     "Key": "7br",
-    "enUS": "Mancatcher ÿc;Elite",
+    "enUS": "Mancatcher ÿc2[Max 5os - Infinity] ÿc;Elite",
     "zhTW": "捕人叉 ÿc;Elite",
     "deDE": "[ms]Menschenfänger ÿc;Elite",
     "esES": "[ms]Cazahombres ÿc;Elite",
@@ -13823,7 +13823,7 @@
   {
     "id": 20259,
     "Key": "7vo",
-    "enUS": "Colossus Voulge ÿc;Elite",
+    "enUS": "Colossus Voulge ÿc2[Max 4os - Insight/Infinity] ÿc;Elite",
     "zhTW": "巨神長柄斧 ÿc;Elite",
     "deDE": "[fs]Kolossvulge ÿc;Elite",
     "esES": "[ms]Voulge del coloso ÿc;Elite",
@@ -13840,7 +13840,7 @@
   {
     "id": 20260,
     "Key": "7s8",
-    "enUS": "Thresher ÿc;Elite",
+    "enUS": "Thresher ÿc2[Max 5os - Infinity/Insight/Obedience] ÿc;Elite",
     "zhTW": "斬鐮 ÿc;Elite",
     "deDE": "[ms]Drescher ÿc;Elite",
     "esES": "[fs]Trilladora ÿc;Elite",
@@ -13857,7 +13857,7 @@
   {
     "id": 20261,
     "Key": "7pa",
-    "enUS": "Cryptic Axe ÿc;Elite",
+    "enUS": "Cryptic Axe ÿc2[Max 5os - Infinity/Insight/Obedience] ÿc;Elite",
     "zhTW": "絕秘斧 ÿc;Elite",
     "deDE": "[fs]Rätselhafte Axt ÿc;Elite",
     "esES": "[fs]Hacha críptica ÿc;Elite",
@@ -13874,7 +13874,7 @@
   {
     "id": 20262,
     "Key": "7h7",
-    "enUS": "Great Poleaxe ÿc5ÿc;Elite",
+    "enUS": "Great Poleaxe ÿc2[Max 6os - BotD/Infinity] ÿc5ÿc;Elite",
     "zhTW": "巨型長柄斧 ÿc5ÿc;Elite",
     "deDE": "[fs]Große Stangenaxt ÿc5ÿc;Elite",
     "esES": "[fs]Gran hacha larga ÿc5ÿc;Elite",
@@ -13891,7 +13891,7 @@
   {
     "id": 20263,
     "Key": "7wc",
-    "enUS": "Giant Thresher ÿc;Elite",
+    "enUS": "Giant Thresher ÿc2[Max 6os - Infinity/Insight/BotD] ÿc;Elite",
     "zhTW": "巨型斬鐮 ÿc;Elite",
     "deDE": "[ms]Riesendrescher ÿc;Elite",
     "esES": "[fs]Trilladora gigante ÿc;Elite",
@@ -14010,7 +14010,7 @@
   {
     "id": 20270,
     "Key": "6hb",
-    "enUS": "Blade Bow ÿc;Elite",
+    "enUS": "Hydra Bow ÿc2[Max 6os - BotD] ÿc;Elite",
     "zhTW": "刀鋒弓 ÿc;Elite",
     "deDE": "[ms]Klingenbogen ÿc;Elite",
     "esES": "[ms]Arco tajante ÿc;Elite",
@@ -14095,7 +14095,7 @@
   {
     "id": 20275,
     "Key": "6sw",
-    "enUS": "Ward Bow ÿc;Elite",
+    "enUS": "Crusader Bow ÿc2[Max 6os - BotD] ÿc;Elite",
     "zhTW": "庇護弓 ÿc;Elite",
     "deDE": "[ms]Wächterbogen ÿc;Elite",
     "esES": "[ms]Arco de custodia ÿc;Elite",
@@ -14724,7 +14724,7 @@
   {
     "id": 20312,
     "Key": "amb",
-    "enUS": "Matriarchal Bow ÿc;Elite",
+    "enUS": "Matriarchal Bow ÿc2[Max 5os - Faith] ÿc;Elite",
     "zhTW": "女傑之弓 ÿc;Elite",
     "deDE": "[ms]Matriarchenbogen ÿc;Elite",
     "esES": "[ms]Arco matriarcal ÿc;Elite",
@@ -14741,7 +14741,7 @@
   {
     "id": 20313,
     "Key": "amc",
-    "enUS": "Grand Matron Bow ÿc;Elite",
+    "enUS": "Grand Matron Bow ÿc2[Max 5os - Faith/Mist] ÿc;Elite",
     "zhTW": "主母之弓 ÿc;Elite",
     "deDE": "[ms]Großer Matronenbogen ÿc;Elite",
     "esES": "[ms]Arco de la gran matrona ÿc;Elite",
@@ -15149,7 +15149,7 @@
   {
     "id": 20337,
     "Key": "ci0",
-    "enUS": "Circlet ÿc5Def(30) Nor",
+    "enUS": "Circlet ÿc2[Max 2os] ÿc5Def(30) Nor",
     "zhTW": "頭環 ÿc5Def(30) Nor",
     "deDE": "[ms]Reif ÿc5Def(30) Nor",
     "esES": "[fs]Aureola ÿc5Def(30) Nor",
@@ -15166,7 +15166,7 @@
   {
     "id": 20338,
     "Key": "ci1",
-    "enUS": "Coronet ÿc5Def(40) Nor",
+    "enUS": "Coronet ÿc2[Max 2os] ÿc5Def(40) Nor",
     "zhTW": "寶冠 ÿc5Def(40) Nor",
     "deDE": "[ns]Krönchen ÿc5Def(40) Nor",
     "esES": "[fs]Coronilla ÿc5Def(40) Nor",
@@ -15183,7 +15183,7 @@
   {
     "id": 20339,
     "Key": "ci2",
-    "enUS": "Tiara ÿc5Def(50) ÿcNEx",
+    "enUS": "Tiara ÿc2[Max 3os] ÿc5Def(50) ÿcNEx",
     "zhTW": "頭冠 ÿc5Def(50) ÿcNEx",
     "deDE": "[fs]Tiara ÿc5Def(50) ÿcNEx",
     "esES": "[fs]Tiara ÿc5Def(50) ÿcNEx",
@@ -15200,7 +15200,7 @@
   {
     "id": 20340,
     "Key": "ci3",
-    "enUS": "Diadem ÿc5Def(60) ÿc;Elite",
+    "enUS": "Diadem ÿc2[Max 3os - Reroll/Dream] ÿc5Def(60) ÿc;Elite",
     "zhTW": "權冠 ÿc5Def(60) ÿc;Elite",
     "deDE": "[ns]Diadem ÿc5Def(60) ÿc;Elite",
     "esES": "[fs]Diadema ÿc5Def(60) ÿc;Elite",
@@ -15336,7 +15336,7 @@
   {
     "id": 20348,
     "Key": "uui",
-    "enUS": "Dusk Shroud ÿc5Def(467) ÿc;Elite",
+    "enUS": "Dusk Shroud ÿc2[Max 4os - CoH/Fortitude] ÿc5Def(467) ÿc;Elite",
     "zhTW": "灰暮罩衣 ÿc5Def(467) ÿc;Elite",
     "deDE": "[ms]Dämmerschleier ÿc5Def(467) ÿc;Elite",
     "esES": "[fs]Mortaja del crepúsculo ÿc5Def(467) ÿc;Elite",
@@ -15370,7 +15370,7 @@
   {
     "id": 20350,
     "Key": "ula",
-    "enUS": "Scarab Husk ÿc5Def(474) ÿc;Elite",
+    "enUS": "Balrog Skin ÿc2[Max 4os] ÿc5Def(517) ÿc;Elite",
     "zhTW": "聖甲蟲殼皮甲 ÿc5Def(474) ÿc;Elite",
     "deDE": "[fs]Skarabäusschale ÿc5Def(474) ÿc;Elite",
     "esES": "[mp]Élitros de alfazaque ÿc5Def(474) ÿc;Elite",
@@ -15387,7 +15387,7 @@
   {
     "id": 20351,
     "Key": "utu",
-    "enUS": "Wire Fleece ÿc5Def(481) ÿc;Elite",
+    "enUS": "Wire Fleece ÿc2[Max 4os] ÿc5Def(481) ÿc;Elite",
     "zhTW": "鋼線毛皮甲 ÿc5Def(481) ÿc;Elite",
     "deDE": "[ns]Drahtvlies ÿc5Def(481) ÿc;Elite",
     "esES": "[fs]Lana de alambre ÿc5Def(481) ÿc;Elite",
@@ -15404,7 +15404,7 @@
   {
     "id": 20352,
     "Key": "ung",
-    "enUS": "Diamond Mail Def(489) ÿc;Elite",
+    "enUS": "Diamond Mail ÿc2[Max 4os] ÿc5Def(489) ÿc;Elite",
     "zhTW": "鑽石鎖甲 Def(489) ÿc;Elite",
     "deDE": "[ns]Diamantpanzerhemd Def(489) ÿc;Elite",
     "esES": "[fs]Cota de diamante Def(489) ÿc;Elite",
@@ -15421,7 +15421,7 @@
   {
     "id": 20353,
     "Key": "ucl",
-    "enUS": "Loricated Mail Def(496) ÿc;Elite",
+    "enUS": "Loricated Mail ÿc2[Max 4os] ÿc5Def(496) ÿc;Elite",
     "zhTW": "綴鱗戰甲 Def(496) ÿc;Elite",
     "deDE": "[ns]Kürasspanzerhemd Def(496) ÿc;Elite",
     "esES": "[fs]Cota lorigada Def(496) ÿc;Elite",
@@ -15455,7 +15455,7 @@
   {
     "id": 20355,
     "Key": "urs",
-    "enUS": "Great Hauberk ÿc5Def(501) ÿc;Elite",
+    "enUS": "Great Hauberk ÿc2[Max 4os] ÿc5Def(501) ÿc;Elite",
     "zhTW": "鱗鎧胸甲 ÿc5Def(501) ÿc;Elite",
     "deDE": "[fs]Große Halsberge ÿc5Def(501) ÿc;Elite",
     "esES": "[fs]Gran loriga ÿc5Def(501) ÿc;Elite",
@@ -15506,7 +15506,7 @@
   {
     "id": 20358,
     "Key": "uld",
-    "enUS": "Kraken Shell Def(523) ÿc;Elite",
+    "enUS": "Kraken Shell ÿc2[Max 4os] ÿc5Def(523) ÿc;Elite",
     "zhTW": "海怪之殼 Def(523) ÿc;Elite",
     "deDE": "[fs]Krakenschale Def(523) ÿc;Elite",
     "esES": "[fs]Concha de kraken Def(523) ÿc;Elite",
@@ -15557,7 +15557,7 @@
   {
     "id": 20361,
     "Key": "uar",
-    "enUS": "Sacred Armor Def(600) ÿc;Elite",
+    "enUS": "Sacred Armor ÿc2[Max 4os - Fortitude/Prudence] ÿc5Def(600) ÿc;Elite",
     "zhTW": "神聖戰甲 Def(600) ÿc;Elite",
     "deDE": "[fs]Heilige Rüstung Def(600) ÿc;Elite",
     "esES": "[fs]Armadura sacra Def(600) ÿc;Elite",
@@ -15574,7 +15574,7 @@
   {
     "id": 20362,
     "Key": "utp",
-    "enUS": "Archon Plate ÿc5Def(524) ÿc;Elite",
+    "enUS": "Archon Plate ÿc2[Max 4os - Fortitude/CoH/Enigma] ÿc5Def(524) ÿc;Elite",
     "zhTW": "統御者鎧甲 ÿc5Def(524) ÿc;Elite",
     "deDE": "[fs]Archonplattenrüstung ÿc5Def(524) ÿc;Elite",
     "esES": "[fs]Coraza de arconte ÿc5Def(524) ÿc;Elite",
@@ -15642,7 +15642,7 @@
   {
     "id": 20366,
     "Key": "uit",
-    "enUS": "Monarch ÿc5Def(148) ÿc;Elite",
+    "enUS": "Monarch ÿc2[Max 4os - Spirit/Phoenix] ÿc5Def(148) ÿc;Elite",
     "zhTW": "君主盾 ÿc5Def(148) ÿc;Elite",
     "deDE": "[ms]Monarch ÿc5Def(148) ÿc;Elite",
     "esES": "[ms]Monarca ÿc5Def(148) ÿc;Elite",
@@ -15948,7 +15948,7 @@
   {
     "id": 20384,
     "Key": "uh9",
-    "enUS": "Bone Visage ÿc5Def(157) ÿc;Elite",
+    "enUS": "Bone Visage ÿc2[Max 3os - Dream/Delirium] ÿc5Def(157) ÿc;Elite",
     "zhTW": "骸骨面罩 ÿc5Def(157) ÿc;Elite",
     "deDE": "[fs]Knochenfratze ÿc5Def(157) ÿc;Elite",
     "esES": "[ms]Semblante de hueso ÿc5Def(157) ÿc;Elite",
@@ -16407,7 +16407,7 @@
   {
     "id": 20411,
     "Key": "drf",
-    "enUS": "Dream Spirit ÿc5Def(159) ÿc;Elite",
+    "enUS": "Dream Spirit ÿc2[Max 3os - Delirium] ÿc5Def(159) ÿc;Elite",
     "zhTW": "幽夢靈獸帽 ÿc5Def(159) ÿc;Elite",
     "deDE": "[ms]Traumgeist ÿc5Def(159) ÿc;Elite",
     "esES": "[ms]Espíritu del sueño ÿc5Def(159) ÿc;Elite",
@@ -16492,7 +16492,7 @@
   {
     "id": 20416,
     "Key": "baf",
-    "enUS": "Guardian Crown ÿc5Def(168) ÿc;Elite",
+    "enUS": "Guardian Crown ÿc2[Max 3os - Delirium] ÿc5Def(168) ÿc;Elite",
     "zhTW": "守護者盔冠 ÿc5Def(168) ÿc;Elite",
     "deDE": "[fs]Wächterkrone ÿc5Def(168) ÿc;Elite",
     "esES": "[fs]Corona guardiana ÿc5Def(168) ÿc;Elite",
@@ -16509,7 +16509,7 @@
   {
     "id": 20417,
     "Key": "pab",
-    "enUS": "Sacred Targe ÿc5Def(158) ÿc;Elite",
+    "enUS": "Sacred Targe ÿc2[Max 4os - Spirit/Exile/Phoenix] ÿc5Def(158) ÿc;Elite",
     "zhTW": "神聖小盾 ÿc5Def(158) ÿc;Elite",
     "deDE": "[fs]Heilige Targe ÿc5Def(158) ÿc;Elite",
     "esES": "[fs]Adarga sacra ÿc5Def(158) ÿc;Elite",
@@ -16526,7 +16526,7 @@
   {
     "id": 20418,
     "Key": "pac",
-    "enUS": "Sacred Rondache ÿc5Def(164) ÿc;Elite",
+    "enUS": "Sacred Rondache ÿc2[Max 4os - Spirit/Exile] ÿc5Def(164) ÿc;Elite",
     "zhTW": "神聖輕圓盾 ÿc5Def(164) ÿc;Elite",
     "deDE": "[fs]Heilige Rondache ÿc5Def(164) ÿc;Elite",
     "esES": "[fs]Rodela sacra ÿc5Def(164) ÿc;Elite",
@@ -16543,7 +16543,7 @@
   {
     "id": 20419,
     "Key": "pae",
-    "enUS": "Zakarum Shield ÿc5Def(193) ÿc;Elite",
+    "enUS": "Zakarum Shield ÿc2[Max 4os - Spirit/Exile] ÿc5Def(193) ÿc;Elite",
     "zhTW": "撒卡蘭姆盾 ÿc5Def(193) ÿc;Elite",
     "deDE": "[ms]Zakarumschild ÿc5Def(193) ÿc;Elite",
     "esES": "[ms]Escudo de Zakarum ÿc5Def(193) ÿc;Elite",
@@ -16560,7 +16560,7 @@
   {
     "id": 20420,
     "Key": "paf",
-    "enUS": "Vortex Shield ÿc5Def(225) ÿc;Elite",
+    "enUS": "Vortex Shield ÿc2[Max 4os - Exile/Phoenix] ÿc5Def(225) ÿc;Elite",
     "zhTW": "渦旋盾 ÿc5Def(225) ÿc;Elite",
     "deDE": "[ms]Wirbelschild ÿc5Def(225) ÿc;Elite",
     "esES": "[ms]Escudo vórtice ÿc5Def(225) ÿc;Elite",
@@ -16645,7 +16645,7 @@
   {
     "id": 20425,
     "Key": "nef",
-    "enUS": "Bloodlord Skull ÿc5Def(148) ÿc;Elite",
+    "enUS": "Bloodlord Skull ÿc2[Max 2os - Splendor/Rhyme] ÿc5Def(148) ÿc;Elite",
     "zhTW": "鮮血之王顱骨 ÿc5Def(148) ÿc;Elite",
     "deDE": "[ms]Blutlordschädel ÿc5Def(148) ÿc;Elite",
     "esES": "[ms]Cráneo de señor de la sangre ÿc5Def(148) ÿc;Elite",
@@ -25128,7 +25128,7 @@
   {
     "id": 21779,
     "Key": "pad",
-    "enUS": "Kurast Shield ÿc5Def(172) ÿc;Elite",
+    "enUS": "Kurast Shield ÿc2[Max 4os - Spirit/Exile] ÿc5Def(172) ÿc;Elite",
     "zhTW": "庫拉斯特盾 ÿc5Def(172) ÿc;Elite",
     "deDE": "Kurastschild ÿc5Def(172) ÿc;Elite",
     "esES": "Escudo de Kurast ÿc5Def(172) ÿc;Elite",
@@ -27678,7 +27678,7 @@
   {
     "id": 27738,
     "Key": "absol",
-    "enUS": "Essence / Token of Absolution",
+    "enUS": "ÿc4★ TOKEN OF ABSOLUTION ★ ÿc0[Tẩy Điểm]",
     "zhTW": "赦免精華 / 徽章",
     "deDE": "[fs]Essenz / Zeichen der Absolution",
     "esES": "Esencia/muestra de absolución",
