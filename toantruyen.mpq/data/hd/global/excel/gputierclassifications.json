@@ -61,7 +61,7 @@
 		{"gpuName":"RTX 3050","platformTier":"Medium","allowDefault4k":false},
 		{"gpuName":"RTX 30","platformTier":"Ultra","allowDefault4k":true},
 		{"gpuName":"RTX 40","platformTier":"Ultra","allowDefault4k":true},
-		{"gpuName":"RTX 50","platformTier":"Ultra","allowDefault4k":true},
+		{"gpuName":"RTX 50","platformTier":"Ultra","allowDefault4k":true}
 	],
 		"amdGpuData":[
 		{"gpuName":"Vega 48","platformTier":"Medium","allowDefault4k":false},
@@ -120,7 +120,7 @@
 		{"gpuName":"Radeon 890","platformTier":"High","allowDefault4k":false},
 		{"gpuName":"Radeon 8040","platformTier":"Ultra","allowDefault4k":true},
 		{"gpuName":"Radeon 8050","platformTier":"Ultra","allowDefault4k":true},
-		{"gpuName":"Radeon 8060","platformTier":"Ultra","allowDefault4k":true},
+		{"gpuName":"Radeon 8060","platformTier":"Ultra","allowDefault4k":true}
 //----
-	],
+	]
 }

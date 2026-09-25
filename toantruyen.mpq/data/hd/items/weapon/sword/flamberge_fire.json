@@ -283,7 +283,7 @@
                     "z": 0.1
                 },
                 "inheritOnlyPosition": false
-                },
+                }
 
     ]
 },
@@ -323,7 +323,7 @@
                     "z": 0.1
                 },
                 "inheritOnlyPosition": false
-                },
+                }
 
     ]
 },
@@ -363,7 +363,7 @@
                     "z": 0.1
                 },
                 "inheritOnlyPosition": false
-                },
+                }
 
     ]
 },
@@ -403,7 +403,7 @@
                     "z": 0.1
                 },
                 "inheritOnlyPosition": false
-                },
+                }
 
     ]
 },
@@ -443,7 +443,7 @@
                     "z": 0.1
                 },
                 "inheritOnlyPosition": false
-                },
+                }
 
     ]
 },
@@ -484,7 +484,7 @@
                     "z": 0.1
                 },
                 "inheritOnlyPosition": false
-                },
+                }
 
     ]
 },
@@ -525,7 +525,7 @@
                     "z": 0.1
                 },
                 "inheritOnlyPosition": false
-                },
+                }
 
     ]
 },
@@ -566,7 +566,7 @@
                     "z": 0.1
                 },
                 "inheritOnlyPosition": false
-                },
+                }
 
     ]
 },
@@ -607,7 +607,7 @@
                     "z": 0.1
                 },
                 "inheritOnlyPosition": false
-                },
+                }
 
     ]
 }

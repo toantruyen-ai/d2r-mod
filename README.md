@@ -118,8 +118,8 @@ Trên phiên bản PC, Blizzard cố định ngôn ngữ theo Battle.net (chỉ 
 
 - **Cách 2 (Dùng lệnh nhanh trong Command Line Arguments)**:
   - Ngay trong phần **Additional command line arguments** của Battle.net:
-    - Chơi Tiếng Việt: `-mod toantruyen -txt -locale koKR`
-    - Chơi Tiếng Anh: `-mod toantruyen -txt -locale enUS` (hoặc bỏ cờ `-locale`)
+    - Chơi Tiếng Việt: `-mod toantruyen -locale koKR`
+    - Chơi Tiếng Anh: `-mod toantruyen -locale enUS` (hoặc bỏ cờ `-locale`)
 - **Phạm vi Việt Hóa chọn lọc & chuẩn mực (Tối ưu cho Trader & Người chơi Online)**:
   - **Dòng giải thích chỉ số (Item Affixes)**: Việt hóa rõ ràng, giữ nguyên đầy đủ mã màu và biểu tượng chuẩn của mod, kết hợp thuật ngữ ARPG quốc tế giúp đọc đồ nhanh chóng (`Tốc Độ Đánh (IAS)`, `Tốc Độ Niệm Phép Nhanh (FCR)`, `Phục Hồi Đòn Đánh Nhanh (FHR)`, `Tốc Độ Chạy (FRW)`, `Tỉ Lệ Đỡ Đòn (Block)`, `Đòn Chí Mạng (Deadly Strike)`, `Đòn Nghiền Nát (Crushing Blow)`, `Tất Cả Kháng (All Res)`, `Không Thể Bị Đóng Băng (CBF)`, `Vô Hình [ETH]`, v.v.).
   - **Chỉ số ngọc khảm (Gem Affixes)**: Toàn bộ hiệu ứng khảm Mũ, Khiên, Vũ khí, Áo giáp của cả 7 loại ngọc và đầu lâu (Skull).
@@ -185,7 +185,7 @@ Trên phiên bản PC, Blizzard cố định ngôn ngữ theo Battle.net (chỉ 
    - Tích chọn ô **Additional command line arguments**.
    - Nhập chính xác dòng lệnh sau:
      ```text
-     -mod toantruyen -txt
+     -mod toantruyen
      ```
    - Nhấn **Done** và khởi động game.
 

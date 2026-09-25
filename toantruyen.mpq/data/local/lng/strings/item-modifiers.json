@@ -2066,12 +2066,6 @@
   {
     "id": 27374,
     "Key": "ModStr6l",
-    "enUS": "%+d%% Attack Speed",
-    "koKR": "%+d%% ÿc4Tốc Độ Đánh (IAS)ÿc3"
-  },
-  {
-    "id": 27374,
-    "Key": "ModStr6l",
     "enUS": "%+d%% ÿc4Attack Speedÿc3",
     "zhTW": "攻擊速度 %+d%% ",
     "deDE": "%+d%% Angriffsgeschwindigkeit",
