@@ -9,13 +9,16 @@ Bản mod tùy chỉnh dành cho **Diablo II: Resurrected** (hỗ trợ phiên b
   - Hiển thị khoảng roll của các dòng chỉ số (min-max stats).
   - Tối ưu hóa bảng tên item rơi trên mặt đất, dễ nhìn và không bị rối màn hình.
   - Hỗ trợ đầy đủ các affixes và item riêng cho class **Warlock**.
-  - **Rune 1 Dòng Siêu Sạch & Phân cấp**: Tên Rune hiển thị trên 1 dòng duy nhất, không rườm rà che màn hình; phân biệt rõ thứ tự và đẳng cấp từ Low đến High Rune (gắn sao `★`).
+  - **Rune 1 Dòng Siêu Sạch & Hệ thống Xếp hạng Ngôi sao (Star Ranking)**: Tên Rune hiển thị trên 1 dòng duy nhất, phân cấp rõ ràng bằng số lượng và màu sắc ngôi sao phía trước:
+    - *Tier 1 (El - Hel: 1-15)*: 1 sao trắng `★` (Low Rune)
+    - *Tier 2 (Io - Lem: 16-20)*: 2 sao xanh băng `★★` (Mid Rune)
+    - *Tier 3 (Pul - Gul: 21-25)*: 3 sao vàng kim `★★★` (High-Mid Rune)
+    - *Tier 4 (Vex - Zod: 26-33)*: 4 sao đỏ rực `★★★★` (High Rune)
   - **Tối ưu cày Online (Battle.net)**: Rút gọn nhãn cuộn giấy thành `[TP]`, `[ID]`; làm nổi bật bình máu tím `[+100% REJUV]`; gắn ký hiệu ngôi sao `★` cho Charm và Jewel quý.
 - **Cột sáng Hoàng Kim (Drop Beacons) & Âm thanh rơi đồ**:
   - Cột sáng đánh dấu Waypoint, cửa hầm chuyển map, cầu thang, rương đặc biệt (Special Chests).
   - **Hệ thống Cột sáng Rune & Item quý**:
     - Sử dụng cột sáng hoàng kim nguyên bản của game (`Horadric Light`) kết hợp vòng lửa Fanaticism và tia chớp Valkyrie, đảm bảo 100% hiển thị rõ nét trên mọi Rune và Charm khi rơi xuống đất.
-    - Phân cấp Rune qua nhãn tên 1 dòng: High Rune gắn sao đỏ `★`, Mid Rune có dấu chấm tròn `•`, Low Rune hiển thị tên gọn gàng.
   - Kích hoạt âm thanh rơi đồ (Drop chime/SFX HD) sắc nét khi Rune, Gem và Charm rơi xuống đất.
 - **Direction Arrows & Bản đồ thông minh (Area Level)**:
   - Mũi tên dẫn hướng chỉ lối đi các map và nhiệm vụ.
