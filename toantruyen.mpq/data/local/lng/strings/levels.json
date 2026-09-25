@@ -138,7 +138,7 @@
   {
     "id": 796,
     "Key": "Durance of Hate Level 2",
-    "enUS": "Durance of Hate Level 2 [25, 55, 83]",
+    "enUS": "Durance of Hate Level 2 [Rẽ Trái] [25, 55, 83]",
     "zhTW": "憎恨囚牢第二層",
     "deDE": "Kerker des Hasses, Ebene 2",
     "esES": "Represión del Odio nivel 2",
@@ -784,7 +784,7 @@
   {
     "id": 834,
     "Key": "Claw Viper Temple Level 1",
-    "enUS": "Claw Viper Temple Level 1 [14, 47, 82]",
+    "enUS": "Claw Viper Temple Level 1 [Rẽ Trái] [14, 47, 82]",
     "zhTW": "利爪蛇魔神殿第一層",
     "deDE": "Tempel der Klauenvipern, Ebene 1",
     "esES": "Templo de la Garra Viperina nivel 1",
@@ -954,7 +954,7 @@
   {
     "id": 844,
     "Key": "Sewers Level 2",
-    "enUS": "Sewers Level 2 [13/24, 43/53, 74/85]",
+    "enUS": "Sewers Level 2 [Rẽ Trái] [13/24, 43/53, 74/85]",
     "zhTW": "下水道第二層",
     "deDE": "Kanalisation, Ebene 2",
     "esES": "Cloacas nivel 2",
@@ -1362,7 +1362,7 @@
   {
     "id": 868,
     "Key": "To The Durance of Hate Level 2",
-    "enUS": "To The Durance of Hate Level 2 [25, 55, 83]",
+    "enUS": "To The Durance of Hate Level 2 [Rẽ Trái] [25, 55, 83]",
     "zhTW": "前往憎恨囚牢第二層",
     "deDE": "Zum Kerker des Hasses, Ebene 2",
     "esES": "Al nivel 2 de la Represión del Odio",
@@ -1957,7 +1957,7 @@
   {
     "id": 903,
     "Key": "To The Claw Viper Temple Level 1",
-    "enUS": "To The Claw Viper Temple Level 1 [14, 47, 82]",
+    "enUS": "To The Claw Viper Temple Level 1 [Rẽ Trái] [14, 47, 82]",
     "zhTW": "前往利爪蛇魔神殿第一層",
     "deDE": "Zum Tempel der Klauenvipern, Ebene 1",
     "esES": "Al nivel 1 del Templo de la Garra Viperina",
@@ -2127,7 +2127,7 @@
   {
     "id": 913,
     "Key": "To The Sewers Level 2",
-    "enUS": "To The Sewers Level 2 [13/24, 43/53, 74/85]",
+    "enUS": "To The Sewers Level 2 [Rẽ Trái] [13/24, 43/53, 74/85]",
     "zhTW": "前往下水道第二層",
     "deDE": "Zur Kanalisation, Ebene 2",
     "esES": "Al nivel 2 de las Cloacas",
@@ -2501,7 +2501,7 @@
   {
     "id": 5021,
     "Key": "Catacombs Level 2",
-    "enUS": "Catacombs Level 2 [11, 42, 73]",
+    "enUS": "Catacombs Level 2 [Rẽ Phải] [11, 42, 73]",
     "zhTW": "地下墓穴第二層",
     "deDE": "Katakomben, Ebene 2",
     "esES": "Catacumbas nivel 2",
@@ -2688,7 +2688,7 @@
   {
     "id": 5032,
     "Key": "Tower Cellar Level 4",
-    "enUS": "Tower Cellar Level 4 [7, 41, 78]",
+    "enUS": "Tower Cellar Level 4 [Rẽ Trái] [7, 41, 78]",
     "zhTW": "高塔地牢第四層",
     "deDE": "Turmkeller, Ebene 4",
     "esES": "Sótano de la Torre nivel 4",
@@ -2705,7 +2705,7 @@
   {
     "id": 5033,
     "Key": "Tower Cellar Level 3",
-    "enUS": "Tower Cellar Level 3 [7, 40, 77]",
+    "enUS": "Tower Cellar Level 3 [Rẽ Trái] [7, 40, 77]",
     "zhTW": "高塔地牢第三層",
     "deDE": "Turmkeller, Ebene 3",
     "esES": "Sótano de la Torre nivel 3",
@@ -2722,7 +2722,7 @@
   {
     "id": 5034,
     "Key": "Tower Cellar Level 2",
-    "enUS": "Tower Cellar Level 2 [7, 39, 76]",
+    "enUS": "Tower Cellar Level 2 [Rẽ Trái] [7, 39, 76]",
     "zhTW": "高塔地牢第二層",
     "deDE": "Turmkeller, Ebene 2",
     "esES": "Sótano de la Torre nivel 2",
@@ -2739,7 +2739,7 @@
   {
     "id": 5035,
     "Key": "Tower Cellar Level 1",
-    "enUS": "Tower Cellar Level 1 [7, 38, 75]",
+    "enUS": "Tower Cellar Level 1 [Rẽ Trái] [7, 38, 75]",
     "zhTW": "高塔地牢第一層",
     "deDE": "Turmkeller, Ebene 1",
     "esES": "Sótano de la Torre nivel 1",
@@ -3147,7 +3147,7 @@
   {
     "id": 5059,
     "Key": "To The Catacombs Level 2",
-    "enUS": "To The Catacombs Level 2 [11, 42, 73]",
+    "enUS": "To The Catacombs Level 2 [Rẽ Phải] [11, 42, 73]",
     "zhTW": "前往地下墓穴第二層",
     "deDE": "Zu den Katakomben, Ebene 2",
     "esES": "Al nivel 2 de las Catacumbas",
@@ -3334,7 +3334,7 @@
   {
     "id": 5070,
     "Key": "To The Tower Cellar Level 4",
-    "enUS": "To The Tower Cellar Level 4 [7, 41, 78]",
+    "enUS": "To The Tower Cellar Level 4 [Rẽ Trái] [7, 41, 78]",
     "zhTW": "前往高塔地牢第四層",
     "deDE": "Zum Turmkeller, Ebene 4",
     "esES": "Al nivel 4 del Sótano de la Torre",
@@ -3351,7 +3351,7 @@
   {
     "id": 5071,
     "Key": "To The Tower Cellar Level 3",
-    "enUS": "To The Tower Cellar Level 3 [7, 40, 77]",
+    "enUS": "To The Tower Cellar Level 3 [Rẽ Trái] [7, 40, 77]",
     "zhTW": "前往高塔地牢第三層",
     "deDE": "Zum Turmkeller, Ebene 3",
     "esES": "Al nivel 3 del Sótano de la Torre",
@@ -3368,7 +3368,7 @@
   {
     "id": 5072,
     "Key": "To The Tower Cellar Level 2",
-    "enUS": "To The Tower Cellar Level 2 [7, 39, 76]",
+    "enUS": "To The Tower Cellar Level 2 [Rẽ Trái] [7, 39, 76]",
     "zhTW": "前往高塔地牢第二層",
     "deDE": "Zum Turmkeller, Ebene 2",
     "esES": "Al nivel 2 del Sótano de la Torre",
@@ -3385,7 +3385,7 @@
   {
     "id": 5073,
     "Key": "To The Tower Cellar Level 1",
-    "enUS": "To The Tower Cellar Level 1 [7, 38, 75]",
+    "enUS": "To The Tower Cellar Level 1 [Rẽ Trái] [7, 38, 75]",
     "zhTW": "前往高塔地牢第一層",
     "deDE": "Zum Turmkeller, Ebene 1",
     "esES": "Al nivel 1 del Sótano de la Torre",
@@ -4048,7 +4048,7 @@
   {
     "id": 22650,
     "Key": "Crystalized Cavern Level 1",
-    "enUS": "Crystalline Passage [29, 61, 82]",
+    "enUS": "Crystalline Passage [Rẽ Trái] [29, 61, 82]",
     "zhTW": "水晶通道",
     "deDE": "Kristalldurchgang",
     "esES": "Pasaje Cristalino",
@@ -4082,7 +4082,7 @@
   {
     "id": 22652,
     "Key": "Crystalized Cavern Level 2",
-    "enUS": "Glacial Trail [29, 61, 83]",
+    "enUS": "Glacial Trail [Rẽ Trái] [29, 61, 83]",
     "zhTW": "冰河小徑",
     "deDE": "Gletscherweg",
     "esES": "Senda Glacial",
@@ -4133,7 +4133,7 @@
   {
     "id": 22655,
     "Key": "Glacial Caves Level 1",
-    "enUS": "The Ancients' Way [29, 62, 82]",
+    "enUS": "The Ancients' Way [Rẽ Trái] [29, 62, 82]",
     "zhTW": "先祖之路",
     "deDE": "Der Weg der Urahnen",
     "esES": "Camino de los Antiguos",
@@ -4218,7 +4218,7 @@
   {
     "id": 22660,
     "Key": "Halls of Death's Calling",
-    "enUS": "Halls of Pain [34, 64, 84]",
+    "enUS": "Halls of Pain [Rẽ Trái] [34, 64, 84]",
     "zhTW": "苦痛之廳",
     "deDE": "Hallen der Schmerzen",
     "esES": "Salas del Dolor",
@@ -4286,7 +4286,7 @@
   {
     "id": 22664,
     "Key": "The Worldstone Keep Level 2",
-    "enUS": "Worldstone Keep Level 2 [40, 65, 85]",
+    "enUS": "Worldstone Keep Level 2 [Rẽ Phải] [40, 65, 85]",
     "zhTW": "世界之石要塞第二層",
     "deDE": "Weltsteinturm, Ebene 2",
     "esES": "Torre de la Piedra del Mundo nivel 2",
@@ -4422,7 +4422,7 @@
   {
     "id": 22672,
     "Key": "To The Crystalized Cavern Level 1",
-    "enUS": "To The Crystalline Passage [29, 61, 82]",
+    "enUS": "To The Crystalline Passage [Rẽ Trái] [29, 61, 82]",
     "zhTW": "前往水晶通道",
     "deDE": "Zum Kristalldurchgang",
     "esES": "Al Pasaje Cristalino",
@@ -4456,7 +4456,7 @@
   {
     "id": 22674,
     "Key": "To The Crystalized Cavern Level 2",
-    "enUS": "To The Glacial Trail [29, 61, 83]",
+    "enUS": "To The Glacial Trail [Rẽ Trái] [29, 61, 83]",
     "zhTW": "前往冰河小徑",
     "deDE": "Zum Gletscherweg",
     "esES": "A la Senda Glacial",
@@ -4507,7 +4507,7 @@
   {
     "id": 22677,
     "Key": "To The Glacier Caves Level 1",
-    "enUS": "To The Ancients' Way [29, 62, 82]",
+    "enUS": "To The Ancients' Way [Rẽ Trái] [29, 62, 82]",
     "zhTW": "前往先祖之路",
     "deDE": "Zum Weg der Urahnen",
     "esES": "Al Camino de los Antiguos",
@@ -4592,7 +4592,7 @@
   {
     "id": 22682,
     "Key": "To The Halls of Death's Calling",
-    "enUS": "To The Halls of Pain [34, 64, 84]",
+    "enUS": "To The Halls of Pain [Rẽ Trái] [34, 64, 84]",
     "zhTW": "前往苦痛之廳",
     "deDE": "Zu den Hallen der Schmerzen",
     "esES": "A las Salas del Dolor",
@@ -4660,7 +4660,7 @@
   {
     "id": 22686,
     "Key": "To The Worldstone Keep Level 2",
-    "enUS": "To The Worldstone Keep Level 2 [40, 65, 85]",
+    "enUS": "To The Worldstone Keep Level 2 [Rẽ Phải] [40, 65, 85]",
     "zhTW": "前往世界之石要塞第二層",
     "deDE": "Zum Weltsteinturm, Ebene 2",
     "esES": "Al nivel 2 de la Torre de la Piedra del Mundo",
@@ -5085,7 +5085,7 @@
   {
     "id": 22786,
     "Key": "EnteringTheTowerCellarLevel1",
-    "enUS": "Entering The Tower Cellar Level 1 [7, 38, 75]",
+    "enUS": "Entering The Tower Cellar Level 1 [Rẽ Trái] [7, 38, 75]",
     "zhTW": "進入高塔地牢第一層",
     "deDE": "Jetzt: Der Turmkeller, Ebene 1",
     "esES": "Entrando en el nivel 1 del Sótano de la Torre",
@@ -5102,7 +5102,7 @@
   {
     "id": 22787,
     "Key": "EnteringTheTowerCellarLevel2",
-    "enUS": "Entering The Tower Cellar Level 2 [7, 39, 76]",
+    "enUS": "Entering The Tower Cellar Level 2 [Rẽ Trái] [7, 39, 76]",
     "zhTW": "進入高塔地牢第二層",
     "deDE": "Jetzt: Der Turmkeller, Ebene 2",
     "esES": "Entrando en el nivel 2 del Sótano de la Torre",
@@ -5119,7 +5119,7 @@
   {
     "id": 22788,
     "Key": "EnteringTheTowerCellarLevel3",
-    "enUS": "Entering The Tower Cellar Level 3 [7, 40, 77]",
+    "enUS": "Entering The Tower Cellar Level 3 [Rẽ Trái] [7, 40, 77]",
     "zhTW": "進入高塔地牢第三層",
     "deDE": "Jetzt: Der Turmkeller, Ebene 3",
     "esES": "Entrando en el nivel 3 del Sótano de la Torre",
@@ -5136,7 +5136,7 @@
   {
     "id": 22789,
     "Key": "EnteringTheTowerCellarLevel4",
-    "enUS": "Entering The Tower Cellar Level 4 [7, 41, 78]",
+    "enUS": "Entering The Tower Cellar Level 4 [Rẽ Trái] [7, 41, 78]",
     "zhTW": "進入高塔地牢第四層",
     "deDE": "Jetzt: Der Turmkeller, Ebene 4",
     "esES": "Entrando en el nivel 4 del Sótano de la Torre",
@@ -5323,7 +5323,7 @@
   {
     "id": 22800,
     "Key": "EnteringTheCatacombsLevel2",
-    "enUS": "Entering The Catacombs Level 2 [11, 42, 73]",
+    "enUS": "Entering The Catacombs Level 2 [Rẽ Phải] [11, 42, 73]",
     "zhTW": "進入地下墓穴第二層",
     "deDE": "Jetzt: Die Katakomben, Ebene 2",
     "esES": "Entrando en el nivel 2 de las Catacumbas",
@@ -5544,7 +5544,7 @@
   {
     "id": 22813,
     "Key": "EnteringTheSewersLevel2",
-    "enUS": "Entering The Sewers Level 2 [13/24, 43/53, 74/85]",
+    "enUS": "Entering The Sewers Level 2 [Rẽ Trái] [13/24, 43/53, 74/85]",
     "zhTW": "進入下水道第二層",
     "deDE": "Jetzt: Die Kanalisation, Ebene 2",
     "esES": "Entrando en el nivel 2 de las Cloacas",
@@ -5714,7 +5714,7 @@
   {
     "id": 22823,
     "Key": "EnteringTheClawViperTempleLevel1",
-    "enUS": "Entering The Claw Viper Temple Level 1 [14, 47, 82]",
+    "enUS": "Entering The Claw Viper Temple Level 1 [Rẽ Trái] [14, 47, 82]",
     "zhTW": "進入利爪蛇魔神殿第一層",
     "deDE": "Jetzt: Der Tempel der Klauenvipern, Ebene 1",
     "esES": "Entrando en el nivel 1 del Templo de la Garra Viperina",
@@ -6309,7 +6309,7 @@
   {
     "id": 22860,
     "Key": "EnteringTheDuranceOfHateLevel2",
-    "enUS": "Entering The Durance of Hate Level 2 [25, 55, 83]",
+    "enUS": "Entering The Durance of Hate Level 2 [Rẽ Trái] [25, 55, 83]",
     "zhTW": "進入憎恨囚牢第二層",
     "deDE": "Jetzt: Der Kerker des Hasses, Ebene 2",
     "esES": "Entrando en el nivel 2 de la Represión del Odio",
@@ -6513,7 +6513,7 @@
   {
     "id": 22872,
     "Key": "EnteringTheCrystalizedCavernLevel1",
-    "enUS": "Entering The Crystalline Passage [29, 61, 82]",
+    "enUS": "Entering The Crystalline Passage [Rẽ Trái] [29, 61, 82]",
     "zhTW": "進入水晶通道",
     "deDE": "Jetzt: Der Kristalldurchgang",
     "esES": "Entrando en el Pasaje Cristalino",
@@ -6547,7 +6547,7 @@
   {
     "id": 22874,
     "Key": "EnteringTheCrystalizedCavernLevel2",
-    "enUS": "Entering The Glacial Trail [29, 61, 83]",
+    "enUS": "Entering The Glacial Trail [Rẽ Trái] [29, 61, 83]",
     "zhTW": "進入冰河小徑",
     "deDE": "Jetzt: Der Gletscherweg",
     "esES": "Entrando en la Senda Glacial",
@@ -6598,7 +6598,7 @@
   {
     "id": 22877,
     "Key": "EnteringTheGlacierCavesLevel1",
-    "enUS": "Entering The Ancients' Way [29, 62, 82]",
+    "enUS": "Entering The Ancients' Way [Rẽ Trái] [29, 62, 82]",
     "zhTW": "進入先祖之路",
     "deDE": "Jetzt: Der Weg der Urahnen",
     "esES": "Entrando en el Camino de los Antiguos",
@@ -6683,7 +6683,7 @@
   {
     "id": 22882,
     "Key": "EnteringTheHallsOfDeath'sCalling",
-    "enUS": "Entering The Halls of Pain [34, 64, 84]",
+    "enUS": "Entering The Halls of Pain [Rẽ Trái] [34, 64, 84]",
     "zhTW": "進入苦痛之廳",
     "deDE": "Jetzt: Die Hallen der Schmerzen",
     "esES": "Entrando en las Salas del Dolor",
@@ -6785,7 +6785,7 @@
   {
     "id": 22888,
     "Key": "EnteringTheWorldstoneKeepLevel2",
-    "enUS": "Entering The Worldstone Keep Level 2 [40, 65, 85]",
+    "enUS": "Entering The Worldstone Keep Level 2 [Rẽ Phải] [40, 65, 85]",
     "zhTW": "進入世界之石要塞第二層",
     "deDE": "Jetzt: Der Weltsteinturm, Ebene 2",
     "esES": "Entrando en el nivel 2 de la Torre de la Piedra del Mundo",

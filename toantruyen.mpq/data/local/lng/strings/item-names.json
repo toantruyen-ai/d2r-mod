@@ -631,7 +631,7 @@
   {
     "id": 1959,
     "Key": "vgl",
-    "enUS": "Heavy Gloves ÿc5Def(6) Nor",
+    "enUS": "Heavy Gloves ÿc1[Bloodfist - 30 FHR] ÿc5Def(6) Nor",
     "zhTW": "厚皮手套 ÿc5Def(6) Nor",
     "deDE": "[pl]schwere Handschuhe ÿc5Def(6) Nor",
     "esES": "[mp]Guantes pesados ÿc5Def(6) Nor",
@@ -648,7 +648,7 @@
   {
     "id": 1960,
     "Key": "mgl",
-    "enUS": "Chain Gloves ÿc5Def(9) Nor",
+    "enUS": "Chain Gloves ÿc1[Chance Guards - 40 MF] ÿc5Def(9) Nor",
     "zhTW": "鍊甲手套 ÿc5Def(9) Nor",
     "deDE": "[pl]Kettenhandschuhe ÿc5Def(9) Nor",
     "esES": "[mp]Guantes de malla ÿc5Def(9) Nor",
@@ -665,7 +665,7 @@
   {
     "id": 1961,
     "Key": "tgl",
-    "enUS": "Light Gauntlets ÿc5Def(11) Nor",
+    "enUS": "Light Gauntlets ÿc1[Magefist - 20 FCR] ÿc5Def(11) Nor",
     "zhTW": "輕型護手 ÿc5Def(11) Nor",
     "deDE": "[pl]leichte Panzerhandschuhe ÿc5Def(11) Nor",
     "esES": "[mp]Guanteletes ligeros ÿc5Def(11) Nor",
@@ -699,7 +699,7 @@
   {
     "id": 1963,
     "Key": "lbt",
-    "enUS": "Boots ÿc5Def(3) Nor",
+    "enUS": "Boots ÿc1[Hotspur] ÿc5Def(3) Nor",
     "zhTW": "皮靴 ÿc5Def(3) Nor",
     "deDE": "[pl]Stiefel ÿc5Def(3) Nor",
     "esES": "[fp]Botas ÿc5Def(3) Nor",
@@ -750,7 +750,7 @@
   {
     "id": 1966,
     "Key": "tbt",
-    "enUS": "Light Plated Boots ÿc5Def(11) Nor",
+    "enUS": "Light Plated Boots ÿc1[Goblin Toe - 25 CB] ÿc5Def(11) Nor",
     "zhTW": "輕鎧靴 ÿc5Def(11) Nor",
     "deDE": "[pl]leichte Plattenstiefel ÿc5Def(11) Nor",
     "esES": "[fp]Botas de placas ligeras ÿc5Def(11) Nor",
@@ -835,7 +835,7 @@
   {
     "id": 1971,
     "Key": "tbl",
-    "enUS": "Heavy Belt ÿc5Def(6) Nor",
+    "enUS": "Heavy Belt ÿc1[Goldwrap - 30 MF] ÿc5Def(6) Nor",
     "zhTW": "厚腰帶 ÿc5Def(6) Nor",
     "deDE": "[ms]schwerer Gürtel ÿc5Def(6) Nor",
     "esES": "[ms]Cinturón pesado ÿc5Def(6) Nor",
@@ -2314,7 +2314,7 @@
   {
     "id": 2058,
     "Key": "xh9",
-    "enUS": "Grim Helm ÿc5Def(125) ÿcNEx",
+    "enUS": "Grim Helm ÿc1[Vampire Gaze] ÿc5Def(125) ÿcNEx",
     "zhTW": "陰森頭盔 ÿc5Def(125) ÿcNEx",
     "deDE": "[ms]Kampfhelm ÿc5Def(125) ÿcNEx",
     "esES": "[ms]Yelmo lúgubre ÿc5Def(125) ÿcNEx",
@@ -2331,7 +2331,7 @@
   {
     "id": 2059,
     "Key": "zhb",
-    "enUS": "War Belt ÿc5Def(52) ÿcNEx",
+    "enUS": "War Belt ÿc1[Thundergod's Vigor] ÿc5Def(52) ÿcNEx",
     "zhTW": "征戰腰帶 ÿc5Def(52) ÿcNEx",
     "deDE": "[ms]Kriegsgürtel ÿc5Def(52) ÿcNEx",
     "esES": "[ms]Cinturón de guerra ÿc5Def(52) ÿcNEx",
@@ -2365,7 +2365,7 @@
   {
     "id": 2061,
     "Key": "zmb",
-    "enUS": "Mesh Belt ÿc5Def(40) ÿcNEx",
+    "enUS": "Mesh Belt ÿc1[Gloom's Trap] ÿc5Def(40) ÿcNEx",
     "zhTW": "鐵網腰帶 ÿc5Def(40) ÿcNEx",
     "deDE": "[ms]Kettengürtel ÿc5Def(40) ÿcNEx",
     "esES": "[ms]Cinturón mallado ÿc5Def(40) ÿcNEx",
@@ -2382,7 +2382,7 @@
   {
     "id": 2062,
     "Key": "zvb",
-    "enUS": "Sharkskin Belt ÿc5Def(36) ÿcNEx",
+    "enUS": "Sharkskin Belt ÿc1[Razortail] ÿc5Def(36) ÿcNEx",
     "zhTW": "鯊皮腰帶 ÿc5Def(36) ÿcNEx",
     "deDE": "[ms]Hailedergürtel ÿc5Def(36) ÿcNEx",
     "esES": "[ms]Cinturón de piel de tiburón ÿc5Def(36) ÿcNEx",
@@ -2399,7 +2399,7 @@
   {
     "id": 2063,
     "Key": "zlb",
-    "enUS": "Demonhide Sash ÿc5Def(34) ÿcNEx",
+    "enUS": "Demonhide Sash ÿc1[String of Ears] ÿc5Def(34) ÿcNEx",
     "zhTW": "魔皮束帶 ÿc5Def(34) ÿcNEx",
     "deDE": "[fs]Dämonenlederschärpe ÿc5Def(34) ÿcNEx",
     "esES": "[ms]Fajín de cuero de demonio ÿc5Def(34) ÿcNEx",
@@ -2416,7 +2416,7 @@
   {
     "id": 2064,
     "Key": "xhb",
-    "enUS": "War Boots ÿc5Def(53) ÿcNEx",
+    "enUS": "War Boots ÿc1[Gore Rider - CB/DS] ÿc5Def(53) ÿcNEx",
     "zhTW": "征戰靴 ÿc5Def(53) ÿcNEx",
     "deDE": "[pl]Kriegsstiefel ÿc5Def(53) ÿcNEx",
     "esES": "[fp]Botas de guerra ÿc5Def(53) ÿcNEx",
@@ -2433,7 +2433,7 @@
   {
     "id": 2065,
     "Key": "xtb",
-    "enUS": "Battle Boots ÿc5Def(47) ÿcNEx",
+    "enUS": "Battle Boots ÿc1[War Traveler - 50 MF] ÿc5Def(47) ÿcNEx",
     "zhTW": "戰鬥靴 ÿc5Def(47) ÿcNEx",
     "deDE": "[pl]Kampfstiefel ÿc5Def(47) ÿcNEx",
     "esES": "[fp]Botas de batalla ÿc5Def(47) ÿcNEx",
@@ -2467,7 +2467,7 @@
   {
     "id": 2067,
     "Key": "xvb",
-    "enUS": "Sharkskin Boots ÿc5Def(39) ÿcNEx",
+    "enUS": "Sharkskin Boots ÿc1[Waterwalk] ÿc5Def(39) ÿcNEx",
     "zhTW": "鯊皮靴 ÿc5Def(39) ÿcNEx",
     "deDE": "[pl]Hailederstiefel ÿc5Def(39) ÿcNEx",
     "esES": "[fp]Botas de piel de tiburón ÿc5Def(39) ÿcNEx",
@@ -2637,7 +2637,7 @@
   {
     "id": 2078,
     "Key": "xml",
-    "enUS": "Round Shield ÿc5Def(55) ÿcNEx",
+    "enUS": "Round Shield ÿc1[Moser's Blessed Circle] ÿc5Def(55) ÿcNEx",
     "zhTW": "圓型盾 ÿc5Def(55) ÿcNEx",
     "deDE": "[ms]Rundschild ÿc5Def(55) ÿcNEx",
     "esES": "[ms]Escudo redondo ÿc5Def(55) ÿcNEx",
@@ -2773,7 +2773,7 @@
   {
     "id": 2086,
     "Key": "xpl",
-    "enUS": "Russet Armor Def(243) ÿcNEx",
+    "enUS": "Russet Armor ÿc1[Skullder's Ire - MF] Def(243) ÿcNEx",
     "zhTW": "赤褐戰甲 Def(243) ÿcNEx",
     "deDE": "[fs]Eisenrüstung Def(243) ÿcNEx",
     "esES": "[fs]Armadura rojiza Def(243) ÿcNEx",
@@ -2790,7 +2790,7 @@
   {
     "id": 2087,
     "Key": "xrs",
-    "enUS": "Cuirass ÿc5Def(202) ÿcNEx",
+    "enUS": "Cuirass ÿc1[Duriel's Shell] ÿc5Def(202) ÿcNEx",
     "zhTW": "護胸甲 ÿc5Def(202) ÿcNEx",
     "deDE": "[ms]Harnisch ÿc5Def(202) ÿcNEx",
     "esES": "[ms]Peto ÿc5Def(202) ÿcNEx",
@@ -2807,7 +2807,7 @@
   {
     "id": 2088,
     "Key": "xhn",
-    "enUS": "Mesh Armor Def(213) ÿcNEx",
+    "enUS": "Mesh Armor ÿc1[Shaftstop - 30% DR] Def(213) ÿcNEx",
     "zhTW": "鐵網戰甲 Def(213) ÿcNEx",
     "deDE": "[fs]Kettenrüstung Def(213) ÿcNEx",
     "esES": "[fs]Armadura mallada Def(213) ÿcNEx",
@@ -2892,7 +2892,7 @@
   {
     "id": 2093,
     "Key": "xea",
-    "enUS": "Serpentskin Armor ÿc5Def(126) ÿcNEx",
+    "enUS": "Serpentskin Armor ÿc1[Skin of the Vipermagi] ÿc5Def(126) ÿcNEx",
     "zhTW": "海蛇皮甲 ÿc5Def(126) ÿcNEx",
     "deDE": "[fs]Schlangenlederrüstung ÿc5Def(126) ÿcNEx",
     "esES": "[fs]Armadura de piel de serpiente ÿc5Def(126) ÿcNEx",
@@ -2943,7 +2943,7 @@
   {
     "id": 2096,
     "Key": "xrn",
-    "enUS": "Grand Crown ÿc5Def(113) ÿcNEx",
+    "enUS": "Grand Crown ÿc1[Crown of Thieves] ÿc5Def(113) ÿcNEx",
     "zhTW": "莊嚴王冠 ÿc5Def(113) ÿcNEx",
     "deDE": "[fs]große Krone ÿc5Def(113) ÿcNEx",
     "esES": "[fs]Gran corona ÿc5Def(113) ÿcNEx",
@@ -13058,7 +13058,7 @@
   {
     "id": 20214,
     "Key": "7gw",
-    "enUS": "Unearthed Wand ÿc;Elite",
+    "enUS": "Unearthed Wand ÿc1[Death's Web - DWeb] ÿc;Elite",
     "zhTW": "埋骨魔杖 ÿc;Elite",
     "deDE": "[ms]Ausgegrabener Stab ÿc;Elite",
     "esES": "[fs]Vara desenterrada ÿc;Elite",
@@ -13330,7 +13330,7 @@
   {
     "id": 20230,
     "Key": "7cr",
-    "enUS": "Phase Blade ÿc2[Max 6os - Grief/Last Wish] ÿc;Elite",
+    "enUS": "Phase Blade ÿc2[Max 6os] ÿc1[Azurewrath/Lightsabre] ÿc;Elite",
     "zhTW": "幻化之刃 ÿc;Elite",
     "deDE": "[fs]Phasenklinge ÿc;Elite",
     "esES": "[fs]Espada de fase ÿc;Elite",
@@ -13500,7 +13500,7 @@
   {
     "id": 20240,
     "Key": "7dg",
-    "enUS": "Bone Knife ÿc;Elite",
+    "enUS": "Bone Knife ÿc1[Wizardspike - 50 FCR/75 All Res] ÿc;Elite",
     "zhTW": "骸骨小刀 ÿc;Elite",
     "deDE": "[ns]Knochenmesser ÿc;Elite",
     "esES": "[ms]Cuchillo de hueso ÿc;Elite",
@@ -13619,7 +13619,7 @@
   {
     "id": 20247,
     "Key": "7b8",
-    "enUS": "Winged Axe ÿc;Elite",
+    "enUS": "Winged Axe ÿc1[Lacerator] ÿc;Elite",
     "zhTW": "刃翼飛斧 ÿc;Elite",
     "deDE": "[fs]Schwingenaxt ÿc;Elite",
     "esES": "[fs]Hacha alada ÿc;Elite",
@@ -13704,7 +13704,7 @@
   {
     "id": 20252,
     "Key": "7ts",
-    "enUS": "Winged Harpoon ÿc;Elite",
+    "enUS": "Winged Harpoon ÿc1[Gargoyle's Bite] ÿc;Elite",
     "zhTW": "飛翼魚叉 ÿc;Elite",
     "deDE": "[fs]Geflügelte Harpune ÿc;Elite",
     "esES": "[ms]Arpón alado ÿc;Elite",
@@ -13840,7 +13840,7 @@
   {
     "id": 20260,
     "Key": "7s8",
-    "enUS": "Thresher ÿc2[Max 5os - Infinity/Insight/Obedience] ÿc;Elite",
+    "enUS": "Thresher ÿc2[Max 5os] ÿc1[The Reaper's Toll] ÿc;Elite",
     "zhTW": "斬鐮 ÿc;Elite",
     "deDE": "[ms]Drescher ÿc;Elite",
     "esES": "[fs]Trilladora ÿc;Elite",
@@ -14537,7 +14537,7 @@
   {
     "id": 20301,
     "Key": "oba",
-    "enUS": "Swirling Crystal ÿcNEx",
+    "enUS": "Swirling Crystal ÿc1[The Oculus] ÿcNEx",
     "zhTW": "渦流水晶 ÿcNEx",
     "deDE": "[ms]Wirbelnder Kristall ÿcNEx",
     "esES": "[ms]Cristal turbulento ÿcNEx",
@@ -14622,7 +14622,7 @@
   {
     "id": 20306,
     "Key": "ama",
-    "enUS": "Ceremonial Javelin ÿcNEx",
+    "enUS": "Ceremonial Javelin ÿc1[Titan's Revenge] ÿcNEx",
     "zhTW": "儀禮標槍 ÿcNEx",
     "deDE": "[ms]Zeremonialwurfspieß ÿcNEx",
     "esES": "[fs]Jabalina ceremonial ÿcNEx",
@@ -14656,7 +14656,7 @@
   {
     "id": 20308,
     "Key": "obc",
-    "enUS": "Eldritch Orb ÿc;Elite",
+    "enUS": "Eldritch Orb ÿc1[Eschuta's Temper] ÿc;Elite",
     "zhTW": "異能法珠 ÿc;Elite",
     "deDE": "[fs]Heidenkugel ÿc;Elite",
     "esES": "[ms]Orbe sobrenatural ÿc;Elite",
@@ -14707,7 +14707,7 @@
   {
     "id": 20311,
     "Key": "obf",
-    "enUS": "Dimensional Shard ÿc;Elite",
+    "enUS": "Dimensional Shard ÿc1[Death's Fathom - 30% Cold] ÿc;Elite",
     "zhTW": "次元法珠 ÿc;Elite",
     "deDE": "[fs]Dimensionsscherbe ÿc;Elite",
     "esES": "[fs]Esquirla dimensional ÿc;Elite",
@@ -14792,7 +14792,7 @@
   {
     "id": 20316,
     "Key": "amf",
-    "enUS": "Matriarchal Javelin ÿc;Elite",
+    "enUS": "Matriarchal Javelin ÿc1[Thunderstroke] ÿc;Elite",
     "zhTW": "女傑標槍 ÿc;Elite",
     "deDE": "[ms]Matriarchenwurfspieß ÿc;Elite",
     "esES": "[fs]Jabalina matriarcal ÿc;Elite",
@@ -15183,7 +15183,7 @@
   {
     "id": 20339,
     "Key": "ci2",
-    "enUS": "Tiara ÿc2[Max 3os] ÿc5Def(50) ÿcNEx",
+    "enUS": "Tiara ÿc2[Max 3os] ÿc1[Kira's Guardian] ÿc5Def(50) ÿcNEx",
     "zhTW": "頭冠 ÿc5Def(50) ÿcNEx",
     "deDE": "[fs]Tiara ÿc5Def(50) ÿcNEx",
     "esES": "[fs]Tiara ÿc5Def(50) ÿcNEx",
@@ -15200,7 +15200,7 @@
   {
     "id": 20340,
     "Key": "ci3",
-    "enUS": "Diadem ÿc2[Max 3os - Reroll/Dream] ÿc5Def(60) ÿc;Elite",
+    "enUS": "Diadem ÿc2[Max 3os] ÿc1[Griffon's Eye] ÿc5Def(60) ÿc;Elite",
     "zhTW": "權冠 ÿc5Def(60) ÿc;Elite",
     "deDE": "[ns]Diadem ÿc5Def(60) ÿc;Elite",
     "esES": "[fs]Diadema ÿc5Def(60) ÿc;Elite",
@@ -15217,7 +15217,7 @@
   {
     "id": 20341,
     "Key": "uap",
-    "enUS": "Shako ÿc5Def(141) ÿc;Elite",
+    "enUS": "Shako ÿc1[Harlequin Crest] ÿc5Def(141) ÿc;Elite",
     "zhTW": "軍帽 ÿc5Def(141) ÿc;Elite",
     "deDE": "[ms]Tschako ÿc5Def(141) ÿc;Elite",
     "esES": "[ms]Chacó ÿc5Def(141) ÿc;Elite",
@@ -15285,7 +15285,7 @@
   {
     "id": 20345,
     "Key": "uhm",
-    "enUS": "Spired Helm ÿc5Def(159) ÿc;Elite",
+    "enUS": "Spired Helm ÿc1[Nightwing's Veil] ÿc5Def(159) ÿc;Elite",
     "zhTW": "巨角頭盔 ÿc5Def(159) ÿc;Elite",
     "deDE": "[ms]Spitzhelm ÿc5Def(159) ÿc;Elite",
     "esES": "[ms]Yelmo de agujas ÿc5Def(159) ÿc;Elite",
@@ -15302,7 +15302,7 @@
   {
     "id": 20346,
     "Key": "urn",
-    "enUS": "Corona ÿc5Def(165) ÿc;Elite",
+    "enUS": "Corona ÿc1[Crown of Ages - CoA] ÿc5Def(165) ÿc;Elite",
     "zhTW": "日冕之冠 ÿc5Def(165) ÿc;Elite",
     "deDE": "[fs]Korona ÿc5Def(165) ÿc;Elite",
     "esES": "[fs]Corona ÿc5Def(165) ÿc;Elite",
@@ -15319,7 +15319,7 @@
   {
     "id": 20347,
     "Key": "usk",
-    "enUS": "Demonhead ÿc5Def(154) ÿc;Elite",
+    "enUS": "Demonhead ÿc1[Andariel's Visage] ÿc5Def(154) ÿc;Elite",
     "zhTW": "惡魔頭骨 ÿc5Def(154) ÿc;Elite",
     "deDE": "[ms]Dämonenschädel ÿc5Def(154) ÿc;Elite",
     "esES": "[fs]Faz del demonio ÿc5Def(154) ÿc;Elite",
@@ -15370,7 +15370,7 @@
   {
     "id": 20350,
     "Key": "ula",
-    "enUS": "Balrog Skin ÿc2[Max 4os] ÿc5Def(517) ÿc;Elite",
+    "enUS": "Balrog Skin ÿc2[Max 4os] ÿc1[Arkaine's Valor] ÿc5Def(517) ÿc;Elite",
     "zhTW": "聖甲蟲殼皮甲 ÿc5Def(474) ÿc;Elite",
     "deDE": "[fs]Skarabäusschale ÿc5Def(474) ÿc;Elite",
     "esES": "[mp]Élitros de alfazaque ÿc5Def(474) ÿc;Elite",
@@ -15506,7 +15506,7 @@
   {
     "id": 20358,
     "Key": "uld",
-    "enUS": "Kraken Shell ÿc2[Max 4os] ÿc5Def(523) ÿc;Elite",
+    "enUS": "Kraken Shell ÿc2[Max 4os] ÿc1[Leviathan] ÿc5Def(523) ÿc;Elite",
     "zhTW": "海怪之殼 Def(523) ÿc;Elite",
     "deDE": "[fs]Krakenschale Def(523) ÿc;Elite",
     "esES": "[fs]Concha de kraken Def(523) ÿc;Elite",
@@ -15557,7 +15557,7 @@
   {
     "id": 20361,
     "Key": "uar",
-    "enUS": "Sacred Armor ÿc2[Max 4os - Fortitude/Prudence] ÿc5Def(600) ÿc;Elite",
+    "enUS": "Sacred Armor ÿc2[Max 4os] ÿc1[Tyrael's/Templar's Might] ÿc5Def(600) ÿc;Elite",
     "zhTW": "神聖戰甲 Def(600) ÿc;Elite",
     "deDE": "[fs]Heilige Rüstung Def(600) ÿc;Elite",
     "esES": "[fs]Armadura sacra Def(600) ÿc;Elite",
@@ -15642,7 +15642,7 @@
   {
     "id": 20366,
     "Key": "uit",
-    "enUS": "Monarch ÿc2[Max 4os - Spirit/Phoenix] ÿc5Def(148) ÿc;Elite",
+    "enUS": "Monarch ÿc2[Max 4os - Spirit] ÿc1[Stormshield] ÿc5Def(148) ÿc;Elite",
     "zhTW": "君主盾 ÿc5Def(148) ÿc;Elite",
     "deDE": "[ms]Monarch ÿc5Def(148) ÿc;Elite",
     "esES": "[ms]Monarca ÿc5Def(148) ÿc;Elite",
@@ -15693,7 +15693,7 @@
   {
     "id": 20369,
     "Key": "ulg",
-    "enUS": "Bramble Mitts ÿc5Def(62) ÿc;Elite",
+    "enUS": "Bramble Mitts ÿc2[Laying of Hands (Set)] ÿc5Def(62) ÿc;Elite",
     "zhTW": "荊棘手套 ÿc5Def(62) ÿc;Elite",
     "deDE": "[pl]Dornenhandschuhe ÿc5Def(62) ÿc;Elite",
     "esES": "[mp]Mitones de zarza ÿc5Def(62) ÿc;Elite",
@@ -15710,7 +15710,7 @@
   {
     "id": 20370,
     "Key": "uvg",
-    "enUS": "Vampirebone Gloves ÿc5Def(65) ÿc;Elite",
+    "enUS": "Vampirebone Gloves ÿc1[Dracul's Grasp - Life Tap] ÿc5Def(65) ÿc;Elite",
     "zhTW": "吸血鬼骸骨手套 ÿc5Def(65) ÿc;Elite",
     "deDE": "[pl]Vampirknochenhandschuhe ÿc5Def(65) ÿc;Elite",
     "esES": "[mp]Guantes de hueso de vampiro ÿc5Def(65) ÿc;Elite",
@@ -15761,7 +15761,7 @@
   {
     "id": 20373,
     "Key": "uhg",
-    "enUS": "Ogre Gauntlets ÿc5Def(71) ÿc;Elite",
+    "enUS": "Ogre Gauntlets ÿc1[Steelrend] ÿc5Def(71) ÿc;Elite",
     "zhTW": "巨魔護手 ÿc5Def(71) ÿc;Elite",
     "deDE": "[pl]Ogerhandschuhe ÿc5Def(71) ÿc;Elite",
     "esES": "[mp]Guanteletes de ogro ÿc5Def(71) ÿc;Elite",
@@ -15795,7 +15795,7 @@
   {
     "id": 20375,
     "Key": "uvb",
-    "enUS": "Scarabshell Boots ÿc5Def(65) ÿc;Elite",
+    "enUS": "Scarabshell Boots ÿc1[Sandstorm Trek] ÿc5Def(65) ÿc;Elite",
     "zhTW": "聖甲蟲殼皮靴 ÿc5Def(65) ÿc;Elite",
     "deDE": "[pl]Skarabäusschalenstiefel ÿc5Def(65) ÿc;Elite",
     "esES": "[fp]Botas de élitro de alfazaque ÿc5Def(65) ÿc;Elite",
@@ -15812,7 +15812,7 @@
   {
     "id": 20376,
     "Key": "umb",
-    "enUS": "Boneweave Boots ÿc5Def(67) ÿc;Elite",
+    "enUS": "Boneweave Boots ÿc1[Marrowwalk] ÿc5Def(67) ÿc;Elite",
     "zhTW": "骸骨網靴 ÿc5Def(67) ÿc;Elite",
     "deDE": "[pl]Knochengespinststiefel ÿc5Def(67) ÿc;Elite",
     "esES": "[fp]Botas de hueso ÿc5Def(67) ÿc;Elite",
@@ -15863,7 +15863,7 @@
   {
     "id": 20379,
     "Key": "ulc",
-    "enUS": "Spiderweb Sash ÿc5Def(62) ÿc;Elite",
+    "enUS": "Spiderweb Sash ÿc1[Arachnid Mesh] ÿc5Def(62) ÿc;Elite",
     "zhTW": "蛛網束帶 ÿc5Def(62) ÿc;Elite",
     "deDE": "[fs]Spinnennetzschärpe ÿc5Def(62) ÿc;Elite",
     "esES": "[ms]Fajín de tela de araña ÿc5Def(62) ÿc;Elite",
@@ -15948,7 +15948,7 @@
   {
     "id": 20384,
     "Key": "uh9",
-    "enUS": "Bone Visage ÿc2[Max 3os - Dream/Delirium] ÿc5Def(157) ÿc;Elite",
+    "enUS": "Bone Visage ÿc2[Max 3os] ÿc1[Giant Skull] ÿc5Def(157) ÿc;Elite",
     "zhTW": "骸骨面罩 ÿc5Def(157) ÿc;Elite",
     "deDE": "[fs]Knochenfratze ÿc5Def(157) ÿc;Elite",
     "esES": "[ms]Semblante de hueso ÿc5Def(157) ÿc;Elite",
@@ -16152,7 +16152,7 @@
   {
     "id": 20396,
     "Key": "baa",
-    "enUS": "Slayer Guard ÿc5Def(120) ÿcNEx",
+    "enUS": "Slayer Guard ÿc1[Arreat's Face] ÿc5Def(120) ÿcNEx",
     "zhTW": "殺手護盔 ÿc5Def(120) ÿcNEx",
     "deDE": "[ms]Schlächterschutz ÿc5Def(120) ÿcNEx",
     "esES": "[fs]Protección exterminadora ÿc5Def(120) ÿcNEx",
@@ -16220,7 +16220,7 @@
   {
     "id": 20400,
     "Key": "pa9",
-    "enUS": "Gilded Shield ÿc5Def(168) ÿcNEx",
+    "enUS": "Gilded Shield ÿc1[Herald of Zakarum - HoZ] ÿc5Def(168) ÿcNEx",
     "zhTW": "金紋盾 ÿc5Def(168) ÿcNEx",
     "deDE": "[ms]Vergoldeter Schild ÿc5Def(168) ÿcNEx",
     "esES": "[ms]Escudo dorado ÿc5Def(168) ÿcNEx",
@@ -16322,7 +16322,7 @@
   {
     "id": 20406,
     "Key": "nea",
-    "enUS": "Hierophant Trophy ÿc5Def(70) ÿcNEx",
+    "enUS": "Hierophant Trophy ÿc1[Homunculus] ÿc5Def(70) ÿcNEx",
     "zhTW": "祭司首級 ÿc5Def(70) ÿcNEx",
     "deDE": "Hierophanttrophäe ÿc5Def(70) ÿcNEx",
     "esES": "[ms]Trofeo de hierofante ÿc5Def(70) ÿcNEx",

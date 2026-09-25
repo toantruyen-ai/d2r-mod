@@ -41,6 +41,13 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
   - `Grand Matron Bow [Max 5os - Faith/Mist]`, `Sacred Armor [Max 4os - Fortitude/Prudence]`
   - Các khiên Paladin (`Sacred Targe`, `Sacred Rondache`, `Vortex Shield`...) và vũ khí (`Flail`, `Crystal Sword`, `Berserker Axe`...).
 - **Đánh dấu Ethereal [ETH] siêu nổi bật**: Thẻ dạ quang `★ [ETH]` cho đồ Ethereal, giúp nhận biết ngay phôi làm đồ cho đệ tử và đồ Unique giá trị.
+- **Nhận diện Phôi Unique Cực Phẩm Chưa Giám Định (GG Unique Base Tags)**: Gắn trực tiếp tên món Unique độc quyền vào tên phôi rơi trên mặt đất, giúp nhận biết ngay đồ GG Unique mà không cần nhặt vào túi soi:
+  - `Shako [Harlequin Crest]`, `Diadem [Griffon's Eye]`, `Tiara [Kira's Guardian]`
+  - `Spiderweb Sash [Arachnid Mesh]`, `War Belt [Thundergod's Vigor]`, `Demonhide Sash [String of Ears]`
+  - `Battle Boots [War Traveler - 50 MF]`, `War Boots [Gore Rider - CB/DS]`, `Scarabshell Boots [Sandstorm Trek]`
+  - `Vampirebone Gloves [Dracul's Grasp - Life Tap]`, `Chain Gloves [Chance Guards - 40 MF]`, `Heavy Gloves [Bloodfist]`
+  - `Gilded Shield [Herald of Zakarum - HoZ]`, `Round Shield [Moser's Blessed Circle]`, `Hierophant Trophy [Homunculus]`
+  - `Swirling Crystal [The Oculus]`, `Ceremonial Javelin [Titan's Revenge]`, `Dimensional Shard [Death's Fathom]`, `Bone Knife [Wizardspike]`, `Unearthed Wand [Death's Web]`...
 - **Tối ưu Săn Key Uber & Ghép Token Tẩy Điểm**:
   - Gắn tên Boss rơi đồ trực tiếp: `Key of Terror (Countess - Act 1)`, `Key of Hate (Summoner - Act 2)`, `Key of Destruction (Nihlathak - Act 5)`.
   - Gắn nguồn gốc Boss vào 4 loại Tinh chất: `Twisted Essence (Andariel/Duriel)`, `Charged Essence (Mephisto)`, `Burning Essence (Diablo)`, `Festering Essence (Baal)`.
@@ -53,6 +60,14 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
 - **Tên Horadric Cube thanh lịch**: Giữ tên ngắn gọn nguyên bản, tránh lỗi thanh cheatsheet 20 dòng làm đơ/tràn khung giao diện tay cầm.
 
 ### 4. Hệ thống Dẫn đường & Đánh dấu Bản đồ (Navigation Beacons & Arrows)
+- **Mẹo Chỉ Hướng Map Chuẩn Pro Speedrun (Map Navigation Rule)**: Tích hợp chỉ dẫn định hướng `[Rẽ Trái]` hoặc `[Rẽ Phải]` trực tiếp vào tên khu vực trên map và lối chuyển tầng (an toàn 100% cho bảng Waypoint):
+  - *Tower Cellar Tầng 1 $\rightarrow$ 4 (Countess)*: `[Rẽ Trái]` (Bám tường tay trái nhân vật từ cửa vào là tới cửa tầng kế tiếp).
+  - *Catacombs Level 2 (Andariel)*: `[Rẽ Phải]` (Bám tường tay phải tính từ hướng bước ra khỏi Waypoint).
+  - *Durance of Hate Level 2 (Mephisto)*: `[Rẽ Trái]` (Bám tường tay trái từ Waypoint là tới cửa tầng 3).
+  - *Worldstone Keep Level 2 (Baal)*: `[Rẽ Phải]` (Bám tường tay phải từ Waypoint là tới cửa tầng 3).
+  - *Halls of Pain (Nihlathak)*: `[Rẽ Trái]` (Bám tường tay trái là tới cửa Halls of Vaught).
+  - *Sewers Level 2 (Radament)*: `[Rẽ Trái]`.
+  - *Crystalline Passage / Glacial Trail / Ancients' Way*: `[Rẽ Trái]`.
 - **Cột sáng chuyển tiếp khu vực**: Đánh dấu rõ ràng Waypoint, Cầu thang lên/xuống (Upstairs/Downstairs), Cửa hang/hầm, Cửa chuyển map tiếp theo.
 - **Đánh dấu Rương kho báu & Mục tiêu nhiệm vụ**:
   - Đánh dấu các Rương lấp lánh (Sparkly/Superchests tại Lower Kurast và các hầm ngục).
