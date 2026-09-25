@@ -4660,7 +4660,7 @@
   {
     "id": 2200,
     "Key": "tsc",
-    "enUS": "ÿc3Ⅸÿc0 Scrÿc3oÿc0ll",
+    "enUS": "ÿc3[TP]",
     "zhTW": "城鎮傳送卷軸",
     "deDE": "Schriftrolle des Stadtportals",
     "esES": "Pergamino del portal de la ciudad",
@@ -4694,7 +4694,7 @@
   {
     "id": 2202,
     "Key": "isc",
-    "enUS": "ÿc1Ⅸÿc0 Scrÿc1oÿc0ll",
+    "enUS": "ÿc1[ID]",
     "zhTW": "鑑定卷軸",
     "deDE": "Schriftrolle der Identifikation",
     "esES": "Pergamino de identificación",
@@ -4745,7 +4745,7 @@
   {
     "id": 2209,
     "Key": "rvs",
-    "enUS": "ÿc;35ÿc9JV",
+    "enUS": "ÿc;[+35% Rejuv]",
     "zhTW": "活力藥水",
     "deDE": "Regenerationstrank",
     "esES": "Poción rejuvenecedora",
@@ -4762,7 +4762,7 @@
   {
     "id": 2210,
     "Key": "rvl",
-    "enUS": "ÿc;Ⅷÿc9 JV",
+    "enUS": "ÿc;[+100% REJUV]",
     "zhTW": "全效活力藥水",
     "deDE": "starker Regenerationstrank",
     "esES": "Poción rejuvenecedora total",
@@ -16662,7 +16662,7 @@
   {
     "id": 20433,
     "Key": "jew",
-    "enUS": "Jewel",
+    "enUS": "ÿc;★ Jewel",
     "zhTW": "珠寶",
     "deDE": "[ns]Juwel",
     "esES": "[fs]Joya",
@@ -16696,7 +16696,7 @@
   {
     "id": 20435,
     "Key": "cm1",
-    "enUS": "Small Charm",
+    "enUS": "ÿc;★ Small Charm",
     "zhTW": "小型咒符",
     "deDE": "[ms]Kleiner Zauber",
     "esES": "[ms]Dije pequeño",
@@ -16713,7 +16713,7 @@
   {
     "id": 20436,
     "Key": "cm2",
-    "enUS": "Large Charm",
+    "enUS": "ÿc;★ Large Charm",
     "zhTW": "大型咒符",
     "deDE": "[ms]Großer Zauber",
     "esES": "[ms]Dije grande",
@@ -16730,7 +16730,7 @@
   {
     "id": 20437,
     "Key": "cm3",
-    "enUS": "Grand Charm",
+    "enUS": "ÿc;★ Grand Charm",
     "zhTW": "特大咒符",
     "deDE": "[ms]Riesenzauber",
     "esES": "[ms]Dije enorme",
