@@ -33,7 +33,7 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
   - Toàn bộ tên nỏ (`aqv`, `cqv`), chìa khóa thường (`key`), các bình ném độc/dầu (`gpl`, `opl`), bình thể lực/giải độc (`vps`, `yps`, `wms`) và bình máu/mana cấp thấp 1–3 (`hp1-3`, `mp1-3`) đều được hóa thành **1 dấu chấm mờ duy nhất: `·`**.
   - Đồ hỏng, kém chất lượng (`Low Quality`, `Damaged`, `Cracked`, `Crude`) cũng tự động thu nhỏ thành dấu chấm mờ `·`.
   - Khung chữ teo lại 99% thành một chấm nhỏ xíu, giúp giải phóng hoàn toàn tầm nhìn khi cày bãi đông (Cow Level, Chaos Sanctuary, Travincal), không còn bị chữ to của rác che khuất màn hình.
-  - Bình máu/mana lớn được giữ gọn gàng: `HP` (Greater HP), `★ [Super HP]`, `MP` (Greater MP), `★ [Super MP]`.
+  - Bình máu/mana lớn được rút gọn siêu thoáng mắt: `[HP]` và `[MP]` (giảm 50% diện tích chữ, không còn lo kín màn hình khi farm bãi đông quái).
 - **Rút gọn nhãn cuộn giấy & Bình Rejuv**: Biến nhãn dài dòng thành `[TP]` (Town Portal) và `[ID]` (Identify); làm nổi bật bình Rejuv tím `[+35% Rejuv]` và `★ [+100% REJUV] ★`.
 - **Chỉ dẫn Phôi Runeword & Số lỗ Larzuk (Socket & Base Helper)**: Hiển thị số lỗ tối đa khi đục Larzuk Act 5 và gợi ý Runeword hot trực tiếp trên tên phôi:
   - `Monarch [Max 4os - Spirit/Phoenix]`, `Phase Blade [Max 6os - Grief/Last Wish]`
@@ -82,6 +82,8 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
   - *Worldstone Keep Level 2 (Baal)*: `[Rẽ Phải]` (Bám tường tay phải từ Waypoint là tới cửa tầng 3).
   - *Halls of Pain (Nihlathak)*: `[Rẽ Trái]` (Bám tường tay trái là tới cửa Halls of Vaught).
   - *Sewers Level 2 (Radament)*: `[Rẽ Trái]`.
+  - *Maggot Lair Tầng 1 & 2 (Act 2)*: `[Rẽ Phải]`.
+  - *Flayer Dungeon Tầng 1 & 2 (Act 3)*: `[Rẽ Trái]`.
   - *Crystalline Passage / Glacial Trail / Ancients' Way*: `[Rẽ Trái]`.
 - **Cột sáng chuyển tiếp khu vực**: Đánh dấu rõ ràng Waypoint, Cầu thang lên/xuống (Upstairs/Downstairs), Cửa hang/hầm, Cửa chuyển map tiếp theo.
 - **Đánh dấu Rương kho báu & Mục tiêu nhiệm vụ**:
