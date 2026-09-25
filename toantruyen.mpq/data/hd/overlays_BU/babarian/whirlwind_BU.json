@@ -1,0 +1,104 @@
+{
+    "dependencies": {
+        "particles": [
+            {
+                "path": "data/hd/vfx/particles/overlays/common/lightning/ShockhitSm_overlay.particles"
+            }
+        ],
+        "models": [],
+        "skeletons": [],
+        "animations": [],
+        "textures": [
+            {
+                "path": "data/hd/vfx/textures/mask/TriangleMask_FX_T_NovaMask_01.texture"
+            }
+        ],
+        "physics": [],
+        "json": [],
+        "variantdata": [],
+        "objecteffects": [],
+        "other": []
+    },
+    "type": "OverlayDefinition",
+    "name": "lightning",
+    "entities": [
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 3800148828,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "component_vfx",
+                    "filename": "data/hd/vfx/particles/overlays/common/lightning/ShockhitSm_overlay.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 2683417601,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "component_vfx",
+                    "filename": "data/hd/vfx/particles/overlays/barbarian/whirlwind/vfx_barbarian_whirlwind_mesh.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 270090943,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "component_vfx",
+                    "filename": "data/hd/vfx/particles/overlays/monster/diablolightning/DiabloLightning_overlay.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 1916245135,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "component_vfx",
+                    "filename": "data/hd/vfx/particles/overlays/sorceress/thunderstormcast/ThunderCastOverlay.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 2856878031,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "component_vfx",
+                    "filename": "data/hd/vfx/particles/overlays/sorceress/thunderstormcast/ThunderCastOverlayOper.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 3800148828,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "component_vfx",
+                    "filename": "data/hd/vfx/particles/overlays/common/lightning/ShockhitSm_overlay.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        }
+    ]
+}

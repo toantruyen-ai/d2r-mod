@@ -1,4 +1,4 @@
-# D2R Mod - btony1
+# D2R Mod - toantruyen
 
 Bản mod tùy chỉnh dành cho **Diablo II: Resurrected** (hỗ trợ phiên bản mới nhất v3.3.93847+ và class **Warlock**).
 
@@ -20,11 +20,11 @@ Bản mod tùy chỉnh dành cho **Diablo II: Resurrected** (hỗ trợ phiên b
 
 ## Hướng dẫn cài đặt & sử dụng
 
-1. Đặt thư mục `btony1` vào đường dẫn:
+1. Đặt thư mục `toantruyen` vào đường dẫn:
    ```
-   <Thư mục cài Diablo II Resurrected>\mods\btony1
+   <Thư mục cài Diablo II Resurrected>\mods\toantruyen
    ```
-   *(Cấu trúc bên trong sẽ là: `...mods\btony1\btony1.mpq\data\...`)*
+   *(Cấu trúc bên trong sẽ là: `...mods\toantruyen\toantruyen.mpq\data\...`)*
 
 2. Trong **Battle.net Launcher**:
    - Chọn **Diablo II: Resurrected**.
@@ -32,6 +32,6 @@ Bản mod tùy chỉnh dành cho **Diablo II: Resurrected** (hỗ trợ phiên b
    - Tích chọn ô **Additional command line arguments**.
    - Nhập vào dòng lệnh:
      ```
-     -mod btony1 -txt
+     -mod toantruyen -txt
      ```
    - Nhấn **Done** và khởi động game.
