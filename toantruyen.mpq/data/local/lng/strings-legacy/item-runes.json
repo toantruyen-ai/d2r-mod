@@ -2,13 +2,13 @@
   {
     "id": 10902,
     "Key": "r16",
-    "enUS": "ÿc1(16) ÿc8Io Rune",
+    "enUS": "ÿc0Cube: 3x Io + Flawed Topaz -> Lum\nÿc3★★ ÿc8Io Rune (16)",
     "zhTW": "符文：破",
     "deDE": "[fs]Io-Rune",
     "esES": "[fs]la runa Io",
     "frFR": "[fs]Rune Io",
     "itIT": "[fs]Runa Io",
-    "koKR": "ÿc1(16) ÿc8포 룬",
+    "koKR": "ÿc0Ghép: 3x Io + Flawed Topaz -> Lum\nÿc3★★ ÿc8Io Rune (16)",
     "plPL": "Runa Io"
   },
   {
@@ -20,19 +20,19 @@
     "esES": "Io",
     "frFR": "Io",
     "itIT": "Io",
-    "koKR": "포",
+    "koKR": "Io",
     "plPL": "Io"
   },
   {
     "id": 10904,
     "Key": "r13",
-    "enUS": "ÿc1(13) ÿc8Shael Rune",
+    "enUS": "ÿc0Cube: 3x Shael + Chipped Ruby -> Dol\nÿc0★ ÿc8Shael Rune (13)",
     "zhTW": "符文：夏",
     "deDE": "[fs]Shael-Rune",
     "esES": "[fs]la runa Shael",
     "frFR": "[fs]Rune Shael",
     "itIT": "[fs]Runa Shael",
-    "koKR": "ÿc1(13) ÿc8샤에 룬",
+    "koKR": "ÿc0Ghép: 3x Shael + Chipped Ruby -> Dol\nÿc0★ ÿc8Shael Rune (13)",
     "plPL": "Runa Shael"
   },
   {
@@ -44,19 +44,19 @@
     "esES": "Shael",
     "frFR": "Shael",
     "itIT": "Shael",
-    "koKR": "샤에",
+    "koKR": "Shael",
     "plPL": "Shael"
   },
   {
     "id": 10906,
     "Key": "r31",
-    "enUS": "ÿc1(31) ÿc8Jah Rune ÿc2**",
+    "enUS": "ÿc0Cube: 2x Jah + Flawless Ruby -> Cham\nÿc1★★★★ ÿc8Jah Rune (31)",
     "zhTW": "符文：喬",
     "deDE": "[fs]Jah-Rune",
     "esES": "[fs]la runa Jah",
     "frFR": "[fs]Rune Jah",
     "itIT": "[fs]Runa Jah",
-    "koKR": "ÿc1(31) ÿc8조 룬 ÿc2**",
+    "koKR": "ÿc0Ghép: 2x Jah + Flawless Ruby -> Cham\nÿc1★★★★ ÿc8Jah Rune (31)",
     "plPL": "Runa Jah"
   },
   {
@@ -68,7 +68,7 @@
     "esES": "Jah",
     "frFR": "Jah",
     "itIT": "Jah",
-    "koKR": "조",
+    "koKR": "Jah",
     "plPL": "Jah"
   },
   {
@@ -80,367 +80,367 @@
     "esES": "Delirio",
     "frFR": "Délire",
     "itIT": "Delirio",
-    "koKR": "대표위원",
+    "koKR": "Delirium",
     "plPL": "Delirium"
   },
   {
     "id": 20440,
     "Key": "r33",
-    "enUS": "ÿc1(33) ÿc8Zod Rune ÿc2**",
+    "enUS": "ÿc0Cube: Max Tier (Can't upgrade)\nÿc1★★★★ ÿc8Zod Rune (33)",
     "zhTW": "符文：薩德",
     "deDE": "[fs]Zod-Rune",
     "esES": "[fs]la runa Zod",
     "frFR": "[fs]Rune Zod",
     "itIT": "[fs]Runa Zod",
-    "koKR": "ÿc1(33) ÿc8조드 룬 ÿc2**",
+    "koKR": "ÿc0Ghép: Cấp Tối Đa (Không thể nâng cấp)\nÿc1★★★★ ÿc8Zod Rune (33)",
     "plPL": "Runa Zod"
   },
   {
     "id": 20441,
     "Key": "r32",
-    "enUS": "ÿc1(32) ÿc8Cham Rune ÿc2**",
+    "enUS": "ÿc0Cube: 2x Cham + Flawless Emerald -> Zod\nÿc1★★★★ ÿc8Cham Rune (32)",
     "zhTW": "符文：查姆",
     "deDE": "[fs]Cham-Rune",
     "esES": "[fs]la runa Cham",
     "frFR": "[fs]Rune Cham",
     "itIT": "[fs]Runa Cham",
-    "koKR": "ÿc1(32) ÿc8차암 룬 ÿc2**",
+    "koKR": "ÿc0Ghép: 2x Cham + Flawless Emerald -> Zod\nÿc1★★★★ ÿc8Cham Rune (32)",
     "plPL": "Runa Cham"
   },
   {
     "id": 20443,
     "Key": "r30",
-    "enUS": "ÿc1(30) ÿc8Ber Rune ÿc2**",
+    "enUS": "ÿc0Cube: 2x Ber + Flawless Sapphire -> Jah\nÿc1★★★★ ÿc8Ber Rune (30)",
     "zhTW": "符文：貝",
     "deDE": "[fs]Ber-Rune",
     "esES": "[fs]la runa Ver",
     "frFR": "[fs]Rune Ber",
     "itIT": "[fs]Runa Ber",
-    "koKR": "ÿc1(30) ÿc8베르 룬 ÿc2**",
+    "koKR": "ÿc0Ghép: 2x Ber + Flawless Sapphire -> Jah\nÿc1★★★★ ÿc8Ber Rune (30)",
     "plPL": "Runa Ber"
   },
   {
     "id": 20444,
     "Key": "r29",
-    "enUS": "ÿc1(29) ÿc8Sur Rune ÿc2**",
+    "enUS": "ÿc0Cube: 2x Sur + Flawless Amethyst -> Ber\nÿc1★★★★ ÿc8Sur Rune (29)",
     "zhTW": "符文：瑟",
     "deDE": "[fs]Sur-Rune",
     "esES": "[fs]la runa Sur",
     "frFR": "[fs]Rune Sur",
     "itIT": "[fs]Runa Sur",
-    "koKR": "ÿc1(29) ÿc8수르 룬 ÿc2**",
+    "koKR": "ÿc0Ghép: 2x Sur + Flawless Amethyst -> Ber\nÿc1★★★★ ÿc8Sur Rune (29)",
     "plPL": "Runa Sur"
   },
   {
     "id": 20445,
     "Key": "r28",
-    "enUS": "ÿc1(28) ÿc8Lo Rune ÿc2**",
+    "enUS": "ÿc0Cube: 2x Lo + Flawless Topaz -> Sur\nÿc1★★★★ ÿc8Lo Rune (28)",
     "zhTW": "符文：羅",
     "deDE": "[fs]Lo-Rune",
     "esES": "[fs]la runa Lo",
     "frFR": "[fs]Rune Lo",
     "itIT": "[fs]Runa Lo",
-    "koKR": "ÿc1(28) ÿc8로 룬 ÿc2**",
+    "koKR": "ÿc0Ghép: 2x Lo + Flawless Topaz -> Sur\nÿc1★★★★ ÿc8Lo Rune (28)",
     "plPL": "Runa Lo"
   },
   {
     "id": 20446,
     "Key": "r27",
-    "enUS": "ÿc1(27) ÿc8Ohm Rune ÿc2*",
+    "enUS": "ÿc0Cube: 2x Ohm + Diamond -> Lo\nÿc1★★★★ ÿc8Ohm Rune (27)",
     "zhTW": "符文：歐姆",
     "deDE": "[fs]Ohm-Rune",
     "esES": "[fs]la runa Ohm",
     "frFR": "[fs]Rune Ohm",
     "itIT": "[fs]Runa Ohm",
-    "koKR": "ÿc1(27) ÿc8오움 룬 ÿc2*",
+    "koKR": "ÿc0Ghép: 2x Ohm + Diamond -> Lo\nÿc1★★★★ ÿc8Ohm Rune (27)",
     "plPL": "Runa Ohm"
   },
   {
     "id": 20447,
     "Key": "r26",
-    "enUS": "ÿc1(26) ÿc8Vex Rune ÿc2*",
+    "enUS": "ÿc0Cube: 2x Vex + Emerald -> Ohm\nÿc1★★★★ ÿc8Vex Rune (26)",
     "zhTW": "符文：伐克斯",
     "deDE": "[fs]Vex-Rune",
     "esES": "[fs]la runa Vex",
     "frFR": "[fs]Rune Vex",
     "itIT": "[fs]Runa Vex",
-    "koKR": "ÿc1(26) ÿc8벡스 룬 ÿc2*",
+    "koKR": "ÿc0Ghép: 2x Vex + Emerald -> Ohm\nÿc1★★★★ ÿc8Vex Rune (26)",
     "plPL": "Runa Vex"
   },
   {
     "id": 20448,
     "Key": "r25",
-    "enUS": "ÿc1(25) ÿc8Gul Rune ÿc2*",
+    "enUS": "ÿc0Cube: 2x Gul + Ruby -> Vex\nÿc4★★★ ÿc8Gul Rune (25)",
     "zhTW": "符文：古爾",
     "deDE": "[fs]Gul-Rune",
     "esES": "[fs]la runa Gul",
     "frFR": "[fs]Rune Gul",
     "itIT": "[fs]Runa Gul",
-    "koKR": "ÿc1(25) ÿc8굴 룬 ÿc2*",
+    "koKR": "ÿc0Ghép: 2x Gul + Ruby -> Vex\nÿc4★★★ ÿc8Gul Rune (25)",
     "plPL": "Runa Gul"
   },
   {
     "id": 20449,
     "Key": "r24",
-    "enUS": "ÿc1(24) ÿc8Ist Rune ÿc2*",
+    "enUS": "ÿc0Cube: 2x Ist + Sapphire -> Gul\nÿc4★★★ ÿc8Ist Rune (24)",
     "zhTW": "符文：伊司特",
     "deDE": "[fs]Ist-Rune",
     "esES": "[fs]la runa Ist",
     "frFR": "[fs]Rune Ist",
     "itIT": "[fs]Runa Ist",
-    "koKR": "ÿc1(24) ÿc8아이스트 룬 ÿc2*",
+    "koKR": "ÿc0Ghép: 2x Ist + Sapphire -> Gul\nÿc4★★★ ÿc8Ist Rune (24)",
     "plPL": "Runa Ist"
   },
   {
     "id": 20450,
     "Key": "r23",
-    "enUS": "ÿc1(23) ÿc8Mal Rune ÿc2*",
+    "enUS": "ÿc0Cube: 2x Mal + Amethyst -> Ist\nÿc4★★★ ÿc8Mal Rune (23)",
     "zhTW": "符文：馬爾",
     "deDE": "[fs]Mal-Rune",
     "esES": "[fs]la runa Mal",
     "frFR": "[fs]Rune Mal",
     "itIT": "[fs]Runa Mal",
-    "koKR": "ÿc1(23) ÿc8말 룬 ÿc2*",
+    "koKR": "ÿc0Ghép: 2x Mal + Amethyst -> Ist\nÿc4★★★ ÿc8Mal Rune (23)",
     "plPL": "Runa Mal"
   },
   {
     "id": 20451,
     "Key": "r22",
-    "enUS": "ÿc1(22) ÿc8Um Rune ÿc2*",
+    "enUS": "ÿc0Cube: 2x Um + Topaz -> Mal\nÿc4★★★ ÿc8Um Rune (22)",
     "zhTW": "符文：烏姆",
     "deDE": "[fs]Um-Rune",
     "esES": "[fs]la runa Um",
     "frFR": "[fs]Rune Um",
     "itIT": "[fs]Runa Um",
-    "koKR": "ÿc1(22) ÿc8우움 룬 ÿc2*",
+    "koKR": "ÿc0Ghép: 2x Um + Topaz -> Mal\nÿc4★★★ ÿc8Um Rune (22)",
     "plPL": "Runa Um"
   },
   {
     "id": 20452,
     "Key": "r21",
-    "enUS": "ÿc1(21) ÿc8Pul Rune ÿc2*",
+    "enUS": "ÿc0Cube: 2x Pul + Flawed Diamond -> Um\nÿc4★★★ ÿc8Pul Rune (21)",
     "zhTW": "符文：普爾",
     "deDE": "[fs]Pul-Rune",
     "esES": "[fs]la runa Pul",
     "frFR": "[fs]Rune Pul",
     "itIT": "[fs]Runa Pul",
-    "koKR": "ÿc1(21) ÿc8풀 룬 ÿc2*",
+    "koKR": "ÿc0Ghép: 2x Pul + Flawed Diamond -> Um\nÿc4★★★ ÿc8Pul Rune (21)",
     "plPL": "Runa Pul"
   },
   {
     "id": 20453,
     "Key": "r20",
-    "enUS": "ÿc1(20) ÿc8Lem Rune ÿc2*",
+    "enUS": "ÿc0Cube: 3x Lem + Flawed Emerald -> Pul\nÿc3★★ ÿc8Lem Rune (20)",
     "zhTW": "符文：藍姆",
     "deDE": "[fs]Lem-Rune",
     "esES": "[fs]la runa Lem",
     "frFR": "[fs]Rune Lem",
     "itIT": "[fs]Runa Lem",
-    "koKR": "ÿc1(20) ÿc8렘 룬 ÿc2*",
+    "koKR": "ÿc0Ghép: 3x Lem + Flawed Emerald -> Pul\nÿc3★★ ÿc8Lem Rune (20)",
     "plPL": "Runa Lem"
   },
   {
     "id": 20454,
     "Key": "r19",
-    "enUS": "ÿc1(19) ÿc8Fal Rune",
+    "enUS": "ÿc0Cube: 3x Fal + Flawed Ruby -> Lem\nÿc3★★ ÿc8Fal Rune (19)",
     "zhTW": "符文：法爾",
     "deDE": "[fs]Fal-Rune",
     "esES": "[fs]la runa Fal",
     "frFR": "[fs]Rune Fal",
     "itIT": "[fs]Runa Fal",
-    "koKR": "ÿc1(19) ÿc8팔 룬",
+    "koKR": "ÿc0Ghép: 3x Fal + Flawed Ruby -> Lem\nÿc3★★ ÿc8Fal Rune (19)",
     "plPL": "Runa Fal"
   },
   {
     "id": 20455,
     "Key": "r18",
-    "enUS": "ÿc1(18) ÿc8Ko Rune",
+    "enUS": "ÿc0Cube: 3x Ko + Flawed Sapphire -> Fal\nÿc3★★ ÿc8Ko Rune (18)",
     "zhTW": "符文：科",
     "deDE": "[fs]Ko-Rune",
     "esES": "[fs]la runa Ko",
     "frFR": "[fs]Rune Ko",
     "itIT": "[fs]Runa Ko",
-    "koKR": "ÿc1(18) ÿc8코 룬",
+    "koKR": "ÿc0Ghép: 3x Ko + Flawed Sapphire -> Fal\nÿc3★★ ÿc8Ko Rune (18)",
     "plPL": "Runa Ko"
   },
   {
     "id": 20456,
     "Key": "r17",
-    "enUS": "ÿc1(17) ÿc8Lum Rune",
+    "enUS": "ÿc0Cube: 3x Lum + Flawed Amethyst -> Ko\nÿc3★★ ÿc8Lum Rune (17)",
     "zhTW": "符文：盧姆",
     "deDE": "[fs]Lum-Rune",
     "esES": "[fs]la runa Lum",
     "frFR": "[fs]Rune Lum",
     "itIT": "[fs]Runa Lum",
-    "koKR": "ÿc1(17) ÿc8룸 룬",
+    "koKR": "ÿc0Ghép: 3x Lum + Flawed Amethyst -> Ko\nÿc3★★ ÿc8Lum Rune (17)",
     "plPL": "Runa Lum"
   },
   {
     "id": 20458,
     "Key": "r15",
-    "enUS": "ÿc1(15) ÿc8Hel Rune ÿc2*",
+    "enUS": "ÿc0Cube: 3x Hel + Chipped Diamond -> Io\nÿc0★ ÿc8Hel Rune (15)",
     "zhTW": "符文：海爾",
     "deDE": "[fs]Hel-Rune",
     "esES": "[fs]la runa Hel",
     "frFR": "[fs]Rune Hel",
     "itIT": "[fs]Runa Hel",
-    "koKR": "ÿc1(15) ÿc8헬 룬 ÿc2*",
+    "koKR": "ÿc0Ghép: 3x Hel + Chipped Diamond -> Io\nÿc0★ ÿc8Hel Rune (15)",
     "plPL": "Runa Hel"
   },
   {
     "id": 20459,
     "Key": "r14",
-    "enUS": "ÿc1(14) ÿc8Dol Rune",
+    "enUS": "ÿc0Cube: 3x Dol + Chipped Emerald -> Hel\nÿc0★ ÿc8Dol Rune (14)",
     "zhTW": "符文：多爾",
     "deDE": "[fs]Dol-Rune",
     "esES": "[fs]la runa Dol",
     "frFR": "[fs]Rune Dol",
     "itIT": "[fs]Runa Dol",
-    "koKR": "ÿc1(14) ÿc8돌 룬",
+    "koKR": "ÿc0Ghép: 3x Dol + Chipped Emerald -> Hel\nÿc0★ ÿc8Dol Rune (14)",
     "plPL": "Runa Dol"
   },
   {
     "id": 20461,
     "Key": "r12",
-    "enUS": "ÿc1(12) ÿc8Sol Rune",
+    "enUS": "ÿc0Cube: 3x Sol + Chipped Sapphire -> Shael\nÿc0★ ÿc8Sol Rune (12)",
     "zhTW": "符文：索爾",
     "deDE": "[fs]Sol-Rune",
     "esES": "[fs]la runa Sol",
     "frFR": "[fs]Rune Sol",
     "itIT": "[fs]Runa Sol",
-    "koKR": "ÿc1(12) ÿc8솔 룬",
+    "koKR": "ÿc0Ghép: 3x Sol + Chipped Sapphire -> Shael\nÿc0★ ÿc8Sol Rune (12)",
     "plPL": "Runa Sol"
   },
   {
     "id": 20462,
     "Key": "r11",
-    "enUS": "ÿc1(11) ÿc8Amn Rune",
+    "enUS": "ÿc0Cube: 3x Amn + Chipped Amethyst -> Sol\nÿc0★ ÿc8Amn Rune (11)",
     "zhTW": "符文：安姆",
     "deDE": "[fs]Amn-Rune",
     "esES": "[fs]la runa Amn",
     "frFR": "[fs]Rune Amn",
     "itIT": "[fs]Runa Amn",
-    "koKR": "ÿc1(11) ÿc8앰 룬",
+    "koKR": "ÿc0Ghép: 3x Amn + Chipped Amethyst -> Sol\nÿc0★ ÿc8Amn Rune (11)",
     "plPL": "Runa Amn"
   },
   {
     "id": 20463,
     "Key": "r10",
-    "enUS": "ÿc1(10) ÿc8Thul Rune",
+    "enUS": "ÿc0Cube: 3x Thul + Chipped Topaz -> Amn\nÿc0★ ÿc8Thul Rune (10)",
     "zhTW": "符文：書爾",
     "deDE": "[fs]Thul-Rune",
     "esES": "[fs]la runa Thul",
     "frFR": "[fs]Rune Thul",
     "itIT": "[fs]Runa Thul",
-    "koKR": "ÿc1(10) ÿc8주울 룬",
+    "koKR": "ÿc0Ghép: 3x Thul + Chipped Topaz -> Amn\nÿc0★ ÿc8Thul Rune (10)",
     "plPL": "Runa Thul"
   },
   {
     "id": 20464,
     "Key": "r09",
-    "enUS": "ÿc1(9) ÿc8Ort Rune",
+    "enUS": "ÿc0Cube: 3x Ort -> Thul\nÿc0★ ÿc8Ort Rune (9)",
     "zhTW": "符文：歐特",
     "deDE": "[fs]Ort-Rune",
     "esES": "[fs]la runa Ort",
     "frFR": "[fs]Rune Ort",
     "itIT": "[fs]Runa Ort",
-    "koKR": "ÿc1(9) ÿc8오르트 룬",
+    "koKR": "ÿc0Ghép: 3x Ort -> Thul\nÿc0★ ÿc8Ort Rune (9)",
     "plPL": "Runa Ort"
   },
   {
     "id": 20465,
     "Key": "r08",
-    "enUS": "ÿc1(8) ÿc8Ral Rune",
+    "enUS": "ÿc0Cube: 3x Ral -> Ort\nÿc0★ ÿc8Ral Rune (8)",
     "zhTW": "符文：拉爾",
     "deDE": "[fs]Ral-Rune",
     "esES": "[fs]la runa Ral",
     "frFR": "[fs]Rune Ral",
     "itIT": "[fs]Runa Ral",
-    "koKR": "ÿc1(8) ÿc8랄 룬",
+    "koKR": "ÿc0Ghép: 3x Ral -> Ort\nÿc0★ ÿc8Ral Rune (8)",
     "plPL": "Runa Ral"
   },
   {
     "id": 20466,
     "Key": "r07",
-    "enUS": "ÿc1(7) ÿc8Tal Rune",
+    "enUS": "ÿc0Cube: 3x Tal -> Ral\nÿc0★ ÿc8Tal Rune (7)",
     "zhTW": "符文：塔爾",
     "deDE": "[fs]Tal-Rune",
     "esES": "[fs]la runa Tal",
     "frFR": "[fs]Rune Tal",
     "itIT": "[fs]Runa Tal",
-    "koKR": "ÿc1(7) ÿc8탈 룬",
+    "koKR": "ÿc0Ghép: 3x Tal -> Ral\nÿc0★ ÿc8Tal Rune (7)",
     "plPL": "Runa Tal"
   },
   {
     "id": 20467,
     "Key": "r06",
-    "enUS": "ÿc1(6) ÿc8Ith Rune",
+    "enUS": "ÿc0Cube: 3x Ith -> Tal\nÿc0★ ÿc8Ith Rune (6)",
     "zhTW": "符文：伊司",
     "deDE": "[fs]Ith-Rune",
     "esES": "[fs]la runa Ith",
     "frFR": "[fs]Rune Ith",
     "itIT": "[fs]Runa Ith",
-    "koKR": "ÿc1(6) ÿc8아이드 룬",
+    "koKR": "ÿc0Ghép: 3x Ith -> Tal\nÿc0★ ÿc8Ith Rune (6)",
     "plPL": "Runa Ith"
   },
   {
     "id": 20468,
     "Key": "r05",
-    "enUS": "ÿc1(5) ÿc8Eth Rune",
+    "enUS": "ÿc0Cube: 3x Eth -> Ith\nÿc0★ ÿc8Eth Rune (5)",
     "zhTW": "符文：愛斯",
     "deDE": "[fs]Eth-Rune",
     "esES": "[fs]la runa Eth",
     "frFR": "[fs]Rune Eth",
     "itIT": "[fs]Runa Eth",
-    "koKR": "ÿc1(5) ÿc8에드 룬",
+    "koKR": "ÿc0Ghép: 3x Eth -> Ith\nÿc0★ ÿc8Eth Rune (5)",
     "plPL": "Runa Eth"
   },
   {
     "id": 20469,
     "Key": "r04",
-    "enUS": "ÿc1(4) ÿc8Nef Rune",
+    "enUS": "ÿc0Cube: 3x Nef -> Eth\nÿc0★ ÿc8Nef Rune (4)",
     "zhTW": "符文：那夫",
     "deDE": "[fs]Nef-Rune",
     "esES": "[fs]la runa Nef",
     "frFR": "[fs]Rune Nef",
     "itIT": "[fs]Runa Nef",
-    "koKR": "ÿc1(4) ÿc8네프 룬",
+    "koKR": "ÿc0Ghép: 3x Nef -> Eth\nÿc0★ ÿc8Nef Rune (4)",
     "plPL": "Runa Nef"
   },
   {
     "id": 20470,
     "Key": "r03",
-    "enUS": "ÿc1(3) ÿc8Tir Rune",
+    "enUS": "ÿc0Cube: 3x Tir -> Nef\nÿc0★ ÿc8Tir Rune (3)",
     "zhTW": "符文：特爾",
     "deDE": "[fs]Tir-Rune",
     "esES": "[fs]la runa Tir",
     "frFR": "[fs]Rune Tir",
     "itIT": "[fs]Runa Tir",
-    "koKR": "ÿc1(3) ÿc8티르 룬",
+    "koKR": "ÿc0Ghép: 3x Tir -> Nef\nÿc0★ ÿc8Tir Rune (3)",
     "plPL": "Runa Tir"
   },
   {
     "id": 20471,
     "Key": "r02",
-    "enUS": "ÿc1(2) ÿc8Eld Rune",
+    "enUS": "ÿc0Cube: 3x Eld -> Tir\nÿc0★ ÿc8Eld Rune (2)",
     "zhTW": "符文：艾德",
     "deDE": "[fs]Eld-Rune",
     "esES": "[fs]la runa Eld",
     "frFR": "[fs]Rune Eld",
     "itIT": "[fs]Runa Eld",
-    "koKR": "ÿc1(2) ÿc8엘드 룬",
+    "koKR": "ÿc0Ghép: 3x Eld -> Tir\nÿc0★ ÿc8Eld Rune (2)",
     "plPL": "Runa Eld"
   },
   {
     "id": 20472,
     "Key": "r01",
-    "enUS": "ÿc1(1) ÿc8El Rune",
+    "enUS": "ÿc0Cube: 3x El -> Eld\nÿc0★ ÿc8El Rune (1)",
     "zhTW": "符文：艾爾",
     "deDE": "[fs]El-Rune",
     "esES": "[fs]la runa El ",
     "frFR": "[fs]Rune El",
     "itIT": "[fs]Runa El",
-    "koKR": "ÿc1(1) ÿc8엘 룬",
+    "koKR": "ÿc0Ghép: 3x El -> Eld\nÿc0★ ÿc8El Rune (1)",
     "plPL": "Runa El"
   },
   {
@@ -452,7 +452,7 @@
     "esES": "Zod",
     "frFR": "Zod",
     "itIT": "Zod",
-    "koKR": "조드",
+    "koKR": "Zod",
     "plPL": "Zod"
   },
   {
@@ -464,7 +464,7 @@
     "esES": "Cham",
     "frFR": "Cham",
     "itIT": "Cham",
-    "koKR": "차암",
+    "koKR": "Cham",
     "plPL": "Cham"
   },
   {
@@ -476,7 +476,7 @@
     "esES": "Ber",
     "frFR": "Ber",
     "itIT": "Ber",
-    "koKR": "베르",
+    "koKR": "Ber",
     "plPL": "Ber"
   },
   {
@@ -488,7 +488,7 @@
     "esES": "Sur",
     "frFR": "Sur",
     "itIT": "Sur",
-    "koKR": "수르",
+    "koKR": "Sur",
     "plPL": "Sur"
   },
   {
@@ -500,7 +500,7 @@
     "esES": "Lo",
     "frFR": "Lo",
     "itIT": "Lo",
-    "koKR": "로",
+    "koKR": "Lo",
     "plPL": "Lo"
   },
   {
@@ -512,7 +512,7 @@
     "esES": "Ohm",
     "frFR": "Ohm",
     "itIT": "Ohm",
-    "koKR": "오움",
+    "koKR": "Ohm",
     "plPL": "Ohm"
   },
   {
@@ -524,7 +524,7 @@
     "esES": "Vex",
     "frFR": "Vex",
     "itIT": "Vex",
-    "koKR": "벡스",
+    "koKR": "Vex",
     "plPL": "Vex"
   },
   {
@@ -536,7 +536,7 @@
     "esES": "Gul",
     "frFR": "Gul",
     "itIT": "Gul",
-    "koKR": "굴",
+    "koKR": "Gul",
     "plPL": "Gul"
   },
   {
@@ -548,7 +548,7 @@
     "esES": "Ist",
     "frFR": "Ist",
     "itIT": "Ist",
-    "koKR": "아이스트",
+    "koKR": "Ist",
     "plPL": "Ist"
   },
   {
@@ -560,7 +560,7 @@
     "esES": "Mal",
     "frFR": "Mal",
     "itIT": "Mal",
-    "koKR": "말",
+    "koKR": "Mal",
     "plPL": "Mal"
   },
   {
@@ -572,7 +572,7 @@
     "esES": "Um",
     "frFR": "Um",
     "itIT": "Um",
-    "koKR": "우움",
+    "koKR": "Um",
     "plPL": "Um"
   },
   {
@@ -584,7 +584,7 @@
     "esES": "Pul",
     "frFR": "Pul",
     "itIT": "Pul",
-    "koKR": "풀",
+    "koKR": "Pul",
     "plPL": "Pul"
   },
   {
@@ -596,7 +596,7 @@
     "esES": "Lem",
     "frFR": "Lem",
     "itIT": "Lem",
-    "koKR": "램",
+    "koKR": "Lem",
     "plPL": "Lem"
   },
   {
@@ -608,7 +608,7 @@
     "esES": "Fal",
     "frFR": "Fal",
     "itIT": "Fal",
-    "koKR": "팔",
+    "koKR": "Fal",
     "plPL": "Fal"
   },
   {
@@ -620,7 +620,7 @@
     "esES": "Ko",
     "frFR": "Ko",
     "itIT": "Ko",
-    "koKR": "코",
+    "koKR": "Ko",
     "plPL": "Ko"
   },
   {
@@ -632,7 +632,7 @@
     "esES": "Lum",
     "frFR": "Lum",
     "itIT": "Lum",
-    "koKR": "룸",
+    "koKR": "Lum",
     "plPL": "Lum"
   },
   {
@@ -644,7 +644,7 @@
     "esES": "Hel",
     "frFR": "Hel",
     "itIT": "Hel",
-    "koKR": "헬",
+    "koKR": "Hel",
     "plPL": "Hel"
   },
   {
@@ -656,7 +656,7 @@
     "esES": "Dol",
     "frFR": "Dol",
     "itIT": "Dol",
-    "koKR": "돌",
+    "koKR": "Dol",
     "plPL": "Dol"
   },
   {
@@ -668,7 +668,7 @@
     "esES": "Sol",
     "frFR": "Sol",
     "itIT": "Sol",
-    "koKR": "솔",
+    "koKR": "Sol",
     "plPL": "Sol"
   },
   {
@@ -680,7 +680,7 @@
     "esES": "Amn",
     "frFR": "Amn",
     "itIT": "Amn",
-    "koKR": "앰",
+    "koKR": "Amn",
     "plPL": "Amn"
   },
   {
@@ -692,7 +692,7 @@
     "esES": "Thul",
     "frFR": "Thul",
     "itIT": "Thul",
-    "koKR": "주울",
+    "koKR": "Thul",
     "plPL": "Thul"
   },
   {
@@ -704,7 +704,7 @@
     "esES": "Ort",
     "frFR": "Ort",
     "itIT": "Ort",
-    "koKR": "오르트",
+    "koKR": "Ort",
     "plPL": "Ort"
   },
   {
@@ -716,7 +716,7 @@
     "esES": "Ral",
     "frFR": "Ral",
     "itIT": "Ral",
-    "koKR": "랄",
+    "koKR": "Ral",
     "plPL": "Ral"
   },
   {
@@ -728,7 +728,7 @@
     "esES": "Tal",
     "frFR": "Tal",
     "itIT": "Tal",
-    "koKR": "탈",
+    "koKR": "Tal",
     "plPL": "Tal"
   },
   {
@@ -740,7 +740,7 @@
     "esES": "Ith",
     "frFR": "Ith",
     "itIT": "Ith",
-    "koKR": "아이드",
+    "koKR": "Ith",
     "plPL": "Ith"
   },
   {
@@ -752,7 +752,7 @@
     "esES": "Eth",
     "frFR": "Eth",
     "itIT": "Eth",
-    "koKR": "에드",
+    "koKR": "Eth",
     "plPL": "Eth"
   },
   {
@@ -764,7 +764,7 @@
     "esES": "Nef",
     "frFR": "Nef",
     "itIT": "Nef",
-    "koKR": "네프",
+    "koKR": "Nef",
     "plPL": "Nef"
   },
   {
@@ -776,7 +776,7 @@
     "esES": "Tir",
     "frFR": "Tir",
     "itIT": "Tir",
-    "koKR": "티르",
+    "koKR": "Tir",
     "plPL": "Tir"
   },
   {
@@ -788,7 +788,7 @@
     "esES": "Eld",
     "frFR": "Eld",
     "itIT": "Eld",
-    "koKR": "엘드",
+    "koKR": "Eld",
     "plPL": "Eld"
   },
   {
@@ -800,7 +800,7 @@
     "esES": "El",
     "frFR": "El",
     "itIT": "El",
-    "koKR": "엘",
+    "koKR": "El",
     "plPL": "El"
   },
   {
@@ -824,7 +824,7 @@
     "esES": "Promesa de los ancianos",
     "frFR": "Pacte des Anciens",
     "itIT": "Pegno degli Antichi",
-    "koKR": "고대인의 서약",
+    "koKR": "Ancients' Pledge",
     "plPL": "Przysięga Starożytnych"
   },
   {
@@ -836,31 +836,31 @@
     "esES": "Armagedón",
     "frFR": "Armageddon",
     "itIT": "Armageddon",
-    "koKR": "아마게돈",
+    "koKR": "Armageddon",
     "plPL": "Armageddon"
   },
   {
     "id": 20509,
     "Key": "Runeword3",
-    "enUS": "Authority",
+    "enUS": "ÿc5•60ED•\nÿcDAuthority",
     "zhTW": "權威",
     "deDE": "Macht",
     "esES": "Autoridad",
     "frFR": "Autorité",
     "itIT": "Autorità",
-    "koKR": "권위",
+    "koKR": "ÿc5•60ED•\nÿcDAuthority",
     "plPL": "Władza"
   },
   {
     "id": 20510,
     "Key": "Runeword4",
-    "enUS": "Beast",
+    "enUS": "ÿc5•270ED/40Str•\nÿcDBeast",
     "zhTW": "野獸",
     "deDE": "Bestie",
     "esES": "Bestia",
     "frFR": "Bête",
     "itIT": "Bestia",
-    "koKR": "야수",
+    "koKR": "ÿc5•270ED/40Str•\nÿcDBeast",
     "plPL": "Bestia"
   },
   {
@@ -872,7 +872,7 @@
     "esES": "Belleza",
     "frFR": "Beauté",
     "itIT": "Bellezza",
-    "koKR": "미",
+    "koKR": "Beauty",
     "plPL": "Piękno"
   },
   {
@@ -884,7 +884,7 @@
     "esES": "Negro",
     "frFR": "Blanc",
     "itIT": "Nera",
-    "koKR": "블랙",
+    "koKR": "Black",
     "plPL": "Czerń"
   },
   {
@@ -896,55 +896,55 @@
     "esES": "Sangre",
     "frFR": "Boucher",
     "itIT": "Sangue",
-    "koKR": "블러드",
+    "koKR": "Blood",
     "plPL": "Krew"
   },
   {
     "id": 20514,
     "Key": "Runeword8",
-    "enUS": "Bone",
+    "enUS": "ÿc5•150Mana•\nÿcDBone",
     "zhTW": "白骨",
     "deDE": "Knochen",
     "esES": "Hueso",
     "frFR": "Blessure",
     "itIT": "Osso",
-    "koKR": "본",
+    "koKR": "ÿc5•150Mana•\nÿcDBone",
     "plPL": "Kość"
   },
   {
     "id": 20515,
     "Key": "Runeword9",
-    "enUS": "Bramble",
+    "enUS": "ÿc5•21Tho/50%PSDmg•\nÿcDBramble",
     "zhTW": "野薔薇",
     "deDE": "Dornen",
     "esES": "Zarza",
     "frFR": "Barbelé",
     "itIT": "Roveto",
-    "koKR": "검은딸기",
+    "koKR": "ÿc5•21Tho/50%PSDmg•\nÿcDBramble",
     "plPL": "Kolec"
   },
   {
     "id": 20516,
     "Key": "Runeword10",
-    "enUS": "Brand",
+    "enUS": "ÿc5•340ED/330%DTD•\nÿcDBrand",
     "zhTW": "品牌",
     "deDE": "Brand",
     "esES": "Tizón",
     "frFR": "Barbe",
     "itIT": "Tizzone",
-    "koKR": "인두",
+    "koKR": "ÿc5•340ED/330%DTD•\nÿcDBrand",
     "plPL": "Marka"
   },
   {
     "id": 20517,
     "Key": "Runeword11",
-    "enUS": "Breath of the Dying",
+    "enUS": "ÿc5•400ED/15LL•\nÿcDBreath of the Dying",
     "zhTW": "死亡呼吸",
     "deDE": "Odem der Sterbenden",
     "esES": "Aliento de los muertos",
     "frFR": "Bagne",
     "itIT": "Ultimo Respiro",
-    "koKR": "죽음의 숨결",
+    "koKR": "ÿc5•400ED/15LL•\nÿcDBreath of the Dying",
     "plPL": "Ostatni oddech"
   },
   {
@@ -956,19 +956,19 @@
     "esES": "Promesa rota",
     "frFR": "Baîllon",
     "itIT": "Promessa Spezzata",
-    "koKR": "깨어진 약속",
+    "koKR": "Broken Promise",
     "plPL": "Złamana obietnica"
   },
   {
     "id": 20519,
     "Key": "Runeword13",
-    "enUS": "Call to Arms",
+    "enUS": "ÿc5•240ED/6BC/6BO/4BC•\nÿcDCall to Arms",
     "zhTW": "戰爭召喚",
     "deDE": "Ruf zu den Waffen",
     "esES": "Llamada a las armas",
     "frFR": "Cicatrice",
     "itIT": "Chiamata alle armi",
-    "koKR": "콜 투 암스",
+    "koKR": "ÿc5•240ED/6BC/6BO/4BC•\nÿcDCall to Arms",
     "plPL": "Wezwanie do broni"
   },
   {
@@ -980,7 +980,7 @@
     "esES": "Cadenas de honor",
     "frFR": "Chaînes",
     "itIT": "Catene dell'Onore",
-    "koKR": "명예의 굴레",
+    "koKR": "Chains of Honor",
     "plPL": "Okowa Grozy"
   },
   {
@@ -992,31 +992,31 @@
     "esES": "Casualidad",
     "frFR": "Chance",
     "itIT": "Possibilità",
-    "koKR": "기회",
+    "koKR": "Chance",
     "plPL": "Szansa"
   },
   {
     "id": 20522,
     "Key": "Runeword16",
-    "enUS": "Chaos",
+    "enUS": "ÿc5•290ED•\nÿcDChaos",
     "zhTW": "沌頓",
     "deDE": "Chaos",
     "esES": "Caos",
     "frFR": "Chaos",
     "itIT": "Caos",
-    "koKR": "혼돈",
+    "koKR": "ÿc5•290ED•\nÿcDChaos",
     "plPL": "Chaos"
   },
   {
     "id": 20523,
     "Key": "Runeword17",
-    "enUS": "Crescent Moon",
+    "enUS": "ÿc5•220ED/11MA•\nÿcDCrescent Moon",
     "zhTW": "新月",
     "deDE": "Mondsichel",
     "esES": "luna creciente",
     "frFR": "Croissant de lune",
     "itIT": "Falce di Luna",
-    "koKR": "초승달",
+    "koKR": "ÿc5•220ED/11MA•\nÿcDCrescent Moon",
     "plPL": "Sierp Księżyca"
   },
   {
@@ -1028,7 +1028,7 @@
     "esES": "Oscuridad",
     "frFR": "Donjon",
     "itIT": "Oscurità",
-    "koKR": "어둠",
+    "koKR": "Darkness",
     "plPL": "Ciemność"
   },
   {
@@ -1040,19 +1040,19 @@
     "esES": "Luz",
     "frFR": "Diablotin",
     "itIT": "Luce del Giorno",
-    "koKR": "낮",
+    "koKR": "Daylight",
     "plPL": "Światło dnia"
   },
   {
     "id": 20526,
     "Key": "Runeword20",
-    "enUS": "Death",
+    "enUS": "ÿc5•385ED•\nÿcDDeath",
     "zhTW": "死神",
     "deDE": "Tod",
     "esES": "Muerte",
     "frFR": "Dévotion",
     "itIT": "Morte",
-    "koKR": "죽음",
+    "koKR": "ÿc5•385ED•\nÿcDDeath",
     "plPL": "Śmierć"
   },
   {
@@ -1064,7 +1064,7 @@
     "esES": "Engaño ",
     "frFR": "Déception",
     "itIT": "Inganno",
-    "koKR": "속임수",
+    "koKR": "Deception",
     "plPL": "Podstęp"
   },
   {
@@ -1076,7 +1076,7 @@
     "esES": "Deseo",
     "frFR": "Désir",
     "itIT": "Desiderio",
-    "koKR": "욕망",
+    "koKR": "Desire",
     "plPL": "Pożądanie"
   },
   {
@@ -1088,7 +1088,7 @@
     "esES": "Desesperación",
     "frFR": "Désespoir",
     "itIT": "Scomparsa",
-    "koKR": "실망",
+    "koKR": "Despair",
     "plPL": "Rozpacz"
   },
   {
@@ -1100,31 +1100,31 @@
     "esES": "Destrucción",
     "frFR": "Destruction",
     "itIT": "Distruzione",
-    "koKR": "파괴",
+    "koKR": "Destruction",
     "plPL": "Zniszczenie"
   },
   {
     "id": 20532,
     "Key": "Runeword26",
-    "enUS": "Doom",
+    "enUS": "ÿc5•320ED/-60%ECR•\nÿcDDoom",
     "zhTW": "末日",
     "deDE": "Verdammnis",
     "esES": "Fatalidad",
     "frFR": "Dévastation",
     "itIT": "Destino",
-    "koKR": "파멸",
+    "koKR": "ÿc5•320ED/-60%ECR•\nÿcDDoom",
     "plPL": "Zagłada"
   },
   {
     "id": 20533,
     "Key": "Runeword27",
-    "enUS": "Dragon",
+    "enUS": "ÿc5•5@Attr•\nÿcDDragon",
     "zhTW": "飛龍",
     "deDE": "Drachen",
     "esES": "Dragón",
     "frFR": "Dragon",
     "itIT": "Dragone",
-    "koKR": "드레곤",
+    "koKR": "ÿc5•5@Attr•\nÿcDDragon",
     "plPL": "Smok"
   },
   {
@@ -1136,43 +1136,43 @@
     "esES": "Terror",
     "frFR": "Devoir",
     "itIT": "Terrore",
-    "koKR": "근심",
+    "koKR": "Dread",
     "plPL": "Strach"
   },
   {
     "id": 20535,
     "Key": "Runeword29",
-    "enUS": "Dream",
+    "enUS": "ÿc5•30FHR/220Def/20@Res/25MF•\nÿcDDream",
     "zhTW": "夢境",
     "deDE": "Traum",
     "esES": "Sueño",
     "frFR": "Dyptique",
     "itIT": "Sogno",
-    "koKR": "꿈",
+    "koKR": "ÿc5•30FHR/220Def/20@Res/25MF•\nÿcDDream",
     "plPL": "Sen"
   },
   {
     "id": 20536,
     "Key": "Runeword30",
-    "enUS": "Duress",
+    "enUS": "ÿc5•20EDmg/200ED•\nÿcDDuress",
     "zhTW": "強制",
     "deDE": "Nötigung",
     "esES": "Coacción",
     "frFR": "Duel",
     "itIT": "Detenzione",
-    "koKR": "협박",
+    "koKR": "ÿc5•20EDmg/200ED•\nÿcDDuress",
     "plPL": "Przymus"
   },
   {
     "id": 20537,
     "Key": "Runeword31",
-    "enUS": "Edge",
+    "enUS": "ÿc5•380%DTD/10@Attr•\nÿcDEdge",
     "zhTW": "邊緣",
     "deDE": "Schneide",
     "esES": "Filo",
     "frFR": "Evocation",
     "itIT": "Lama",
-    "koKR": "모서리",
+    "koKR": "ÿc5•380%DTD/10@Attr•\nÿcDEdge",
     "plPL": "Ostrze"
   },
   {
@@ -1184,19 +1184,19 @@
     "esES": "Júbilo",
     "frFR": "Effusion",
     "itIT": "Esultanza",
-    "koKR": "흔쾌한 기분",
+    "koKR": "Elation",
     "plPL": "Wesołość"
   },
   {
     "id": 20539,
     "Key": "Runeword33",
-    "enUS": "Enigma",
+    "enUS": "ÿc5•775Def•\nÿcDEnigma",
     "zhTW": "謎團",
     "deDE": "Rätsel",
     "esES": "Enigma",
     "frFR": "Enigme",
     "itIT": "Enigma",
-    "koKR": "수수께끼",
+    "koKR": "ÿc5•775Def•\nÿcDEnigma",
     "plPL": "Enigma"
   },
   {
@@ -1208,7 +1208,7 @@
     "esES": "Ilustración",
     "frFR": "Eclaircissement",
     "itIT": "Illuminazione",
-    "koKR": "계몽",
+    "koKR": "Enlightenment",
     "plPL": "Oświecenie"
   },
   {
@@ -1220,79 +1220,79 @@
     "esES": "Envidia",
     "frFR": "Envie",
     "itIT": "Invidia",
-    "koKR": "시샘",
+    "koKR": "Envy",
     "plPL": "Zawiść"
   },
   {
     "id": 20542,
     "Key": "Runeword36",
-    "enUS": "Eternity",
+    "enUS": "ÿc5•310ED•\nÿcDEternity",
     "zhTW": "永恆",
     "deDE": "Ewigkeit",
     "esES": "Eternidad",
     "frFR": "Eternité",
     "itIT": "Eternità",
-    "koKR": "불멸",
+    "koKR": "ÿc5•310ED•\nÿcDEternity",
     "plPL": "Wieczność"
   },
   {
     "id": 20543,
     "Key": "Runeword37",
-    "enUS": "Exile",
+    "enUS": "ÿc5•16Def/260ED•\nÿcDExile",
     "zhTW": "流亡",
     "deDE": "Exil",
     "esES": "Exilio",
     "frFR": "Exil",
     "itIT": "Esilio",
-    "koKR": "망명",
+    "koKR": "ÿc5•16Def/260ED•\nÿcDExile",
     "plPL": "Wygnanie"
   },
   {
     "id": 20544,
     "Key": "Runeword38",
-    "enUS": "Faith",
+    "enUS": "ÿc5•15Fan/2@Skills•\nÿcDFaith",
     "zhTW": "信心",
     "deDE": "Glaube",
     "esES": "Fe",
     "frFR": "Foi",
     "itIT": "Fede",
-    "koKR": "신뢰",
+    "koKR": "ÿc5•15Fan/2@Skills•\nÿcDFaith",
     "plPL": "Wiara"
   },
   {
     "id": 20545,
     "Key": "Runeword39",
-    "enUS": "Famine",
+    "enUS": "ÿc5•320ED•\nÿcDFamine",
     "zhTW": "饑荒",
     "deDE": "Hungersnot",
     "esES": "Hambruna",
     "frFR": "Famine",
     "itIT": "Fame",
-    "koKR": "기근",
+    "koKR": "ÿc5•320ED•\nÿcDFamine",
     "plPL": "Klęska głodu"
   },
   {
     "id": 20546,
     "Key": "Runeword40",
-    "enUS": "Flickering Flame",
+    "enUS": "ÿc5•8RF/-15%EFR/75Mana•\nÿcDFlickering Flame",
     "zhTW": "火焰",
     "deDE": "Flamme",
     "esES": "Llama ",
     "frFR": "Flamme",
     "itIT": "Fiamma",
-    "koKR": "불꽃",
+    "koKR": "ÿc5•8RF/-15%EFR/75Mana•\nÿcDFlickering Flame",
     "plPL": "Płomień"
   },
   {
     "id": 20547,
     "Key": "Runeword41",
-    "enUS": "Fortitude",
+    "enUS": "ÿc5•30@Res•\nÿcDFortitude",
     "zhTW": "剛毅",
     "deDE": "Stärke",
     "esES": "Fortaleza",
     "frFR": "Fortitude",
     "itIT": "Fermezza",
-    "koKR": "인내",
+    "koKR": "ÿc5•30@Res•\nÿcDFortitude",
     "plPL": "Hart"
   },
   {
@@ -1304,7 +1304,7 @@
     "esES": "Fortuna",
     "frFR": "Fortune",
     "itIT": "Fortuna",
-    "koKR": "행운",
+    "koKR": "Fortune",
     "plPL": "Fortuna"
   },
   {
@@ -1316,7 +1316,7 @@
     "esES": "Amistad",
     "frFR": "Ferveur",
     "itIT": "Amicizia",
-    "koKR": "우정",
+    "koKR": "Friendship",
     "plPL": "Przyjaźń"
   },
   {
@@ -1328,19 +1328,19 @@
     "esES": "Furia",
     "frFR": "Furie",
     "itIT": "Furia",
-    "koKR": "원한",
+    "koKR": "Fury",
     "plPL": "Furia"
   },
   {
     "id": 20551,
     "Key": "Runeword45",
-    "enUS": "Gloom",
+    "enUS": "ÿc5•230ED•\nÿcDGloom",
     "zhTW": "幽暗",
     "deDE": "Düsternis",
     "esES": "Melancolía",
     "frFR": "Guerre",
     "itIT": "Tenebre",
-    "koKR": "우울",
+    "koKR": "ÿc5•230ED•\nÿcDGloom",
     "plPL": "Mrok"
   },
   {
@@ -1352,43 +1352,43 @@
     "esES": "Gloria",
     "frFR": "Gloire",
     "itIT": "Gloria",
-    "koKR": "영광",
+    "koKR": "Glory",
     "plPL": "Chwała"
   },
   {
     "id": 20553,
     "Key": "Runeword47",
-    "enUS": "Grief",
+    "enUS": "ÿc5•40IAS/400Dmg/-25%EPR/15LaeK•\nÿcDGrief",
     "zhTW": "悔恨",
     "deDE": "Trauer",
     "esES": "Dolor",
     "frFR": "Griserie",
     "itIT": "Cordoglio",
-    "koKR": "깊은 고뇌",
+    "koKR": "ÿc5•40IAS/400Dmg/-25%EPR/15LaeK•\nÿcDGrief",
     "plPL": "Żal"
   },
   {
     "id": 20554,
     "Key": "Runeword48",
-    "enUS": "Hand of Justice",
+    "enUS": "ÿc5•330ED•\nÿcDHand of Justice",
     "zhTW": "正義之手",
     "deDE": "Hand der Gerechtigkeit",
     "esES": "Mano justiciera",
     "frFR": "Heaume",
     "itIT": "Mano della Giustizia",
-    "koKR": "정의의 손길",
+    "koKR": "ÿc5•330ED•\nÿcDHand of Justice",
     "plPL": "Ręka Sprawiedliwości"
   },
   {
     "id": 20555,
     "Key": "Runeword49",
-    "enUS": "Harmony",
+    "enUS": "ÿc5•275ED/6Val•\nÿcDHarmony",
     "zhTW": "和諧",
     "deDE": "Harmonie",
     "esES": "Armonía",
     "frFR": "Harmonie",
     "itIT": "Armonia",
-    "koKR": "조화",
+    "koKR": "ÿc5•275ED/6Val•\nÿcDHarmony",
     "plPL": "Harmonia"
   },
   {
@@ -1400,19 +1400,19 @@
     "esES": "Odio",
     "frFR": "Haine",
     "itIT": "Odio",
-    "koKR": "증오",
+    "koKR": "Hatred",
     "plPL": "Nienawiść"
   },
   {
     "id": 20557,
     "Key": "Runeword51",
-    "enUS": "Heart of the Oak",
+    "enUS": "ÿc5•40@Res•\nÿcDHeart of the Oak",
     "zhTW": "橡樹之心",
     "deDE": "Herz der Eiche",
     "esES": "Corazón de roble",
     "frFR": "Hérétique",
     "itIT": "Cuore della Quercia",
-    "koKR": "오크의 심장",
+    "koKR": "ÿc5•40@Res•\nÿcDHeart of the Oak",
     "plPL": "Serce Dębu"
   },
   {
@@ -1424,7 +1424,7 @@
     "esES": "Voluntad del cielo",
     "frFR": "Hallebarde",
     "itIT": "Volontà Celeste",
-    "koKR": "천국의 의지",
+    "koKR": "Heaven's Will",
     "plPL": "Wola Niebios"
   },
   {
@@ -1436,7 +1436,7 @@
     "esES": "Lágrimas sagradas",
     "frFR": "Hallucination",
     "itIT": "Sacre Lacrime",
-    "koKR": "신성한 눈물",
+    "koKR": "Holy Tears",
     "plPL": "Święta Łza"
   },
   {
@@ -1448,7 +1448,7 @@
     "esES": "Trueno sagrado",
     "frFR": "Halo",
     "itIT": "Sacro Tuono",
-    "koKR": "신성한 번개",
+    "koKR": "Holy Thunder",
     "plPL": "Święty Grom"
   },
   {
@@ -1460,7 +1460,7 @@
     "esES": "Honor",
     "frFR": "Honneur",
     "itIT": "Onore",
-    "koKR": "명예",
+    "koKR": "Honor",
     "plPL": "Honor"
   },
   {
@@ -1472,7 +1472,7 @@
     "esES": "Venganza",
     "frFR": "Revanche",
     "itIT": "Rivincita",
-    "koKR": "복수",
+    "koKR": "Revenge",
     "plPL": "Mściwość"
   },
   {
@@ -1484,7 +1484,7 @@
     "esES": "Humildad",
     "frFR": "Humilité",
     "itIT": "Umiltà",
-    "koKR": "겸손",
+    "koKR": "Humility",
     "plPL": "Pokora"
   },
   {
@@ -1496,31 +1496,31 @@
     "esES": "Hambre",
     "frFR": "Faim",
     "itIT": "Fame",
-    "koKR": "기아",
+    "koKR": "Hunger",
     "plPL": "Głód"
   },
   {
     "id": 20565,
     "Key": "Runeword59",
-    "enUS": "Ice",
+    "enUS": "ÿc5•210ED/30%CSDmg•\nÿcDIce",
     "zhTW": "冰凍",
     "deDE": "Eis",
     "esES": "Hielo",
     "frFR": "Ire",
     "itIT": "Ghiaccio",
-    "koKR": "얼음",
+    "koKR": "ÿc5•210ED/30%CSDmg•\nÿcDIce",
     "plPL": "Lód"
   },
   {
     "id": 20566,
     "Key": "Runeword60",
-    "enUS": "Infinity",
+    "enUS": "ÿc5•325ED/-55%ELR•\nÿcDInfinity",
     "zhTW": "無限",
     "deDE": "Unendlichkeit",
     "esES": "Infinito",
     "frFR": "Infini",
     "itIT": "Infinito",
-    "koKR": "무한의 공간",
+    "koKR": "ÿc5•325ED/-55%ELR•\nÿcDInfinity",
     "plPL": "Nieskończoność"
   },
   {
@@ -1532,19 +1532,19 @@
     "esES": "Inocencia",
     "frFR": "Innocence",
     "itIT": "Innocenza",
-    "koKR": "결백",
+    "koKR": "Innocence",
     "plPL": "Niewinność"
   },
   {
     "id": 20568,
     "Key": "Runeword62",
-    "enUS": "Insight",
+    "enUS": "ÿc5•17Med/260ED/250%AR/6CS•\nÿcDInsight",
     "zhTW": "眼光",
     "deDE": "Einsicht",
     "esES": "Perspicacia",
     "frFR": "Iris",
     "itIT": "Vista Interiore",
-    "koKR": "통찰력",
+    "koKR": "ÿc5•17Med/260ED/250%AR/6CS•\nÿcDInsight",
     "plPL": "Olśnienie"
   },
   {
@@ -1556,7 +1556,7 @@
     "esES": "Celos",
     "frFR": "Jalousie",
     "itIT": "Gelosia",
-    "koKR": "질투",
+    "koKR": "Jealousy",
     "plPL": "Zazdrość"
   },
   {
@@ -1568,7 +1568,7 @@
     "esES": "Sentencia",
     "frFR": "Jugement",
     "itIT": "Giudizio",
-    "koKR": "심판",
+    "koKR": "Judgement",
     "plPL": "Osąd"
   },
   {
@@ -1580,19 +1580,19 @@
     "esES": "Gracia del rey",
     "frFR": "Kana",
     "itIT": "Grazia del Re",
-    "koKR": "왕의 자비",
+    "koKR": "King's Grace",
     "plPL": "Królewska Łaska"
   },
   {
     "id": 20572,
     "Key": "Runeword66",
-    "enUS": "Kingslayer",
+    "enUS": "ÿc5•270ED•\nÿcDKingslayer",
     "zhTW": "弒王者",
     "deDE": "Königsmord",
     "esES": "Asesino real",
     "frFR": "Kaolin",
     "itIT": "Massacratore",
-    "koKR": "킹슬레이어",
+    "koKR": "ÿc5•270ED•\nÿcDKingslayer",
     "plPL": "Zabójca królów"
   },
   {
@@ -1604,7 +1604,7 @@
     "esES": "Vela del caballero",
     "frFR": "Karma",
     "itIT": "Re Vigile",
-    "koKR": "기사의 불침번",
+    "koKR": "Knight's Vigil",
     "plPL": "Rycerska warta"
   },
   {
@@ -1616,19 +1616,19 @@
     "esES": "Saber",
     "frFR": "Kappa",
     "itIT": "Conoscenza",
-    "koKR": "지식",
+    "koKR": "Knowledge",
     "plPL": "Poznanie"
   },
   {
     "id": 20575,
     "Key": "Runeword69",
-    "enUS": "Last Wish",
+    "enUS": "ÿc5•375ED/50CB•\nÿcDLast Wish",
     "zhTW": "最後希望",
     "deDE": "Letzter Wunsch",
     "esES": "Último deseo",
     "frFR": "Lèpre",
     "itIT": "Ultimo Desiderio",
-    "koKR": "마지막 소원",
+    "koKR": "ÿc5•375ED/50CB•\nÿcDLast Wish",
     "plPL": "Ostatnie życzenie"
   },
   {
@@ -1640,19 +1640,19 @@
     "esES": "Ley",
     "frFR": "Loi",
     "itIT": "Legge",
-    "koKR": "법",
+    "koKR": "Law",
     "plPL": "Prawo"
   },
   {
     "id": 20577,
     "Key": "Runeword71",
-    "enUS": "Lawbringer",
+    "enUS": "ÿc5•18San/250DefMi•\nÿcDLawbringer",
     "zhTW": "執法者",
     "deDE": "Gesetzesbringer",
     "esES": "Jurista",
     "frFR": "Longévité",
     "itIT": "Legiferatore",
-    "koKR": "법률위반",
+    "koKR": "ÿc5•18San/250DefMi•\nÿcDLawbringer",
     "plPL": "Łamiący prawo"
   },
   {
@@ -1664,7 +1664,7 @@
     "esES": "Hoja",
     "frFR": "Langueur",
     "itIT": "Foglia",
-    "koKR": "꽃잎",
+    "koKR": "Leaf",
     "plPL": "Liść"
   },
   {
@@ -1676,7 +1676,7 @@
     "esES": "Rayo",
     "frFR": "Larme",
     "itIT": "Fulmine",
-    "koKR": "빛",
+    "koKR": "Lightning",
     "plPL": "Błyskawica"
   },
   {
@@ -1688,7 +1688,7 @@
     "esES": "Corazón de león",
     "frFR": "Livre",
     "itIT": "Cuor di Leone",
-    "koKR": "용맹한자",
+    "koKR": "Lionheart",
     "plPL": "Lwie Serce"
   },
   {
@@ -1700,7 +1700,7 @@
     "esES": "Popular",
     "frFR": "Lapsus",
     "itIT": "Dottrina",
-    "koKR": "학식",
+    "koKR": "Lore",
     "plPL": "Wiedza"
   },
   {
@@ -1712,7 +1712,7 @@
     "esES": "Amor",
     "frFR": "Lambeaux",
     "itIT": "Amore",
-    "koKR": "사랑",
+    "koKR": "Love",
     "plPL": "Miłość"
   },
   {
@@ -1724,7 +1724,7 @@
     "esES": "Lealtad",
     "frFR": "Loyauté",
     "itIT": "Fedeltà",
-    "koKR": "충성",
+    "koKR": "Loyalty",
     "plPL": "Lojalność"
   },
   {
@@ -1736,7 +1736,7 @@
     "esES": "Lujuria",
     "frFR": "Luxure",
     "itIT": "Lussuria",
-    "koKR": "욕망",
+    "koKR": "Lust",
     "plPL": "Żądza"
   },
   {
@@ -1748,7 +1748,7 @@
     "esES": "Locura",
     "frFR": "Malice",
     "itIT": "Follia",
-    "koKR": "광기",
+    "koKR": "Madness",
     "plPL": "Szaleństwo"
   },
   {
@@ -1760,7 +1760,7 @@
     "esES": "Maldad",
     "frFR": "Méchanceté ",
     "itIT": "Malizia",
-    "koKR": "원환",
+    "koKR": "Malice",
     "plPL": "Złośliwość"
   },
   {
@@ -1772,7 +1772,7 @@
     "esES": "Melodía",
     "frFR": "Melodie",
     "itIT": "Melodia",
-    "koKR": "멜로디",
+    "koKR": "Melody",
     "plPL": "Melodia"
   },
   {
@@ -1784,19 +1784,19 @@
     "esES": "Memoria",
     "frFR": "Mémoire",
     "itIT": "Memoria",
-    "koKR": "기억",
+    "koKR": "Memory",
     "plPL": "Pamięć"
   },
   {
     "id": 20589,
     "Key": "Runeword84",
-    "enUS": "Mist",
+    "enUS": "ÿc5•12Con/375ED•\nÿcDMist",
     "zhTW": "迷霧",
     "deDE": "Nebel",
     "esES": "Bruma",
     "frFR": "Marée",
     "itIT": "Bruma",
-    "koKR": "엷은 안개",
+    "koKR": "ÿc5•12Con/375ED•\nÿcDMist",
     "plPL": "Mgła"
   },
   {
@@ -1808,7 +1808,7 @@
     "esES": "Mañana",
     "frFR": "Matin",
     "itIT": "Mattino",
-    "koKR": "아침",
+    "koKR": "Morning",
     "plPL": "Poranek"
   },
   {
@@ -1820,7 +1820,7 @@
     "esES": "Misterio",
     "frFR": "Mystère",
     "itIT": "Mistero",
-    "koKR": "미스테리",
+    "koKR": "Mystery",
     "plPL": "Tajemnica"
   },
   {
@@ -1832,7 +1832,7 @@
     "esES": "Mito",
     "frFR": "Mythe",
     "itIT": "Mito",
-    "koKR": "신화",
+    "koKR": "Myth",
     "plPL": "Mit"
   },
   {
@@ -1844,7 +1844,7 @@
     "esES": "Nadir",
     "frFR": "Nadir",
     "itIT": "Nadir",
-    "koKR": "천저",
+    "koKR": "Nadir",
     "plPL": "Nadir"
   },
   {
@@ -1856,7 +1856,7 @@
     "esES": "Imperio de la naturaleza",
     "frFR": "Nature",
     "itIT": "Regno della Natura",
-    "koKR": "자연의 왕국",
+    "koKR": "Nature's Kingdom",
     "plPL": "Królestwo Natury"
   },
   {
@@ -1868,31 +1868,31 @@
     "esES": "Noche",
     "frFR": "Nuit",
     "itIT": "Notte",
-    "koKR": "밤",
+    "koKR": "Night",
     "plPL": "Noc"
   },
   {
     "id": 20596,
     "Key": "Runeword91",
-    "enUS": "Oath",
+    "enUS": "ÿc5•340ED/15MA•\nÿcDOath",
     "zhTW": "誓約",
     "deDE": "Eid",
     "esES": "Juramento",
     "frFR": "Orme",
     "itIT": "Giuramento",
-    "koKR": "서약",
+    "koKR": "ÿc5•340ED/15MA•\nÿcDOath",
     "plPL": "Przysięga"
   },
   {
     "id": 20597,
     "Key": "Runeword92",
-    "enUS": "Obedience",
+    "enUS": "ÿc5•300Def/30@Res•\nÿcDObedience",
     "zhTW": "遵從",
     "deDE": "Gehorsam",
     "esES": "Obediencia",
     "frFR": "Obéissance ",
     "itIT": "Obbedienza",
-    "koKR": "순종",
+    "koKR": "ÿc5•300Def/30@Res•\nÿcDObedience",
     "plPL": "Posłuszeństwo"
   },
   {
@@ -1904,31 +1904,31 @@
     "esES": "Olvido",
     "frFR": "Oubli",
     "itIT": "Oblio",
-    "koKR": "망각",
+    "koKR": "Oblivion",
     "plPL": "Zapomnienie"
   },
   {
     "id": 20599,
     "Key": "Runeword94",
-    "enUS": "Obsession",
+    "enUS": "ÿc5•25%Life/30RegMana/70@Res•\nÿcDObsession",
     "zhTW": "著魔",
     "deDE": "Besessenheit",
     "esES": "Obsesión",
     "frFR": "Obsession",
     "itIT": "Ossessione",
-    "koKR": "집념",
+    "koKR": "ÿc5•25%Life/30RegMana/70@Res•\nÿcDObsession",
     "plPL": "Obsesja"
   },
   {
     "id": 20600,
     "Key": "Runeword95",
-    "enUS": "Passion",
+    "enUS": "ÿc5•210ED/80%AR•\nÿcDPassion",
     "zhTW": "熱情",
     "deDE": "Leidenschaft",
     "esES": "Pasión",
     "frFR": "Passion",
     "itIT": "Passione",
-    "koKR": "열정",
+    "koKR": "ÿc5•210ED/80%AR•\nÿcDPassion",
     "plPL": "Pasja"
   },
   {
@@ -1940,19 +1940,19 @@
     "esES": "Paciencia",
     "frFR": "Patience",
     "itIT": "Pazienza",
-    "koKR": "인내",
+    "koKR": "Patience",
     "plPL": "Cierpliowość"
   },
   {
     "id": 20602,
     "Key": "Runeword97",
-    "enUS": "Pattern",
+    "enUS": "ÿc5•80ED•\nÿcDPattern",
     "zhTW": "樣式",
     "deDE": "Prasseln",
     "esES": "Golpeteo",
     "frFR": "Parchemin",
     "itIT": "Scalpiccio",
-    "koKR": "은어",
+    "koKR": "ÿc5•80ED•\nÿcDPattern",
     "plPL": "Tupot"
   },
   {
@@ -1964,19 +1964,19 @@
     "esES": "Paz",
     "frFR": "Paix",
     "itIT": "Pace",
-    "koKR": "평화",
+    "koKR": "Peace",
     "plPL": "Pokój"
   },
   {
     "id": 20604,
     "Key": "Runeword99",
-    "enUS": "Voice of Reason",
+    "enUS": "ÿc5•350%DTD/300%DTU•\nÿcDVoice of Reason",
     "zhTW": "思考之聲",
     "deDE": "Stimme der Vernunft",
     "esES": "Voz de la razón",
     "frFR": "Vérité",
     "itIT": "Voce della Ragione",
-    "koKR": "이유있는 항변",
+    "koKR": "ÿc5•350%DTD/300%DTU•\nÿcDVoice of Reason",
     "plPL": "Głos rozsądku"
   },
   {
@@ -1988,7 +1988,7 @@
     "esES": "Penitencia",
     "frFR": "Pleutre",
     "itIT": "Penitenza",
-    "koKR": "속죄",
+    "koKR": "Penitence",
     "plPL": "Skrucha"
   },
   {
@@ -2000,7 +2000,7 @@
     "esES": "Peligro",
     "frFR": "Péril",
     "itIT": "Pericolo",
-    "koKR": "위기",
+    "koKR": "Peril",
     "plPL": "Niebezpieczeństwo"
   },
   {
@@ -2012,19 +2012,19 @@
     "esES": "Pestilencia",
     "frFR": "Pestilence",
     "itIT": "Pestilenza",
-    "koKR": "전염병",
+    "koKR": "Pestilence",
     "plPL": "Zaraza"
   },
   {
     "id": 20608,
     "Key": "Runeword103",
-    "enUS": "Phoenix",
+    "enUS": "ÿc5•15Red/400ED/400DefMi/21FA•\nÿcDPhoenix",
     "zhTW": "鳳凰",
     "deDE": "Phönix",
     "esES": "Fénix",
     "frFR": "Phénix",
     "itIT": "Fenice",
-    "koKR": "불사조",
+    "koKR": "ÿc5•15Red/400ED/400DefMi/21FA•\nÿcDPhoenix",
     "plPL": "Feniks"
   },
   {
@@ -2036,7 +2036,7 @@
     "esES": "Piedad",
     "frFR": "Piété",
     "itIT": "Pietà",
-    "koKR": "경건",
+    "koKR": "Piety",
     "plPL": "Pobożność"
   },
   {
@@ -2048,19 +2048,19 @@
     "esES": "Pilar de fe",
     "frFR": "Pilier",
     "itIT": "Pilastro della Fede",
-    "koKR": "믿음의 중심",
+    "koKR": "Pillar of Faith",
     "plPL": "Słup Wiary"
   },
   {
     "id": 20611,
     "Key": "Runeword106",
-    "enUS": "Plague",
+    "enUS": "ÿc5•17Cle/2@Skills/320ED•\nÿcDPlague",
     "zhTW": "瘟疫",
     "deDE": "Pest",
     "esES": "Peste",
     "frFR": "Peste",
     "itIT": "Contagio",
-    "koKR": "페스트",
+    "koKR": "ÿc5•17Cle/2@Skills/320ED•\nÿcDPlague",
     "plPL": "Plaga"
   },
   {
@@ -2072,7 +2072,7 @@
     "esES": "Alabanza",
     "frFR": "Pluie",
     "itIT": "Lode",
-    "koKR": "찬사",
+    "koKR": "Praise",
     "plPL": "Pochwała"
   },
   {
@@ -2084,31 +2084,31 @@
     "esES": "Oración",
     "frFR": "Prière",
     "itIT": "Questuante",
-    "koKR": "기원",
+    "koKR": "Prayer",
     "plPL": "Modlitwa"
   },
   {
     "id": 20614,
     "Key": "Runeword109",
-    "enUS": "Pride",
+    "enUS": "ÿc5•20Con/300%AR•\nÿcDPride",
     "zhTW": "驕傲",
     "deDE": "Stolz",
     "esES": "Orgullo",
     "frFR": "Pierre",
     "itIT": "Orgoglio",
-    "koKR": "자존심",
+    "koKR": "ÿc5•20Con/300%AR•\nÿcDPride",
     "plPL": "Duma"
   },
   {
     "id": 20615,
     "Key": "Runeword110",
-    "enUS": "Principle",
+    "enUS": "ÿc5•150Life•\nÿcDPrinciple",
     "zhTW": "原理",
     "deDE": "Prinzip",
     "esES": "Principio",
     "frFR": "Principe",
     "itIT": "Principio",
-    "koKR": "원리원칙",
+    "koKR": "ÿc5•150Life•\nÿcDPrinciple",
     "plPL": "Zasada"
   },
   {
@@ -2120,19 +2120,19 @@
     "esES": "Habilidad en combate",
     "frFR": "Prouesse",
     "itIT": "Valore",
-    "koKR": "전장의 역량",
+    "koKR": "Prowess in Battle",
     "plPL": "Sprawność bojowa"
   },
   {
     "id": 20617,
     "Key": "Runeword112",
-    "enUS": "Prudence",
+    "enUS": "ÿc5•170ED/35@Res•\nÿcDPrudence",
     "zhTW": "謹重",
     "deDE": "Besonnenheit",
     "esES": "Prudencia",
     "frFR": "Prudence",
     "itIT": "Prudenza",
-    "koKR": "현명",
+    "koKR": "ÿc5•170ED/35@Res•\nÿcDPrudence",
     "plPL": "Rozwaga"
   },
   {
@@ -2144,7 +2144,7 @@
     "esES": "Castigo",
     "frFR": "Punition",
     "itIT": "Punizione",
-    "koKR": "처벌",
+    "koKR": "Punishment",
     "plPL": "Kara"
   },
   {
@@ -2156,7 +2156,7 @@
     "esES": "Pureza",
     "frFR": "Pureté",
     "itIT": "Purezza",
-    "koKR": "순수",
+    "koKR": "Purity",
     "plPL": "Czystość"
   },
   {
@@ -2168,7 +2168,7 @@
     "esES": "Duda",
     "frFR": "Question",
     "itIT": "Quesito",
-    "koKR": "의문",
+    "koKR": "Question",
     "plPL": "Pytanie"
   },
   {
@@ -2180,19 +2180,19 @@
     "esES": "Resplandor",
     "frFR": "Rayon",
     "itIT": "Fulgore",
-    "koKR": "찬란한 빛",
+    "koKR": "Radiance",
     "plPL": "Blask"
   },
   {
     "id": 20622,
     "Key": "Runeword117",
-    "enUS": "Rain",
+    "enUS": "ÿc5•150Mana•\nÿcDRain",
     "zhTW": "降雨",
     "deDE": "Regen",
     "esES": "Lluvia",
     "frFR": "Rage",
     "itIT": "Pioggia",
-    "koKR": "비",
+    "koKR": "ÿc5•150Mana•\nÿcDRain",
     "plPL": "Deszcz"
   },
   {
@@ -2204,7 +2204,7 @@
     "esES": "Razón",
     "frFR": "Raison",
     "itIT": "Ragione",
-    "koKR": "변명",
+    "koKR": "Reason",
     "plPL": "Rozsądek"
   },
   {
@@ -2216,7 +2216,7 @@
     "esES": "Rojo",
     "frFR": "Rouge",
     "itIT": "Rossa",
-    "koKR": "레드",
+    "koKR": "Red",
     "plPL": "Czerwień"
   },
   {
@@ -2228,31 +2228,31 @@
     "esES": "Rima",
     "frFR": "Rime",
     "itIT": "Rima",
-    "koKR": "제왕 운시",
+    "koKR": "Rhyme",
     "plPL": "Rym"
   },
   {
     "id": 20626,
     "Key": "Runeword121",
-    "enUS": "Rift",
+    "enUS": "ÿc5•10@Attr•\nÿcDRift",
     "zhTW": "裂縫",
     "deDE": "Zerrissenheit",
     "esES": "Grieta",
     "frFR": "Rigodon",
     "itIT": "Squarcio",
-    "koKR": "균열",
+    "koKR": "ÿc5•10@Attr•\nÿcDRift",
     "plPL": "Szczelina"
   },
   {
     "id": 20627,
     "Key": "Runeword122",
-    "enUS": "Sanctuary",
+    "enUS": "ÿc5•160ED/70@Res•\nÿcDSanctuary",
     "zhTW": "聖堂",
     "deDE": "Zuflucht",
     "esES": "Santuario",
     "frFR": "Sanctuaire",
     "itIT": "Santuario",
-    "koKR": "성역",
+    "koKR": "ÿc5•160ED/70@Res•\nÿcDSanctuary",
     "plPL": "Sanktuarium"
   },
   {
@@ -2264,7 +2264,7 @@
     "esES": "Serendipia",
     "frFR": "Serpent",
     "itIT": "Serendipità",
-    "koKR": "세런디퍼티",
+    "koKR": "Serendipity",
     "plPL": "Przypadkowość"
   },
   {
@@ -2276,7 +2276,7 @@
     "esES": "Sombra",
     "frFR": "Serment",
     "itIT": "Ombra",
-    "koKR": "그림자",
+    "koKR": "Shadow",
     "plPL": "Cień"
   },
   {
@@ -2288,7 +2288,7 @@
     "esES": "Sombra de duda",
     "frFR": "Sou",
     "itIT": "Ombra del Dubbio",
-    "koKR": "의심의 그림자",
+    "koKR": "Shadow of Doubt",
     "plPL": "Cień Wątpliwości"
   },
   {
@@ -2300,7 +2300,7 @@
     "esES": "Silencio",
     "frFR": "Silence",
     "itIT": "Silenzio",
-    "koKR": "침묵",
+    "koKR": "Silence",
     "plPL": "Cisza"
   },
   {
@@ -2312,7 +2312,7 @@
     "esES": "Canto de sirena",
     "frFR": "Sirène",
     "itIT": "Canto della Sirena",
-    "koKR": "사이렌의 노래",
+    "koKR": "Siren's Song",
     "plPL": "Pieśń Syreny"
   },
   {
@@ -2324,7 +2324,7 @@
     "esES": "Humo",
     "frFR": "Soupe",
     "itIT": "Fumo",
-    "koKR": "연기",
+    "koKR": "Smoke",
     "plPL": "Dym"
   },
   {
@@ -2336,31 +2336,31 @@
     "esES": "Tristeza",
     "frFR": "Sel",
     "itIT": "Rimorso",
-    "koKR": "소로우",
+    "koKR": "Sorrow",
     "plPL": "Smutek"
   },
   {
     "id": 20635,
     "Key": "Runeword130",
-    "enUS": "Spirit",
+    "enUS": "ÿc5•35FCR/112Mana/8MA•\nÿcDSpirit",
     "zhTW": "精神",
     "deDE": "Geist",
     "esES": "Espíritu  ",
     "frFR": "Esprit",
     "itIT": "Spirito",
-    "koKR": "스피리트",
+    "koKR": "ÿc5•35FCR/112Mana/8MA•\nÿcDSpirit",
     "plPL": "Duch"
   },
   {
     "id": 20636,
     "Key": "Runeword131",
-    "enUS": "Splendor",
+    "enUS": "ÿc5•100ED•\nÿcDSplendor",
     "zhTW": "燦爛",
     "deDE": "Pracht",
     "esES": "Esplendor",
     "frFR": "Splendeur",
     "itIT": "Splendore",
-    "koKR": "스플렌더",
+    "koKR": "ÿc5•100ED•\nÿcDSplendor",
     "plPL": "Splendor"
   },
   {
@@ -2372,7 +2372,7 @@
     "esES": "Luz de las estrellas",
     "frFR": "Soleil",
     "itIT": "Luce delle Stelle",
-    "koKR": "스타라이트",
+    "koKR": "Starlight",
     "plPL": "Światło gwiazd"
   },
   {
@@ -2384,7 +2384,7 @@
     "esES": "Sigilo",
     "frFR": "Sillon",
     "itIT": "Furtività",
-    "koKR": "스텔스",
+    "koKR": "Stealth",
     "plPL": "Skradanie się"
   },
   {
@@ -2396,7 +2396,7 @@
     "esES": "Acero",
     "frFR": "Style",
     "itIT": "Acciaio",
-    "koKR": "스틸",
+    "koKR": "Steel",
     "plPL": "Stal"
   },
   {
@@ -2408,7 +2408,7 @@
     "esES": "Aguas tranquilas",
     "frFR": "Sérénité",
     "itIT": "Acqua Immobile",
-    "koKR": "스틸 워터",
+    "koKR": "Still Water",
     "plPL": "Spokojna woda"
   },
   {
@@ -2420,19 +2420,19 @@
     "esES": "Aguijón",
     "frFR": "Sabot",
     "itIT": "Pungiglione",
-    "koKR": "스팅",
+    "koKR": "Sting",
     "plPL": "Żądło"
   },
   {
     "id": 20642,
     "Key": "Runeword137",
-    "enUS": "Stone",
+    "enUS": "ÿc5•260ED•\nÿcDStone",
     "zhTW": "石塊",
     "deDE": "Stein",
     "esES": "Roca",
     "frFR": "Sacrifice",
     "itIT": "Pietra",
-    "koKR": "스톤",
+    "koKR": "ÿc5•260ED•\nÿcDStone",
     "plPL": "Kamień"
   },
   {
@@ -2444,7 +2444,7 @@
     "esES": "Tormenta",
     "frFR": "Sagesse",
     "itIT": "Ciclone",
-    "koKR": "스톰",
+    "koKR": "Storm",
     "plPL": "Burza"
   },
   {
@@ -2456,7 +2456,7 @@
     "esES": "Fuerza",
     "frFR": "Safran",
     "itIT": "Forza",
-    "koKR": "스트랭쓰",
+    "koKR": "Strength",
     "plPL": "Siła"
   },
   {
@@ -2468,7 +2468,7 @@
     "esES": "Tempestad",
     "frFR": "Tempête",
     "itIT": "Tempesta",
-    "koKR": "템페스트",
+    "koKR": "Tempest",
     "plPL": "Burza"
   },
   {
@@ -2480,7 +2480,7 @@
     "esES": "Tentación",
     "frFR": "Tentation",
     "itIT": "Tentazione",
-    "koKR": "템프테이션",
+    "koKR": "Temptation",
     "plPL": "Kuszenie"
   },
   {
@@ -2492,7 +2492,7 @@
     "esES": "Terror",
     "frFR": "Terreur",
     "itIT": "Orrore",
-    "koKR": "테러",
+    "koKR": "Terror",
     "plPL": "Groza"
   },
   {
@@ -2504,7 +2504,7 @@
     "esES": "Sed",
     "frFR": "Tabac",
     "itIT": "Sete",
-    "koKR": "써스트",
+    "koKR": "Thirst",
     "plPL": "Pragnienie"
   },
   {
@@ -2516,7 +2516,7 @@
     "esES": "Pensamiento",
     "frFR": "Tyran",
     "itIT": "Pensiero",
-    "koKR": "쏘우트",
+    "koKR": "Thought",
     "plPL": "Myśl"
   },
   {
@@ -2528,7 +2528,7 @@
     "esES": "Truenos",
     "frFR": "Trouble",
     "itIT": "Tuono",
-    "koKR": "선더",
+    "koKR": "Thunder",
     "plPL": "Grom"
   },
   {
@@ -2540,7 +2540,7 @@
     "esES": "Tiempo",
     "frFR": "Temps",
     "itIT": "Tempo",
-    "koKR": "타임",
+    "koKR": "Time",
     "plPL": "Czas"
   },
   {
@@ -2552,7 +2552,7 @@
     "esES": "Tradición",
     "frFR": "Tradition",
     "itIT": "Tradizione",
-    "koKR": "트래디션",
+    "koKR": "Tradition",
     "plPL": "Tradycja"
   },
   {
@@ -2564,7 +2564,7 @@
     "esES": "Traición",
     "frFR": "Traîtrise",
     "itIT": "Tradimento",
-    "koKR": "트랫셔리",
+    "koKR": "Treachery",
     "plPL": "Zdrada"
   },
   {
@@ -2576,7 +2576,7 @@
     "esES": "Confianza",
     "frFR": "Trahison",
     "itIT": "Fiducia",
-    "koKR": "트러스트",
+    "koKR": "Trust",
     "plPL": "Zaufanie"
   },
   {
@@ -2588,19 +2588,19 @@
     "esES": "Verdad",
     "frFR": "Tambourin",
     "itIT": "Verità",
-    "koKR": "트루쓰",
+    "koKR": "Truth",
     "plPL": "Prawda "
   },
   {
     "id": 20656,
     "Key": "Runeword151",
-    "enUS": "Unbending Will",
+    "enUS": "ÿc5•30IAS/350ED/10LL•\nÿcDUnbending Will",
     "zhTW": "堅定意志",
     "deDE": "Unbeugsamer Wille",
     "esES": "Voluntad de hierro",
     "frFR": "Urne",
     "itIT": "Volontà di Ferro",
-    "koKR": "언벤딩 윌",
+    "koKR": "ÿc5•30IAS/350ED/10LL•\nÿcDUnbending Will",
     "plPL": "Nieugięta wola"
   },
   {
@@ -2612,7 +2612,7 @@
     "esES": "Valor",
     "frFR": "Valeur",
     "itIT": "Valore",
-    "koKR": "밸러",
+    "koKR": "Valor",
     "plPL": "Odwaga"
   },
   {
@@ -2624,7 +2624,7 @@
     "esES": "Venganza",
     "frFR": "Vengeance",
     "itIT": "Vendetta",
-    "koKR": "벤전스",
+    "koKR": "Vengeance",
     "plPL": "Zemsta"
   },
   {
@@ -2636,7 +2636,7 @@
     "esES": "Veneno",
     "frFR": "Venin",
     "itIT": "Veleno",
-    "koKR": "베넘",
+    "koKR": "Venom",
     "plPL": "Jad"
   },
   {
@@ -2648,7 +2648,7 @@
     "esES": "Victoria",
     "frFR": "Victoire",
     "itIT": "Vittoria",
-    "koKR": "빅토리",
+    "koKR": "Victory",
     "plPL": "Zwycięstwo"
   },
   {
@@ -2660,19 +2660,19 @@
     "esES": "Voz  ",
     "frFR": "Voix",
     "itIT": "Voce della Ragione",
-    "koKR": "보이스",
+    "koKR": "Voice",
     "plPL": "Głos"
   },
   {
     "id": 20662,
     "Key": "Runeword157",
-    "enUS": "Void",
+    "enUS": "ÿc5•15extra-mag/3Aby/12@Attr•\nÿcDVoid",
     "zhTW": "虛無之",
     "deDE": "[ms]leerer[fs]leere[ns]leeres[pl]leere",
     "esES": "[fs]inválida[ms]inválido[fp]inválidas[mp]inválidos",
     "frFR": "[ms]nu[mp]nus[fs]nue[fp]nues",
     "itIT": "[ms]vuoto[fs]vuota[mp]vuoti[fp]vuote",
-    "koKR": "보이드",
+    "koKR": "ÿc5•15extra-mag/3Aby/12@Attr•\nÿcDVoid",
     "plPL": "Pustka"
   },
   {
@@ -2684,7 +2684,7 @@
     "esES": "Guerra",
     "frFR": "Walhalla",
     "itIT": "Guerra",
-    "koKR": "워",
+    "koKR": "War",
     "plPL": "Wojna"
   },
   {
@@ -2696,7 +2696,7 @@
     "esES": "Agua ",
     "frFR": "Walkyrie",
     "itIT": "Acqua",
-    "koKR": "워터",
+    "koKR": "Water",
     "plPL": "Woda"
   },
   {
@@ -2708,7 +2708,7 @@
     "esES": "Riqueza",
     "frFR": "Wisigothe",
     "itIT": "Ricchezza",
-    "koKR": "웰쓰",
+    "koKR": "Wealth",
     "plPL": "Bogactwo"
   },
   {
@@ -2720,7 +2720,7 @@
     "esES": "Susurro",
     "frFR": "Wapiti",
     "itIT": "Sussurro",
-    "koKR": "휘스퍼",
+    "koKR": "Whisper",
     "plPL": "Szept"
   },
   {
@@ -2732,19 +2732,19 @@
     "esES": "Blanco",
     "frFR": "Wali",
     "itIT": "Bianca",
-    "koKR": "화이트",
+    "koKR": "White",
     "plPL": "Biel"
   },
   {
     "id": 20668,
     "Key": "Runeword163",
-    "enUS": "Wind",
+    "enUS": "ÿc5•160ED•\nÿcDWind",
     "zhTW": "輕風",
     "deDE": "Wind",
     "esES": "Viento",
     "frFR": "Wallaby",
     "itIT": "Vento",
-    "koKR": "윈드",
+    "koKR": "ÿc5•160ED•\nÿcDWind",
     "plPL": "Wiatr"
   },
   {
@@ -2756,19 +2756,19 @@
     "esES": "Alas de esperanza",
     "frFR": "Wax",
     "itIT": "Ali della Speranza",
-    "koKR": "윙스 오브 호프",
+    "koKR": "Wings of Hope",
     "plPL": "Wiatr Nadziei"
   },
   {
     "id": 20670,
     "Key": "Runeword165",
-    "enUS": "Wisdom",
+    "enUS": "ÿc5•25%AR/8ML•\nÿcDWisdom",
     "zhTW": "智慧",
     "deDE": "Weisheit",
     "esES": "Sabiduría",
     "frFR": "Wharf",
     "itIT": "Saggezza",
-    "koKR": "위즈덤",
+    "koKR": "ÿc5•25%AR/8ML•\nÿcDWisdom",
     "plPL": "Mądrość"
   },
   {
@@ -2780,7 +2780,7 @@
     "esES": "Aflicción",
     "frFR": "Wolfram",
     "itIT": "Pena",
-    "koKR": "우우",
+    "koKR": "Woe",
     "plPL": "Nieszczęście"
   },
   {
@@ -2792,19 +2792,19 @@
     "esES": "Asombro",
     "frFR": "Wigwam",
     "itIT": "Meraviglia",
-    "koKR": "원더",
+    "koKR": "Wonder",
     "plPL": "Cud"
   },
   {
     "id": 20673,
     "Key": "Runeword168",
-    "enUS": "Wrath",
+    "enUS": "ÿc5•300%DTU•\nÿcDWrath",
     "zhTW": "憤怒",
     "deDE": "Wut",
     "esES": "Ira",
     "frFR": "Wendigo",
     "itIT": "Ira",
-    "koKR": "래쓰",
+    "koKR": "ÿc5•300%DTU•\nÿcDWrath",
     "plPL": "Gniew"
   },
   {
@@ -2816,7 +2816,7 @@
     "esES": "Juventud",
     "frFR": "Yoga",
     "itIT": "Gioventù",
-    "koKR": "유쓰",
+    "koKR": "Youth",
     "plPL": "Młodość"
   },
   {
@@ -2828,7 +2828,7 @@
     "esES": "Céfiro",
     "frFR": "Zéphyr",
     "itIT": "Zaffiro",
-    "koKR": "제퍼",
+    "koKR": "Zephyr",
     "plPL": "Zefir"
   }
 ]

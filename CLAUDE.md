@@ -8,7 +8,8 @@ Client-side mod cho **Diablo II: Resurrected** (build `93847`, xem `toantruyen.m
 - `modinfo.json`: `name` phải trùng tên thư mục mod.
 - File trong `data/` ghi đè file gốc cùng đường dẫn. Game chỉ load **đúng tên file** — bản nháp kiểu `item-names_xxx.json`, `- Copy.json` không có tác dụng, đừng tạo trong mod.
 - `data/local/lng/strings/*.json`: bảng text (array `{id, Key, enUS, koKR, ...}`).
-- `data/hd/env/porory/beacon/`: cột sáng dẫn đường (gốc từ mod porory). Mỗi `pf_beacon_*.json` ghi texture đang dùng ở dòng đầu (`// beacon_cXX_sYY_oZZ`); chỉ giữ texture được tham chiếu.
+- `data/hd/env/porory/beacon/`: cột sáng dẫn đường (gốc từ mod porory). Mỗi `pf_beacon_*.json` ghi texture đang dùng ở dòng đầu (`// beacon_cXX_sYY_oZZ`); chỉ giữ texture được tham chiếu. Đổi texture = thay tên đó ở mọi chỗ trong file (`c`=màu, `s`=hình, `o`=độ mờ); bảng mẫu gốc ở `docs/porory-beacon/`.
+- `data/hd/vfx/particles/**/*.particles` là binary PopcornFX (chuỗi có tiền tố độ dài) — không sửa đường dẫn texture bằng cách thay chuỗi khác độ dài.
 - Không có `data/global/excel/*.txt` → không cần cờ `-txt`.
 
 ## Quy ước quan trọng
