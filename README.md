@@ -30,10 +30,13 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
 
 ### 3. Bộ lọc Nhãn Rơi Tối ưu Cày Online (Battle.net Safe Loot Filter)
 - **Bộ lọc "Tàng Hình Rác" (Dot Filter ·)**: 
-  - Toàn bộ tên nỏ (`aqv`, `cqv`), chìa khóa thường (`key`), các bình ném độc/dầu (`gpl`, `opl`), bình thể lực/giải độc (`vps`, `yps`, `wms`) và bình máu/mana cấp thấp 1–3 (`hp1-3`, `mp1-3`) đều được hóa thành **1 dấu chấm mờ duy nhất: `·`**.
+  - Toàn bộ tên nỏ (`aqv`, `cqv`), chìa khóa thường (`key`), bình thể lực/giải độc/rã đông (`vps`, `yps`, `wms`) và bình máu/mana cấp thấp 1–3 (`hp1-3`, `mp1-3`) đều được hóa thành **1 dấu chấm mờ duy nhất: `·`**.
+  - Các bình ném độc và dầu được dán nhãn ngắn gọn rõ ràng: `[Gas Pot]` và `[Oil Pot]` (không để dấu chấm tránh gây hiểu lầm với ngọc rơi trên đất).
   - Đồ hỏng, kém chất lượng (`Low Quality`, `Damaged`, `Cracked`, `Crude`) cũng tự động thu nhỏ thành dấu chấm mờ `·`.
   - Khung chữ teo lại 99% thành một chấm nhỏ xíu, giúp giải phóng hoàn toàn tầm nhìn khi cày bãi đông (Cow Level, Chaos Sanctuary, Travincal), không còn bị chữ to của rác che khuất màn hình.
   - Bình máu/mana lớn được rút gọn siêu thoáng mắt: `[HP]` và `[MP]` (giảm 50% diện tích chữ, không còn lo kín màn hình khi farm bãi đông quái).
+- **Nhận diện toàn bộ 35 loại Ngọc (Gems Color Coding)**:
+  - Phủ mã màu rực rỡ riêng biệt cho toàn bộ ngọc từ cấp Vụn (Chipped), Khuyết (Flawed), Thường (Normal) đến Không tì vết (Flawless) và Hoàn hảo (Perfect) theo đúng hệ màu: Tím Amethyst, Vàng Topaz, Lam Sapphire, Lục Emerald, Đỏ Ruby, Trắng Diamond, Xám Skull. Đảm bảo 100% không bao giờ bị nhầm lẫn hay biến thành dấu chấm rác.
 - **Rút gọn nhãn cuộn giấy & Bình Rejuv**: Biến nhãn dài dòng thành `[TP]` (Town Portal) và `[ID]` (Identify); làm nổi bật bình Rejuv tím `[+35% Rejuv]` và `★ [+100% REJUV] ★`.
 - **Chỉ dẫn Phôi Runeword & Số lỗ Larzuk (Socket & Base Helper)**: Hiển thị số lỗ tối đa khi đục Larzuk Act 5 và gợi ý Runeword hot trực tiếp trên tên phôi:
   - `Monarch [Max 4os - Spirit/Phoenix]`, `Phase Blade [Max 6os - Grief/Last Wish]`
@@ -87,7 +90,7 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
   - *Crystalline Passage / Glacial Trail / Ancients' Way*: `[Rẽ Trái]`.
 - **Cột sáng chuyển tiếp khu vực**: Đánh dấu rõ ràng Waypoint, Cầu thang lên/xuống (Upstairs/Downstairs), Cửa hang/hầm, Cửa chuyển map tiếp theo.
 - **Đánh dấu Rương kho báu & Mục tiêu nhiệm vụ**:
-  - Đánh dấu các Rương lấp lánh (Sparkly/Superchests tại Lower Kurast và các hầm ngục).
+  - Đánh dấu các Rương lấp lánh bằng cột sáng (Sparkly Chests tại các hầm ngục cuối tầng như The Pit 2, Ancient Tunnels, Stony Tomb 2, Maggot Lair 3...). *(Lưu ý: Superchests tại Lower Kurast dùng model rương gỗ thường nằm trong 2 căn nhà quanh cụm đống lửa Campfire, không có model Sparkly Chest riêng)*.
   - Đánh dấu hòm nhiệm vụ (Rương Horadric Cube, Rương Staff of Kings, Rương Nội tạng Khalim).
   - Đánh dấu Cây Inifuss, Bàn xoay Lam Esen, Đe rèn Hellforge, Xác Wirt (Wirt's Leg).
 - **Đánh dấu trực tiếp vị trí Boss**:
@@ -107,7 +110,18 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
 - **Tối ưu hạt hiệu ứng (VFX)**: Giảm thiểu độ trễ, tối ưu hóa phân lớp GPU giúp giữ mức FPS mượt mà ổn định ngay cả trong những pha giao tranh đông quái vật (Chaos Sanctuary, Cow Level).
 - **Sửa lỗi class Warlock**: Đã khắc phục triệt để lỗi skill/missile và quỷ triệu hồi của Warlock ở chế độ HD.
 
-### 8. Tính năng Chuyển đổi Ngôn ngữ EN - VI (Language Switcher)
+### 8. Giám sát Đệ tử & Âm thanh Báo tử Khẩn cấp (Mercenary Tracker & Death Alarm)
+- **Kéo thanh máu Đệ vào tầm nhìn trung tâm**: 
+  - Mặc định ảnh chân dung và thanh máu của đệ tử nằm ở góc trên cùng bên trái màn hình (`y: 40`), rất xa tầm mắt khi đang giao tranh căng thẳng.
+  - Mod đã điều chỉnh vị trí hạ thấp xuống ngang tầm mắt trung tâm-trái (`y: 366`), nằm ngay trong vùng nhìn ngoại vi (peripheral vision) giúp bạn dễ dàng nhận thấy mỗi khi đệ bị quây dồn sát thương.
+- **Phóng to gấp đôi thanh máu Đệ (Large Health Bar)**:
+  - Tăng độ dày thanh máu lên gấp 2 lần (`height: 36` thay vì 18 mặc định) và kéo dài hơn (`width: 140`), độ tương phản 100% không mờ nhạt, giúp quan sát biến động máu cực kỳ rõ nét.
+  - Tự động tách biệt các đệ tử triệu hồi (golem, skeleton, shadow, valkyrie...) sang vị trí riêng để không che khuất đệ chính.
+- **Còi Báo tử Khẩn cấp (Death Alarm SFX)**:
+  - Khi đệ tử hy sinh trong giao tranh hỗn loạn, game mặc định chỉ phát tiếng rên nhỏ rất dễ bị tiếng chiêu thức lấn át.
+  - Tích hợp âm thanh cảnh báo kép chuyên dụng âm tần cao (dual-tone tactical chime, 44.1kHz FLAC chuẩn D2R) phát ra tức thì khi đệ tử ngã xuống (hỗ trợ toàn bộ Đệ Act 1 Rogue, Act 2 Desert Guard, Act 3 Iron Wolf). Nhận biết ngay lập tức để mở Town Portal về làng hồi sinh hoặc lùi bước an toàn.
+
+### 9. Tính năng Chuyển đổi Ngôn ngữ EN - VI (Language Switcher)
 Trên phiên bản PC, Blizzard cố định ngôn ngữ theo Battle.net (chỉ bản Console mới có menu đổi trong game). Bạn có thể đổi qua lại giữa Tiếng Anh và Tiếng Việt cực kỳ tiện lợi theo 2 cách:
 
 - **Cách 1 (Khuyên dùng - Chọn trực tiếp trong Battle.net Launcher)**:
