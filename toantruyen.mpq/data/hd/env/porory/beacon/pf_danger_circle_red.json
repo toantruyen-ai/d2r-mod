@@ -1,0 +1,161 @@
+// danger_circle_c02_s07_o100 - Crimson Red Danger Circle for Deadly Monsters & Bosses
+{
+  "dependencies": {
+    "particles": [],
+    "models": [],
+    "skeletons": [],
+    "animations": [],
+    "textures": [
+      { "path": "data/hd/env/porory/beacon/texture/beacon_c02_s07_o100.texture" }
+    ],
+    "physics": [],
+    "json": [],
+    "variantdata": [],
+    "objecteffects": [],
+    "other": []
+  },
+  "type": "Prefab",
+  "name": "pf_danger_circle_red",
+  "entities": [
+    {
+      "type": "Entity",
+      "name": "danger_circle_q1",
+      "id": 586091861,
+      "components": [
+        {
+          "type": "TransformDefinitionComponent",
+          "name": "danger_circle_q1_Transform",
+          "position": { "x": -75.0, "y": 0.0, "z": -75.0 },
+          "orientation": { "x": 0.0, "y": 0.7071068, "z": 0.0, "w": 0.7071068 },
+          "scale": { "x": 150.0, "y": 1.0, "z": 150.0 },
+          "inheritOnlyPosition": false
+        },
+        {
+          "type": "DecalDefinitionComponent",
+          "name": "danger_circle_q1_Decal",
+          "diffuseMap": "data/hd/env/porory/beacon/texture/beacon_c02_s07_o100.texture",
+          "normalMap": "",
+          "ormMap": "",
+          "edgeFade": 0.0,
+          "heightFade": 0.0,
+          "weight": 1.0,
+          "applyToAlbedo": true,
+          "applyToNormal": false,
+          "applyToOcclusion": false,
+          "applyToRoughness": false,
+          "applyToMetalness": false,
+          "thresholdValue": 0.0,
+          "thresholdHardness": 1.0,
+          "emissiveIntensity": 1.5,
+          "emissiveFocus": 1.0,
+          "lightMask": 16
+        }
+      ]
+    },
+    {
+      "type": "Entity",
+      "name": "danger_circle_q2",
+      "id": 586091862,
+      "components": [
+        {
+          "type": "TransformDefinitionComponent",
+          "name": "danger_circle_q2_Transform",
+          "position": { "x": 75.0, "y": 0.0, "z": -75.0 },
+          "orientation": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 1.0 },
+          "scale": { "x": 150.0, "y": 1.0, "z": 150.0 },
+          "inheritOnlyPosition": false
+        },
+        {
+          "type": "DecalDefinitionComponent",
+          "name": "danger_circle_q2_Decal",
+          "diffuseMap": "data/hd/env/porory/beacon/texture/beacon_c02_s07_o100.texture",
+          "normalMap": "",
+          "ormMap": "",
+          "edgeFade": 0.0,
+          "heightFade": 0.0,
+          "weight": 1.0,
+          "applyToAlbedo": true,
+          "applyToNormal": false,
+          "applyToOcclusion": false,
+          "applyToRoughness": false,
+          "applyToMetalness": false,
+          "thresholdValue": 0.0,
+          "thresholdHardness": 1.0,
+          "emissiveIntensity": 1.5,
+          "emissiveFocus": 1.0,
+          "lightMask": 16
+        }
+      ]
+    },
+    {
+      "type": "Entity",
+      "name": "danger_circle_q3",
+      "id": 586091863,
+      "components": [
+        {
+          "type": "TransformDefinitionComponent",
+          "name": "danger_circle_q3_Transform",
+          "position": { "x": 75.0, "y": 0.0, "z": 75.0 },
+          "orientation": { "x": 0.0, "y": 0.7071068, "z": 0.0, "w": -0.7071068 },
+          "scale": { "x": 150.0, "y": 1.0, "z": 150.0 },
+          "inheritOnlyPosition": false
+        },
+        {
+          "type": "DecalDefinitionComponent",
+          "name": "danger_circle_q3_Decal",
+          "diffuseMap": "data/hd/env/porory/beacon/texture/beacon_c02_s07_o100.texture",
+          "normalMap": "",
+          "ormMap": "",
+          "edgeFade": 0.0,
+          "heightFade": 0.0,
+          "weight": 1.0,
+          "applyToAlbedo": true,
+          "applyToNormal": false,
+          "applyToOcclusion": false,
+          "applyToRoughness": false,
+          "applyToMetalness": false,
+          "thresholdValue": 0.0,
+          "thresholdHardness": 1.0,
+          "emissiveIntensity": 1.5,
+          "emissiveFocus": 1.0,
+          "lightMask": 16
+        }
+      ]
+    },
+    {
+      "type": "Entity",
+      "name": "danger_circle_q4",
+      "id": 586091864,
+      "components": [
+        {
+          "type": "TransformDefinitionComponent",
+          "name": "danger_circle_q4_Transform",
+          "position": { "x": -75.0, "y": 0.0, "z": 75.0 },
+          "orientation": { "x": 0.0, "y": 1.0, "z": 0.0, "w": 0.0 },
+          "scale": { "x": 150.0, "y": 1.0, "z": 150.0 },
+          "inheritOnlyPosition": false
+        },
+        {
+          "type": "DecalDefinitionComponent",
+          "name": "danger_circle_q4_Decal",
+          "diffuseMap": "data/hd/env/porory/beacon/texture/beacon_c02_s07_o100.texture",
+          "normalMap": "",
+          "ormMap": "",
+          "edgeFade": 0.0,
+          "heightFade": 0.0,
+          "weight": 1.0,
+          "applyToAlbedo": true,
+          "applyToNormal": false,
+          "applyToOcclusion": false,
+          "applyToRoughness": false,
+          "applyToMetalness": false,
+          "thresholdValue": 0.0,
+          "thresholdHardness": 1.0,
+          "emissiveIntensity": 1.5,
+          "emissiveFocus": 1.0,
+          "lightMask": 16
+        }
+      ]
+    }
+  ]
+}

@@ -82,6 +82,10 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
   - Baal Thật: `★ [BAAL THẬT] Baal`
   - Giúp nhận diện chuẩn xác ngay lập tức mục tiêu chính để dồn sát thương, tiết kiệm thời gian khi farm Baal Hell.
 - **Cảnh báo Quái Nguyền Rủa**: Gắn nhãn `★ [NGUYỀN RỦA] Oblivion Knight` cảnh báo các lời nguyền nguy hiểm (Decrepify, Lower Resist).
+- **Vòng Tròn Nguy Hiểm Dưới Chân Quái (Ground Danger Circle Decal)**:
+  - Tích hợp sẵn Prefab vòng tròn cảnh báo nguy hiểm đỏ rực `pf_danger_circle_red.json` (sử dụng Texture Decal viền dày đồng tâm `c02_s07_o100`, phát sáng trực tiếp trên mặt đất với độ sáng 150%).
+  - Vòng tròn chiếu dán chặt trên địa hình mặt đất và **di chuyển bám theo từng bước chân của quái**, giúp người chơi nhìn thấy ngay vùng nguy hiểm ở trung tâm màn hình mà không cần ngước nhìn lên thanh Target phía trên.
+
 
 ### 5. Hệ thống Dẫn đường & Đánh dấu Bản đồ (Navigation Beacons & Arrows)
 - **Mẹo Chỉ Hướng Map Chuẩn Pro Speedrun (Map Navigation Rule)**: Tích hợp chỉ dẫn định hướng `[Rẽ Trái]` hoặc `[Rẽ Phải]` trực tiếp vào tên khu vực trên map và lối chuyển tầng (an toàn 100% cho bảng Waypoint):
