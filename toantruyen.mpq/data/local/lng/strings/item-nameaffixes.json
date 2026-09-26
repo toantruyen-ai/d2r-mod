@@ -7214,13 +7214,13 @@
   {
     "id": 20816,
     "Key": "Scintillating",
-    "enUS": "Scintillating",
+    "enUS": "★ Scintillating [All Res]",
     "zhTW": "閃閃發光之",
     "deDE": "[ms]szintillierender[fs]szintillierende[ns]szintillierendes[pl]szintillierende",
     "esES": "[fs]centelleante[ms]centelleante[fp]centelleantes[mp]centelleantes",
     "frFR": "[ms]scintillant[mp]scintillants[fs]scintillante[fp]scintillantes",
     "itIT": "[ms]lucente[fs]lucente[mp]lucenti[fp]lucenti",
-    "koKR": "Scintillating",
+    "koKR": "★ Scintillating [All Res]",
     "plPL": "[fs]Błyskająca[ms]Błyskający[nl]Błyskające[nl]Błyskające[nl]Błyskające"
   },
   {
@@ -9134,13 +9134,13 @@
   {
     "id": 20976,
     "Key": "of Freedom",
-    "enUS": "of Freedom",
+    "enUS": "★ of Freedom [-15% Req]",
     "zhTW": "自由",
     "deDE": "der Freiheit",
     "esES": "de libertad",
     "frFR": "de liberté",
     "itIT": "della Libertà",
-    "koKR": "of Freedom",
+    "koKR": "★ of Freedom [-15% Req]",
     "plPL": "Wolności"
   },
   {
@@ -9338,13 +9338,13 @@
   {
     "id": 20993,
     "Key": "of Truth",
-    "enUS": "of Truth",
+    "enUS": "★ of Truth [7% FHR]",
     "zhTW": "真理",
     "deDE": "der Wahrheit",
     "esES": "de verdad",
     "frFR": "de vérité",
     "itIT": "della Verità",
-    "koKR": "of Truth",
+    "koKR": "★ of Truth [7% FHR]",
     "plPL": "Prawdy"
   },
   {
@@ -9566,13 +9566,13 @@
   {
     "id": 21012,
     "Key": "of Fervor",
-    "enUS": "of Fervor",
+    "enUS": "★ of Fervor [15% IAS]",
     "zhTW": "白熱",
     "deDE": "des Eifers",
     "esES": "de fervor",
     "frFR": "de ferveur",
     "itIT": "del Fervore",
-    "koKR": "of Fervor",
+    "koKR": "★ of Fervor [15% IAS]",
     "plPL": "Ferworu"
   },
   {

@@ -64,9 +64,15 @@ Bản mod tùy chỉnh cao cấp dành cho **Diablo II: Resurrected** (hỗ tr�
     - *Bí kíp Craft Caster Amulet (+2 Skill / 20 FCR)*: Công thức Ral + Pamethyst + Jewel + Amulet; Điều kiện VÀNG bắt buộc dùng nhân vật **Level 93+ đi Gamble** rồi craft ngay để đảm bảo 100% đạt ilvl 90+ mở khóa tiền tố +2 All Skills!
     - *Bí kíp Reroll Grand Charm (+1 Skill / 45 Life)*: Công thức 3 Perfect Gems; Điều kiện chỉ Grand Charm nhặt từ 3 Boss lớn: **Diablo (ilvl 94)**, **Nihlathak (ilvl 95)**, **Baal (ilvl 99)** mới có cơ hội ra dòng 41-45 Life!
     - *Bảng công thức ghép High Rune*: Tóm tắt loại ngọc cần thiết khi ép các Rune cao cấp (Pul $\rightarrow$ Jah).
-- **Đánh dấu sao tím cho Bùa & Ngọc**: Gắn thẻ sao nổi bật cho `★ Small Charm`, `★ Large Charm`, `★ Grand Charm`, và `★ Jewel`.
+- **Đánh dấu sao tím cho Bùa & Phân loại Jewel xịn**: Gắn thẻ sao nổi bật cho `★ Small Charm`, `★ Large Charm`, `★ Grand Charm`. Với Jewel: chỉ gắn `★` cho các dòng cực phẩm như `★ of Fervor [15% IAS]`, `★ Scintillating [All Res]`, `★ of Truth [7% FHR]`, `★ of Freedom [-15% Req]`; Jewel rác chỉ hiện `Jewel` thường để người chơi dễ dàng nhận biết đem đi craft hoặc vứt bớt.
 
 ### 4. Hệ thống Cảnh báo Quái Tử Thần & Phân Biệt Boss (Deadly Monster Warnings)
+- **Cảnh báo Boss có thuộc tính Nổ Xác khi chết (Fire Enchanted)**: Gắn tiền tố đỏ rực `★ [NỔ XÁC KHI CHẾT] Fire Enchanted` trên thanh máu của toàn bộ các Boss Tinh Anh mang dòng Cường Hóa Lửa (Corpsefire, The Countess, và mọi Boss vàng ngẫu nhiên), nhắc người chơi lùi xa khi boss sắp chết để tránh bị nổ xác tiễn lên bảng đếm số.
+- **Cảnh báo Trùm nổ xác Hội đồng Travincal**: Gắn nhãn đặc biệt `★ [TRÙM NỔ XÁC] Geleb Flamefinger` (Hội đồng Durance of Hate 3 & Travincal).
+- **Cảnh báo Boss Sốc Damage Cận Chiến & Nguyền Rủa**:
+  - `★ [SỐC DMG CẬN CHIẾN] Extra Strong`: Tăng gấp đôi sát thương cận chiến, cảnh giác bị 1-hit.
+  - `★ [NGUYỀN RỦA] Cursed`: Boss gây nguyền rủa Amplify Damage (nhận thêm +100% sát thương vật lý).
+  - `★ [SÉT NỔ] Lightning Enchanted`: Bắn chùm tia điện tích cực mạnh khi bị trúng đòn.
 - **Cảnh báo Búp bê nổ tử thần (Death Explosion)**: Gắn tiền tố đỏ rực `★ [NỔ TỬ THẦN]` trên thanh máu/tên của toàn bộ dòng quái búp bê xương (`Undead Stygian Doll`, `Undead Soul Killer`, `Undead Flayer`, `Undead Fetish`, `Undead Rat Man`). Nhắc nhở người chơi không tiêu diệt quái ở cự ly gần hoặc không teleport thẳng vào đàn búp bê để tránh bị 1-shot sốc chết tức tưởi.
 - **Cảnh báo Linh hồn sét tử thần (Piercing Lightning)**: Gắn nhãn `★ [SÉT TỬ THẦN]` trên `Burning Soul`, `Black Soul`, `Gloam`, `Swamp Ghost` giúp người chơi lập tức chuẩn bị uống bình kháng sét, bật đồ chống sét hoặc giữ khoảng cách né tia sét xuyên màn hình.
 - **Cảnh báo Rắn độc tử thần (Bugged Multi-Hit Poison Cloud)**: Gắn nhãn `★ [ĐỘC TỬ THẦN]` trên dòng họ rắn độc Act 5 & Act 2 (`Tomb Viper`, `Pit Viper`, `Salamander`, `Claw Viper`, `Serpent Magus`), đặc biệt cảnh giác đám mây độc bug multi-hit tại hang Nihlathak (Halls of Vaught).
